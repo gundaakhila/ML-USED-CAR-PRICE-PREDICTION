@@ -1,0 +1,1501 @@
+car_id,brand,model,year,km_driven,fuel,seller_type,transmission,owner,mileage_kmpl,engine_cc,max_power_bhp,seats,insurance,selling_price
+1,Mahindra,Bolero,2023,130355,Petrol,Individual,Manual,Second Owner,25.8,1995,137.7,4,Yes,4171000
+2,Toyota,Etios,2023,32798,Diesel,Dealer,Manual,Second Owner,14.3,1000,55.4,5,No,2417000
+3,Kia,Sonet,2025,96649,Diesel,Individual,Manual,First Owner,25.4,800,47.5,5,Yes,2358000
+4,Tata,Altroz,2021,69887,Diesel,Individual,Manual,First Owner,12.2,1199,79.6,5,No,2859000
+5,Mahindra,Bolero,2016,24477,Petrol,Individual,Manual,First Owner,22.3,1000,74.8,5,Yes,2258000
+6,Volkswagen,Vento,2023,153338,Diesel,Dealer,Manual,First Owner,19,2198,188.7,5,Yes,5678000
+7,Honda,City,2019,132815,Petrol,Trustmark Dealer,Manual,First Owner,15.2,1995,165,5,Yes,4643000
+8,Mahindra,XUV500,2021,179598,CNG,Individual,Manual,Third Owner,13.7,2198,163.5,5,Yes,4629000
+9,Kia,Sonet,2025,132426,Petrol,Individual,Automatic,First Owner,19,1598,92,5,Yes,3583000
+10,Tata,Nexon,2012,147961,Petrol,Dealer,Manual,Fourth & Above Owner,14,800,52,4,Yes,1226000
+11,Toyota,Etios,2016,29335,Petrol,Individual,Manual,Second Owner,19.8,2494,169.2,5,No,4694000
+12,Kia,Sonet,2014,147326,Petrol,Trustmark Dealer,Automatic,First Owner,22,1598,122.7,5,Yes,3246000
+13,Kia,Carens,2015,91610,Diesel,Individual,Manual,Third Owner,25.2,800,45.8,5,Yes,1411000
+14,Honda,Amaze,2013,16442,CNG,Trustmark Dealer,Manual,First Owner,22.9,800,58.8,5,Yes,1744000
+15,Ford,Figo,2020,51289,Diesel,Dealer,Manual,Third Owner,13,2198,190.2,5,Yes,5100000
+16,Tata,Tiago,2014,58747,Petrol,Dealer,Manual,First Owner,16.9,1598,127.3,7,Yes,3282000
+17,Hyundai,Grand i10,2013,42327,Petrol,Dealer,Manual,First Owner,16.6,2198,182.2,5,Yes,4596000
+18,Kia,Carens,2021,152271,Diesel,Individual,Automatic,First Owner,26.6,2198,173.3,5,Yes,5232000
+19,Ford,EcoSport,2022,77827,CNG,Individual,Manual,First Owner,25.9,2198,136.8,5,Yes,4112000
+20,Hyundai,Grand i10,2020,111464,Petrol,Individual,Manual,First Owner,17.9,1995,117.4,5,Yes,3510000
+21,Tata,Altroz,2018,136184,Petrol,Dealer,Automatic,First Owner,13.1,1995,167.6,7,Yes,4437000
+22,Maruti,Alto,2017,92051,Petrol,Dealer,Automatic,First Owner,26.3,1199,95.1,5,Yes,2949000
+23,Volkswagen,Polo,2012,155653,CNG,Dealer,Manual,Third Owner,26.2,2494,187.4,7,No,4510000
+24,Ford,Aspire,2016,64722,Diesel,Individual,Manual,First Owner,25.7,1000,61.6,5,No,2117000
+25,Renault,Kwid,2023,97036,Petrol,Individual,Automatic,First Owner,25.5,2494,189.8,5,Yes,5684000
+26,Maruti,Alto,2022,152595,Petrol,Individual,Manual,Second Owner,19.7,1197,67.1,5,Yes,2687000
+27,Volkswagen,Polo,2025,71960,CNG,Dealer,Manual,Second Owner,14.8,1000,59.2,5,Yes,2523000
+28,Honda,Amaze,2022,24552,Petrol,Individual,Automatic,Third Owner,19.6,1199,79,5,Yes,2855000
+29,Mahindra,Scorpio,2014,146880,Petrol,Individual,Manual,First Owner,19.9,1497,105.6,5,Yes,2794000
+30,Toyota,Fortuner,2012,159692,Diesel,Dealer,Manual,First Owner,19.8,1000,59.2,5,No,1480000
+31,Renault,Triber,2015,5887,Petrol,Individual,Manual,First Owner,20.6,800,47.4,5,Yes,1558000
+32,Honda,Jazz,2024,36802,Petrol,Individual,Manual,First Owner,16.1,1497,120.4,5,Yes,3983000
+33,Tata,Tiago,2013,90024,Diesel,Individual,Manual,Third Owner,17.9,2494,186.9,5,Yes,4626000
+34,Honda,Jazz,2013,123639,CNG,Dealer,Manual,First Owner,18.9,1497,110.3,4,No,2807000
+35,Mahindra,XUV500,2014,123248,Diesel,Individual,Manual,Third Owner,14.1,2494,176.7,7,No,4547000
+36,Tata,Tiago,2019,86938,CNG,Dealer,Manual,First Owner,19.3,1598,142.5,5,Yes,4043000
+37,Renault,Duster,2019,127746,Diesel,Individual,Manual,Fourth & Above Owner,25,1197,67.9,5,Yes,2151000
+38,Mahindra,XUV500,2023,31049,Diesel,Dealer,Manual,First Owner,25.2,1199,73.5,5,Yes,2905000
+39,Hyundai,i20,2018,82789,Petrol,Individual,Manual,Third Owner,18.6,1199,93.1,7,Yes,2659000
+40,Toyota,Innova,2017,89526,Diesel,Individual,Manual,Third Owner,20.3,800,47.8,5,Yes,1543000
+41,Renault,Triber,2020,143918,LPG,Individual,Manual,Third Owner,12.5,1197,90.5,5,Yes,2640000
+42,Hyundai,i20,2015,51220,Petrol,Dealer,Manual,First Owner,22.8,1197,89.6,5,Yes,2575000
+43,Volkswagen,Polo,2023,51163,Petrol,Individual,Manual,First Owner,18.5,800,71.2,7,Yes,2759000
+44,Renault,Triber,2012,139837,Petrol,Dealer,Automatic,Second Owner,19.1,2494,214.3,4,Yes,5338000
+45,Volkswagen,Ameo,2019,122126,Petrol,Individual,Manual,First Owner,26,800,70.5,5,Yes,2305000
+46,Tata,Altroz,2018,86486,Petrol,Trustmark Dealer,Manual,First Owner,19.4,2494,147.1,5,Yes,4310000
+47,Hyundai,i20,2018,80277,Diesel,Dealer,Automatic,First Owner,12.3,800,68.3,4,Yes,2290000
+48,Toyota,Innova,2014,109245,LPG,Individual,Manual,First Owner,15.6,1000,59.5,5,Yes,1507000
+49,Mahindra,Scorpio,2015,127332,Petrol,Dealer,Manual,First Owner,19.6,1000,77.2,5,Yes,2076000
+50,Kia,Sonet,2021,27931,Petrol,Individual,Manual,First Owner,18.8,1598,128.2,5,No,3913000
+51,Honda,Jazz,2020,94116,Petrol,Individual,Manual,First Owner,25.8,1995,121,5,Yes,3752000
+52,Maruti,Baleno,2017,60633,CNG,Trustmark Dealer,Automatic,First Owner,20.7,800,61.7,5,Yes,2230000
+53,Toyota,Etios,2016,56913,Petrol,Dealer,Manual,First Owner,23,1197,68,5,Yes,2127000
+54,Hyundai,Creta,2014,99776,Petrol,Individual,Automatic,First Owner,19.5,1000,65.3,5,Yes,2125000
+55,Kia,Carens,2020,30991,Petrol,Individual,Manual,First Owner,19,2198,191.8,7,Yes,5357000
+56,Toyota,Fortuner,2016,109092,Petrol,Individual,Manual,Third Owner,19.1,2494,152.2,5,Yes,4061000
+57,Hyundai,i20,2016,146633,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner,18.6,1000,57.3,5,Yes,1680000
+58,Ford,Figo,2025,152973,Diesel,Individual,Manual,Fourth & Above Owner,20.6,1000,70.5,4,No,2806000
+59,Ford,EcoSport,2015,100556,Diesel,Individual,Manual,Third Owner,16,2494,211.4,5,Yes,5377000
+60,Volkswagen,Polo,2025,67875,Diesel,Individual,Manual,First Owner,26.3,1199,69.2,7,Yes,2843000
+61,Toyota,Fortuner,2015,161989,Petrol,Individual,Automatic,Second Owner,17.3,1497,101,7,Yes,2869000
+62,Ford,EcoSport,2023,67120,Diesel,Individual,Automatic,First Owner,14.4,2494,215.7,5,Yes,6563000
+63,Hyundai,Creta,2012,138060,Diesel,Individual,Manual,Second Owner,13.5,1598,94.5,5,Yes,2305000
+64,Volkswagen,Vento,2018,115041,Petrol,Individual,Manual,First Owner,12.2,2494,164.3,5,Yes,4572000
+65,Hyundai,Creta,2020,133467,Diesel,Individual,Manual,Second Owner,18.8,2494,205.1,5,Yes,5529000
+66,Volkswagen,Polo,2014,150328,Petrol,Trustmark Dealer,Manual,First Owner,15,1995,147.7,5,Yes,3834000
+67,Toyota,Innova,2023,123490,Diesel,Individual,Automatic,First Owner,12.3,2494,209.8,5,Yes,6244000
+68,Kia,Carens,2024,131155,Petrol,Dealer,Manual,Second Owner,20.3,1497,88.2,5,Yes,3047000
+69,Mahindra,Scorpio,2013,33230,LPG,Dealer,Manual,First Owner,22.9,1497,130.6,5,No,3166000
+70,Renault,Kwid,2014,64778,Petrol,Dealer,Automatic,First Owner,13.4,2198,192.8,5,Yes,4762000
+71,Kia,Sonet,2012,50833,Diesel,Dealer,Manual,First Owner,19.4,1199,72.5,5,Yes,2072000
+72,Tata,Tiago,2017,27625,Diesel,Individual,Automatic,First Owner,23.9,2494,140.1,7,Yes,4111000
+73,Hyundai,Creta,2022,37088,Diesel,Individual,Automatic,First Owner,27.8,1995,178.8,5,No,5360000
+74,Tata,Tiago,2022,177239,Petrol,Individual,Manual,Third Owner,22.7,1995,143.4,5,Yes,4213000
+75,Kia,Seltos,2018,108937,Petrol,Individual,Manual,First Owner,15.9,1197,89.8,5,No,2808000
+76,Volkswagen,Ameo,2022,81361,Diesel,Dealer,Automatic,First Owner,23.5,1199,91.8,5,No,3358000
+77,Renault,Kwid,2022,93229,Petrol,Dealer,Automatic,First Owner,21.6,1995,164.9,4,Yes,5020000
+78,Renault,Kwid,2013,140189,Petrol,Dealer,Manual,Second Owner,15.4,1497,124.9,5,Yes,2977000
+79,Maruti,Dzire,2019,95265,Diesel,Individual,Automatic,Second Owner,25.6,1197,74,5,Yes,2655000
+80,Renault,Duster,2025,102718,Petrol,Trustmark Dealer,Manual,Second Owner,18.8,800,50.6,5,Yes,2421000
+81,Mahindra,Scorpio,2017,65710,Petrol,Individual,Manual,Second Owner,27.4,1995,170.9,7,Yes,4586000
+82,Renault,Triber,2025,99876,Petrol,Individual,Automatic,Third Owner,23.6,1598,133.7,7,Yes,4257000
+83,Kia,Sonet,2015,35949,Petrol,Individual,Manual,Second Owner,22.3,1995,152.9,4,Yes,3877000
+84,Maruti,Swift,2016,158619,Diesel,Dealer,Automatic,Second Owner,23.7,1000,89.8,7,Yes,2775000
+85,Kia,Seltos,2019,73136,Diesel,Individual,Manual,First Owner,19.6,1199,96.8,5,Yes,3223000
+86,Kia,Seltos,2025,116541,Diesel,Trustmark Dealer,Manual,Second Owner,20.1,1000,62.6,5,Yes,2692000
+87,Honda,City,2014,66842,LPG,Trustmark Dealer,Manual,First Owner,25.6,2198,186,5,Yes,4682000
+88,Maruti,Dzire,2014,31990,Petrol,Dealer,Manual,Second Owner,22.9,1995,138.7,5,Yes,3597000
+89,Kia,Carens,2025,152265,Petrol,Individual,Manual,Second Owner,26.4,800,45,5,Yes,2239000
+90,Honda,Jazz,2025,35109,Petrol,Dealer,Manual,Second Owner,26.3,1000,66.2,5,Yes,2622000
+91,Honda,Amaze,2022,135356,Petrol,Dealer,Manual,Second Owner,27.6,1000,81.7,5,Yes,2804000
+92,Maruti,Baleno,2015,155305,CNG,Individual,Manual,First Owner,23.2,1199,106.2,5,Yes,2737000
+93,Tata,Altroz,2012,133133,Petrol,Individual,Manual,First Owner,20,1197,77.4,7,Yes,1921000
+94,Volkswagen,Ameo,2020,170582,Petrol,Individual,Automatic,First Owner,14.7,800,50.9,7,Yes,1962000
+95,Mahindra,Bolero,2019,6306,Petrol,Individual,Manual,Third Owner,23.3,1000,74.7,4,Yes,2347000
+96,Volkswagen,Polo,2019,8849,Diesel,Individual,Manual,Second Owner,16.7,2494,208,5,Yes,5716000
+97,Renault,Duster,2025,17360,Diesel,Trustmark Dealer,Manual,Second Owner,16.5,800,64.9,5,Yes,2714000
+98,Mahindra,Scorpio,2021,116072,Petrol,Individual,Manual,Second Owner,15.8,2494,186,5,Yes,5158000
+99,Renault,Duster,2017,99767,LPG,Individual,Manual,Second Owner,26,1995,153.8,5,Yes,4264000
+100,Kia,Carens,2018,173035,Petrol,Trustmark Dealer,Manual,Third Owner,25.9,1000,63.5,5,Yes,1884000
+101,Hyundai,i20,2017,59330,Petrol,Individual,Manual,Second Owner,22.1,1000,70.1,5,Yes,1937000
+102,Maruti,Baleno,2020,56707,CNG,Dealer,Manual,Second Owner,19.6,1497,95.7,5,Yes,3130000
+103,Mahindra,XUV500,2014,23689,Petrol,Individual,Automatic,Second Owner,22.8,1497,128.7,5,Yes,3367000
+104,Mahindra,Scorpio,2025,34084,CNG,Individual,Manual,First Owner,21.7,1199,70.7,5,Yes,2963000
+105,Kia,Seltos,2014,45387,LPG,Individual,Manual,Second Owner,18.7,1197,94.3,5,Yes,2477000
+106,Tata,Tiago,2014,79816,Diesel,Individual,Manual,First Owner,18.1,1199,76.9,5,No,2296000
+107,Honda,City,2021,7642,Diesel,Individual,Manual,First Owner,18.1,1199,85.9,5,Yes,3182000
+108,Kia,Sonet,2014,47137,Petrol,Dealer,Manual,Second Owner,21.4,1000,65.5,5,Yes,1818000
+109,Ford,EcoSport,2020,67260,CNG,Individual,Manual,First Owner,22.4,1497,99.3,5,No,3096000
+110,Honda,Jazz,2023,151510,Petrol,Dealer,Manual,Fourth & Above Owner,19.2,1497,96,5,Yes,3191000
+111,Maruti,Baleno,2015,53442,Diesel,Individual,Manual,First Owner,27.5,1497,121.8,5,Yes,3373000
+112,Honda,Amaze,2024,108061,CNG,Individual,Manual,First Owner,13.3,800,54.2,5,No,2499000
+113,Tata,Nexon,2018,139066,LPG,Dealer,Manual,First Owner,17.6,1598,128.5,5,Yes,3635000
+114,Honda,City,2025,130844,Diesel,Individual,Manual,First Owner,18.7,1000,71,5,Yes,2875000
+115,Maruti,Baleno,2020,104575,Petrol,Dealer,Manual,First Owner,12.3,1995,147.9,7,Yes,4224000
+116,Tata,Altroz,2022,6813,CNG,Trustmark Dealer,Manual,First Owner,17.8,1199,88.7,5,Yes,3111000
+117,Volkswagen,Polo,2023,98027,Diesel,Dealer,Manual,First Owner,16.4,1497,133.5,5,Yes,4097000
+118,Mahindra,Bolero,2018,128489,CNG,Individual,Manual,First Owner,20.1,1497,101.6,5,Yes,3085000
+119,Mahindra,Bolero,2020,89381,Diesel,Individual,Manual,First Owner,17.4,1497,93.2,5,Yes,3112000
+120,Renault,Duster,2023,60276,Petrol,Dealer,Manual,Second Owner,23.6,1000,86.9,5,Yes,3039000
+121,Volkswagen,Vento,2014,46243,Petrol,Dealer,Manual,First Owner,20.2,1497,91.5,5,Yes,2567000
+122,Volkswagen,Vento,2015,65272,Diesel,Individual,Manual,Second Owner,14.1,1197,100.8,5,Yes,2881000
+123,Honda,Amaze,2025,178123,Diesel,Individual,Manual,Second Owner,24,1199,72.2,5,Yes,2903000
+124,Mahindra,Scorpio,2019,70618,Petrol,Individual,Manual,First Owner,13.6,1000,78.1,5,Yes,2541000
+125,Maruti,Alto,2017,6920,Diesel,Individual,Manual,Third Owner,25.4,1199,72.3,5,No,2252000
+126,Toyota,Etios,2016,111121,Petrol,Individual,Manual,Second Owner,26.9,2494,217.7,7,Yes,5582000
+127,Toyota,Fortuner,2024,81872,Diesel,Individual,Automatic,Second Owner,17.2,2198,164.4,7,Yes,5185000
+128,Tata,Nexon,2015,86132,Petrol,Dealer,Manual,First Owner,26.8,1197,79.6,5,No,2356000
+129,Mahindra,Bolero,2019,7093,Petrol,Trustmark Dealer,Manual,Second Owner,24.7,800,47.9,7,Yes,1923000
+130,Mahindra,Bolero,2012,17905,Petrol,Dealer,Automatic,Second Owner,26.8,800,54.4,5,Yes,1501000
+131,Toyota,Etios,2025,126759,Petrol,Individual,Automatic,First Owner,22.7,1598,127.3,5,Yes,4300000
+132,Mahindra,Bolero,2020,160423,Petrol,Individual,Manual,First Owner,15.8,1197,82,5,Yes,2665000
+133,Honda,Jazz,2012,35981,Petrol,Trustmark Dealer,Manual,First Owner,26.3,1199,76.3,5,No,1996000
+134,Ford,Figo,2019,78903,Petrol,Trustmark Dealer,Manual,Second Owner,14.9,800,60.2,5,Yes,2095000
+135,Hyundai,Creta,2015,75821,CNG,Trustmark Dealer,Manual,First Owner,15.4,2198,153,5,Yes,4048000
+136,Volkswagen,Polo,2020,114200,CNG,Dealer,Manual,Second Owner,16.3,800,48.6,5,Yes,1918000
+137,Renault,Kwid,2025,87289,Petrol,Individual,Manual,First Owner,16.9,1497,90.4,5,Yes,3321000
+138,Tata,Nexon,2022,121506,LPG,Dealer,Manual,Second Owner,20.2,1598,127.5,5,No,3940000
+139,Ford,Figo,2016,83513,Petrol,Individual,Automatic,First Owner,23.4,1000,89.1,5,Yes,2562000
+140,Toyota,Fortuner,2014,155946,Diesel,Individual,Automatic,First Owner,26.8,1995,126,5,Yes,3535000
+141,Volkswagen,Vento,2020,143746,Diesel,Dealer,Manual,First Owner,13.4,1995,163.7,5,Yes,4673000
+142,Mahindra,XUV500,2022,55516,Petrol,Individual,Manual,First Owner,27.3,800,46.5,5,No,2219000
+143,Renault,Kwid,2025,74212,Petrol,Individual,Manual,First Owner,26.7,1199,82,5,Yes,3166000
+144,Mahindra,XUV500,2025,138498,Petrol,Individual,Automatic,First Owner,12.9,1199,87.2,5,Yes,3372000
+145,Maruti,Dzire,2020,135970,Petrol,Individual,Manual,First Owner,17.8,1497,96.4,5,Yes,2945000
+146,Maruti,Dzire,2015,95009,Diesel,Dealer,Manual,Third Owner,25,800,58.8,5,Yes,1829000
+147,Renault,Duster,2022,166015,Petrol,Individual,Manual,Second Owner,21.8,800,68.7,7,Yes,2443000
+148,Renault,Kwid,2015,49816,Petrol,Individual,Manual,First Owner,24.5,1995,175.7,5,Yes,4679000
+149,Toyota,Etios,2023,9138,Petrol,Individual,Manual,First Owner,23.5,2494,145.9,5,No,4658000
+150,Renault,Kwid,2019,96176,Petrol,Individual,Automatic,First Owner,19.9,800,51.6,5,Yes,1994000
+151,Honda,City,2013,80945,Petrol,Individual,Manual,Second Owner,12.7,1000,89.3,5,Yes,2169000
+152,Mahindra,Bolero,2020,9017,Petrol,Dealer,Manual,First Owner,21.3,1598,103,5,Yes,3360000
+153,Ford,EcoSport,2024,15451,Diesel,Individual,Manual,First Owner,12.8,1598,126.6,5,Yes,4275000
+154,Kia,Sonet,2025,98863,Petrol,Dealer,Manual,First Owner,21.7,1000,63.9,5,No,2596000
+155,Renault,Kwid,2017,15278,Petrol,Trustmark Dealer,Automatic,Second Owner,24.8,2494,168.3,5,Yes,4642000
+156,Tata,Nexon,2020,48764,Diesel,Dealer,Automatic,First Owner,21.4,1199,74,5,Yes,2820000
+157,Maruti,Dzire,2019,128030,Petrol,Individual,Automatic,Second Owner,28,1995,169.5,5,Yes,4685000
+158,Honda,Amaze,2018,137206,Diesel,Individual,Automatic,First Owner,19.3,1598,137.3,5,No,3923000
+159,Volkswagen,Vento,2024,67943,Diesel,Dealer,Manual,First Owner,24,1197,78.3,7,No,3086000
+160,Kia,Carens,2025,100667,Petrol,Individual,Manual,First Owner,22.7,2198,184.2,7,Yes,5574000
+161,Ford,Figo,2012,59318,Petrol,Dealer,Manual,First Owner,27.9,1995,134.7,4,Yes,3318000
+162,Kia,Sonet,2025,108423,Petrol,Dealer,Automatic,First Owner,23.4,2494,145.8,5,Yes,5036000
+163,Renault,Triber,2023,108998,Petrol,Trustmark Dealer,Manual,First Owner,14.6,1197,97.6,5,Yes,3302000
+164,Toyota,Etios,2014,65128,Petrol,Trustmark Dealer,Manual,First Owner,27.3,800,60.7,5,Yes,1582000
+165,Maruti,Baleno,2022,26869,Petrol,Individual,Automatic,First Owner,22.7,1000,64.6,5,No,2481000
+166,Maruti,Baleno,2025,10039,Petrol,Individual,Manual,First Owner,12.9,800,51.1,5,Yes,2542000
+167,Volkswagen,Vento,2013,157353,Petrol,Trustmark Dealer,Manual,Third Owner,22.5,1497,133.5,7,No,3091000
+168,Toyota,Fortuner,2016,117935,Diesel,Individual,Manual,First Owner,26.1,1000,85.2,7,Yes,2482000
+169,Mahindra,XUV500,2016,15442,Diesel,Individual,Manual,Second Owner,21.2,1197,99.8,5,Yes,2762000
+170,Hyundai,Verna,2016,78788,Petrol,Dealer,Manual,First Owner,17.7,2198,130.7,5,Yes,3627000
+171,Honda,Jazz,2015,124729,Petrol,Individual,Manual,First Owner,25.1,1497,121.9,5,Yes,3244000
+172,Maruti,Dzire,2016,32586,CNG,Dealer,Manual,First Owner,24.5,1199,74.9,5,Yes,2171000
+173,Tata,Nexon,2014,58053,Diesel,Dealer,Automatic,First Owner,20.7,1497,133.5,5,Yes,3559000
+174,Maruti,Dzire,2023,91346,Diesel,Individual,Manual,First Owner,14.5,1598,90.8,5,Yes,3253000
+175,Kia,Carens,2012,72087,Petrol,Trustmark Dealer,Manual,First Owner,16,1995,134.3,5,Yes,3257000
+176,Maruti,Swift,2016,148697,Diesel,Dealer,Manual,Second Owner,23.8,2494,174.6,5,Yes,4600000
+177,Maruti,Alto,2024,39397,Petrol,Dealer,Manual,First Owner,24.9,800,67.1,5,Yes,2644000
+178,Hyundai,Creta,2020,63671,Petrol,Individual,Manual,First Owner,16.5,1199,98.1,4,Yes,3176000
+179,Hyundai,Verna,2024,121214,Petrol,Individual,Automatic,First Owner,17.9,2494,169.9,5,Yes,5251000
+180,Ford,EcoSport,2020,71897,Petrol,Dealer,Manual,First Owner,13.2,1497,112,5,Yes,3490000
+181,Mahindra,XUV500,2015,162221,Petrol,Individual,Manual,Second Owner,23.4,2198,185.2,5,Yes,4691000
+182,Tata,Nexon,2014,141355,Petrol,Individual,Manual,First Owner,12.1,800,44.5,5,Yes,1162000
+183,Maruti,Alto,2012,143682,Diesel,Dealer,Manual,First Owner,12.7,1199,99.6,7,Yes,2430000
+184,Maruti,Alto,2013,179398,CNG,Individual,Manual,First Owner,12.1,2494,219.8,5,Yes,5356000
+185,Honda,City,2019,19924,Petrol,Individual,Manual,First Owner,22.3,800,44.9,5,Yes,1822000
+186,Hyundai,Verna,2012,118143,Petrol,Individual,Manual,Second Owner,18.7,800,45.3,4,Yes,1086000
+187,Tata,Tiago,2019,115253,Petrol,Individual,Automatic,Second Owner,16.8,1199,80.4,5,Yes,2748000
+188,Volkswagen,Vento,2024,105297,Diesel,Dealer,Manual,First Owner,26.6,1197,69.5,5,Yes,2864000
+189,Ford,Figo,2018,5869,Petrol,Individual,Manual,First Owner,15.1,1995,143.2,5,Yes,4126000
+190,Mahindra,Scorpio,2019,102088,LPG,Individual,Manual,Second Owner,18.2,1197,96.4,5,Yes,2850000
+191,Toyota,Fortuner,2023,6014,Petrol,Dealer,Manual,First Owner,27,800,59.9,4,Yes,2517000
+192,Mahindra,Scorpio,2017,15103,Petrol,Trustmark Dealer,Manual,First Owner,18.8,1000,61.9,7,No,2213000
+193,Kia,Carens,2023,115317,Diesel,Individual,Manual,Second Owner,20.9,1199,93.4,5,Yes,3288000
+194,Maruti,Alto,2025,169530,Diesel,Individual,Automatic,First Owner,13.3,800,63.2,7,Yes,2907000
+195,Ford,Figo,2020,87409,Petrol,Individual,Manual,First Owner,24.6,800,70.1,5,No,2374000
+196,Kia,Sonet,2014,28248,Petrol,Dealer,Manual,First Owner,18.8,2198,132.2,5,Yes,3610000
+197,Tata,Tiago,2021,179588,LPG,Individual,Manual,Second Owner,24.8,1995,158.1,5,Yes,4615000
+198,Toyota,Etios,2015,165133,Petrol,Individual,Manual,First Owner,16.1,2198,191,5,No,4852000
+199,Hyundai,Creta,2024,160242,CNG,Individual,Manual,Third Owner,18.8,1199,87,5,Yes,3073000
+200,Ford,Aspire,2017,13024,Petrol,Individual,Automatic,Second Owner,24.6,1598,108.1,5,Yes,3083000
+201,Ford,Aspire,2019,90947,Diesel,Dealer,Manual,First Owner,27.6,1197,73,5,Yes,2512000
+202,Maruti,Swift,2016,179875,Diesel,Dealer,Manual,First Owner,13,2198,187.6,5,Yes,4953000
+203,Renault,Duster,2014,155368,Petrol,Dealer,Manual,First Owner,25,1199,82.5,4,Yes,2125000
+204,Ford,Figo,2017,96829,CNG,Individual,Manual,First Owner,16.8,1197,104.6,5,Yes,2882000
+205,Honda,Jazz,2015,97708,Petrol,Individual,Manual,Second Owner,20.8,1199,101.5,5,Yes,2687000
+206,Toyota,Etios,2020,91664,Petrol,Individual,Manual,First Owner,16.6,1598,109,5,Yes,3410000
+207,Toyota,Etios,2024,154329,Diesel,Individual,Manual,First Owner,21.8,1995,149.8,5,Yes,4609000
+208,Honda,Jazz,2014,148927,Petrol,Individual,Manual,Second Owner,17.7,1995,111.6,5,No,2926000
+209,Volkswagen,Polo,2015,90178,Diesel,Individual,Automatic,First Owner,17.3,1199,77,5,Yes,2399000
+210,Honda,City,2018,106121,Petrol,Individual,Manual,Second Owner,12.6,2198,175.5,5,Yes,4845000
+211,Honda,City,2018,25025,Petrol,Trustmark Dealer,Manual,Second Owner,14.4,1995,157.1,5,Yes,4289000
+212,Toyota,Fortuner,2023,140530,Petrol,Dealer,Automatic,First Owner,26.7,1000,67.4,5,Yes,2898000
+213,Mahindra,XUV500,2023,68610,Petrol,Trustmark Dealer,Automatic,First Owner,28,2198,183.1,5,Yes,5504000
+214,Toyota,Fortuner,2015,75843,Petrol,Individual,Manual,Second Owner,24.5,2494,157.8,5,Yes,4041000
+215,Renault,Triber,2017,112237,Diesel,Trustmark Dealer,Manual,Second Owner,16.6,1497,106.5,5,No,3041000
+216,Maruti,Baleno,2023,179499,CNG,Individual,Automatic,First Owner,18.4,1199,85.8,4,Yes,3058000
+217,Kia,Seltos,2024,135299,Diesel,Individual,Manual,First Owner,23.8,1199,80.2,5,Yes,3059000
+218,Mahindra,Bolero,2014,174578,Petrol,Dealer,Manual,First Owner,27.5,1199,106,5,Yes,2742000
+219,Hyundai,Creta,2017,10668,Petrol,Individual,Manual,First Owner,19.3,1598,126.9,7,Yes,3597000
+220,Kia,Seltos,2023,78233,Petrol,Individual,Manual,First Owner,25.3,1199,88.6,7,Yes,3033000
+221,Maruti,Alto,2013,160489,Petrol,Individual,Manual,First Owner,27.6,1995,145.4,5,Yes,3512000
+222,Renault,Triber,2019,86982,Petrol,Individual,Manual,First Owner,26,1995,120.8,5,No,3672000
+223,Renault,Duster,2013,111133,Petrol,Individual,Manual,First Owner,15.6,1497,101.8,5,Yes,2666000
+224,Hyundai,Verna,2022,15751,Petrol,Dealer,Manual,Fourth & Above Owner,12.1,1497,117.6,5,Yes,3599000
+225,Mahindra,XUV500,2018,51218,CNG,Dealer,Manual,Second Owner,19.9,2198,192,5,No,4921000
+226,Volkswagen,Ameo,2020,131649,Petrol,Individual,Automatic,First Owner,20.5,1995,166.7,7,Yes,4710000
+227,Honda,Amaze,2012,12352,Petrol,Dealer,Automatic,First Owner,15.2,1995,130.7,5,Yes,3497000
+228,Mahindra,Bolero,2019,93835,Petrol,Individual,Manual,First Owner,16.6,1598,112.2,5,No,3307000
+229,Volkswagen,Polo,2018,102493,Petrol,Individual,Manual,First Owner,24.2,1995,115.5,7,Yes,3393000
+230,Renault,Triber,2017,33927,Diesel,Trustmark Dealer,Manual,Third Owner,19.5,1995,116.9,5,Yes,3437000
+231,Toyota,Fortuner,2017,177166,Petrol,Individual,Manual,First Owner,17.1,1000,71.5,4,Yes,2133000
+232,Maruti,Dzire,2017,106948,Petrol,Dealer,Manual,Fourth & Above Owner,22,1000,73.6,4,Yes,2241000
+233,Hyundai,Verna,2020,34493,Petrol,Individual,Manual,First Owner,22.4,1995,128.2,5,Yes,3877000
+234,Maruti,Alto,2013,36707,Petrol,Dealer,Automatic,Second Owner,24.3,1995,154.6,5,Yes,3878000
+235,Tata,Altroz,2012,143368,Petrol,Dealer,Manual,First Owner,14.5,1995,158.8,5,Yes,3950000
+236,Tata,Nexon,2024,161470,Diesel,Individual,Manual,First Owner,23.9,1497,98,5,Yes,3506000
+237,Mahindra,Bolero,2023,40842,Diesel,Individual,Manual,First Owner,21.6,800,65.2,7,Yes,2546000
+238,Renault,Duster,2017,18261,Diesel,Dealer,Manual,Second Owner,12.9,1000,62.2,5,Yes,2106000
+239,Renault,Triber,2021,81709,Petrol,Individual,Manual,Second Owner,24.4,2494,184.7,5,Yes,5221000
+240,Honda,Jazz,2022,100985,Diesel,Individual,Manual,Second Owner,18.1,2198,182.8,5,Yes,5197000
+241,Honda,City,2019,111616,Petrol,Dealer,Manual,Second Owner,17.3,2198,162.2,5,Yes,4524000
+242,Honda,Jazz,2014,72173,Petrol,Individual,Automatic,Second Owner,19.2,800,69.4,5,Yes,1929000
+243,Toyota,Innova,2023,36781,Diesel,Dealer,Manual,First Owner,17.5,1598,91.2,7,Yes,3201000
+244,Kia,Sonet,2021,18652,Petrol,Individual,Automatic,First Owner,17.4,2494,188.5,5,Yes,5430000
+245,Ford,EcoSport,2012,10103,Petrol,Individual,Manual,Second Owner,24.9,2198,164.1,5,Yes,4186000
+246,Kia,Carens,2020,30500,Diesel,Dealer,Manual,Second Owner,14,1197,93.5,7,Yes,3041000
+247,Maruti,Baleno,2024,105336,Petrol,Individual,Manual,Second Owner,27.5,1199,100.9,5,Yes,3547000
+248,Kia,Seltos,2024,171601,Diesel,Individual,Manual,First Owner,20.9,1197,96.2,5,Yes,3433000
+249,Toyota,Innova,2012,118499,Petrol,Individual,Manual,First Owner,14.9,1598,132.1,5,Yes,3314000
+250,Maruti,Dzire,2014,154524,Diesel,Individual,Manual,Third Owner,14.1,2494,162.4,7,Yes,4202000
+251,Kia,Sonet,2019,54393,CNG,Individual,Manual,First Owner,21.5,2198,150.7,5,Yes,4289000
+252,Toyota,Etios,2025,167246,CNG,Individual,Manual,First Owner,22.1,1199,92.2,5,No,3420000
+253,Ford,EcoSport,2014,171508,Petrol,Individual,Manual,Second Owner,12.8,1000,74.4,5,No,1837000
+254,Kia,Carens,2024,52406,Petrol,Individual,Manual,Third Owner,15.9,2198,194.8,5,Yes,5734000
+255,Toyota,Innova,2015,68059,Petrol,Dealer,Manual,First Owner,24.7,2198,135.3,5,Yes,3677000
+256,Honda,Amaze,2019,152026,Petrol,Dealer,Manual,Second Owner,12.8,1598,107.5,4,Yes,3190000
+257,Renault,Kwid,2012,87722,Petrol,Individual,Manual,Third Owner,25.7,2198,165,5,Yes,3916000
+258,Honda,Amaze,2024,17356,Diesel,Dealer,Automatic,Third Owner,22.5,2494,212.9,5,Yes,6370000
+259,Renault,Duster,2024,133128,Petrol,Dealer,Manual,Third Owner,19,800,70,5,No,2609000
+260,Hyundai,Creta,2017,7187,LPG,Individual,Manual,First Owner,17.5,2494,166.5,7,Yes,4426000
+261,Hyundai,Verna,2012,82243,Petrol,Individual,Manual,First Owner,12.3,1000,57.3,5,Yes,1321000
+262,Hyundai,Grand i10,2025,40098,Petrol,Individual,Manual,First Owner,25.2,800,55.8,4,Yes,2422000
+263,Ford,Figo,2012,157297,Petrol,Dealer,Manual,First Owner,14.3,2198,151.2,5,Yes,3774000
+264,Honda,Jazz,2025,139678,CNG,Individual,Automatic,First Owner,17,2198,196.8,5,Yes,6039000
+265,Renault,Duster,2019,62620,Diesel,Individual,Automatic,First Owner,21.1,1199,84,7,Yes,2912000
+266,Toyota,Fortuner,2022,168900,Diesel,Dealer,Manual,First Owner,15.9,2198,144.4,5,Yes,4496000
+267,Maruti,Alto,2015,131270,CNG,Individual,Manual,First Owner,20,1995,135.2,5,Yes,3747000
+268,Toyota,Etios,2023,162561,Petrol,Individual,Manual,First Owner,24.9,1000,68.9,5,No,2652000
+269,Maruti,Baleno,2012,19387,Petrol,Individual,Manual,Second Owner,19.5,1497,125.4,5,Yes,3100000
+270,Tata,Nexon,2021,74463,Petrol,Individual,Manual,First Owner,27.2,1199,69.3,5,No,2542000
+271,Toyota,Fortuner,2018,138663,Diesel,Dealer,Manual,First Owner,25.6,1197,79.1,5,Yes,2496000
+272,Kia,Seltos,2016,96683,Petrol,Dealer,Manual,First Owner,17.3,800,71.1,5,Yes,2052000
+273,Kia,Sonet,2016,67061,Petrol,Individual,Automatic,First Owner,18.4,1497,90.4,5,Yes,2931000
+274,Mahindra,Bolero,2012,86257,CNG,Individual,Manual,Third Owner,18.8,2198,178,7,Yes,4174000
+275,Honda,Jazz,2025,66753,LPG,Dealer,Manual,First Owner,22,2494,168.3,5,Yes,5313000
+276,Maruti,Swift,2021,89774,Diesel,Individual,Automatic,First Owner,16.6,1995,150.3,5,No,4495000
+277,Maruti,Alto,2022,147159,Diesel,Dealer,Manual,First Owner,27.5,800,46.8,5,Yes,2040000
+278,Honda,Amaze,2017,166888,Diesel,Individual,Automatic,First Owner,21.7,800,52.6,5,Yes,1966000
+279,Ford,Figo,2025,28408,Petrol,Individual,Manual,First Owner,18.4,800,58,5,Yes,2428000
+280,Mahindra,Scorpio,2020,129116,Petrol,Individual,Manual,First Owner,22.3,1000,63.1,5,Yes,2339000
+281,Ford,Figo,2020,136208,Diesel,Individual,Automatic,First Owner,18.3,800,59.2,5,Yes,2498000
+282,Ford,Figo,2019,22413,Diesel,Individual,Manual,Third Owner,25.1,1199,75.2,5,Yes,2544000
+283,Ford,Figo,2016,118650,Petrol,Individual,Manual,Second Owner,21.1,2494,193.9,5,Yes,5118000
+284,Honda,Amaze,2012,64500,CNG,Individual,Manual,First Owner,12.7,1199,103.9,5,Yes,2596000
+285,Ford,Aspire,2020,89514,Petrol,Individual,Manual,First Owner,14.8,1199,69.5,7,Yes,2518000
+286,Kia,Seltos,2012,61358,Petrol,Individual,Manual,First Owner,25.8,1995,124.9,5,Yes,3184000
+287,Hyundai,i20,2019,71197,Diesel,Individual,Automatic,First Owner,21,2494,210.9,5,Yes,5844000
+288,Tata,Tiago,2016,168926,Petrol,Individual,Automatic,First Owner,27.2,1995,153.8,5,No,4116000
+289,Maruti,Swift,2014,81240,Petrol,Individual,Automatic,Second Owner,13.2,800,46.2,5,Yes,1534000
+290,Maruti,Swift,2022,21322,Petrol,Individual,Manual,First Owner,16.7,800,57.6,7,Yes,2328000
+291,Tata,Tiago,2018,118053,Diesel,Dealer,Manual,Second Owner,15.1,1199,74.7,5,Yes,2390000
+292,Honda,Amaze,2018,11968,Petrol,Dealer,Manual,First Owner,20.9,1199,74.3,5,Yes,2417000
+293,Toyota,Innova,2020,32518,Diesel,Individual,Automatic,Fourth & Above Owner,18.1,800,70.3,7,Yes,2512000
+294,Honda,Jazz,2018,56925,Diesel,Individual,Manual,Second Owner,14.5,1598,130.5,5,No,3625000
+295,Maruti,Baleno,2024,116900,Petrol,Individual,Manual,Second Owner,22.3,1000,79.4,5,Yes,2896000
+296,Maruti,Dzire,2022,98422,LPG,Individual,Manual,First Owner,20.6,1497,94.9,7,Yes,3256000
+297,Tata,Altroz,2025,6700,Petrol,Individual,Manual,Second Owner,16.4,2198,130,5,Yes,4260000
+298,Ford,EcoSport,2014,98782,CNG,Individual,Manual,Second Owner,19.7,1197,102.3,5,Yes,2659000
+299,Honda,Amaze,2022,28199,Petrol,Dealer,Automatic,Second Owner,23.9,2494,137.7,5,Yes,4357000
+300,Renault,Triber,2024,168187,CNG,Individual,Automatic,First Owner,15.3,1995,136.8,5,Yes,4534000
+301,Tata,Tiago,2025,10520,Petrol,Individual,Manual,Second Owner,16.7,2494,161.4,5,No,5308000
+302,Kia,Seltos,2024,114814,Petrol,Individual,Manual,First Owner,17.5,800,60,5,Yes,2492000
+303,Maruti,Alto,2012,172527,Petrol,Dealer,Automatic,First Owner,23.9,1497,95.5,5,Yes,2364000
+304,Tata,Nexon,2019,128364,Petrol,Individual,Manual,Second Owner,25.6,1197,78.9,5,No,2525000
+305,Honda,City,2023,177677,Diesel,Dealer,Manual,First Owner,18,1199,101.6,5,Yes,3479000
+306,Maruti,Dzire,2014,19955,Petrol,Dealer,Manual,First Owner,16.7,1199,91.3,5,No,2377000
+307,Toyota,Etios,2023,149989,Diesel,Individual,Manual,First Owner,26.2,1995,119.9,7,Yes,3835000
+308,Tata,Altroz,2019,69925,Petrol,Individual,Manual,Second Owner,28,2198,176.8,5,Yes,4776000
+309,Mahindra,Bolero,2019,112216,Petrol,Individual,Manual,First Owner,22.7,1497,93.2,5,Yes,2924000
+310,Maruti,Swift,2024,75269,Diesel,Dealer,Manual,First Owner,27.8,1995,140,5,Yes,4517000
+311,Honda,Jazz,2016,167026,Petrol,Dealer,Manual,First Owner,22.6,1197,92.9,5,Yes,2682000
+312,Hyundai,i20,2024,46458,Diesel,Individual,Automatic,Second Owner,23.7,1197,77.2,5,Yes,3163000
+313,Renault,Kwid,2023,94037,Diesel,Dealer,Automatic,First Owner,18.2,1197,81.9,5,Yes,3168000
+314,Volkswagen,Ameo,2024,157185,Diesel,Individual,Automatic,Second Owner,18.9,1199,96.8,5,No,3330000
+315,Ford,Aspire,2012,104977,Petrol,Individual,Manual,First Owner,14.3,1598,140.3,5,No,3447000
+316,Volkswagen,Ameo,2024,48939,Diesel,Trustmark Dealer,Manual,Second Owner,25.2,1497,110.1,5,Yes,3958000
+317,Honda,Jazz,2021,34345,CNG,Dealer,Manual,Third Owner,26.9,2198,121.7,5,Yes,3905000
+318,Kia,Sonet,2018,115107,Diesel,Individual,Automatic,First Owner,22,1497,100.1,7,Yes,3114000
+319,Kia,Carens,2023,126866,Petrol,Dealer,Manual,First Owner,17.5,1497,103.2,5,Yes,3468000
+320,Hyundai,Verna,2021,74166,Diesel,Trustmark Dealer,Manual,Second Owner,14.5,1000,66.9,5,No,2517000
+321,Ford,Figo,2016,102406,Diesel,Dealer,Manual,First Owner,16.2,1497,105.2,7,Yes,3137000
+322,Mahindra,XUV500,2019,54298,Diesel,Dealer,Manual,First Owner,16.1,1995,153.9,7,Yes,4387000
+323,Hyundai,i20,2020,49942,Petrol,Dealer,Manual,Second Owner,21.8,1000,59.2,7,Yes,2123000
+324,Volkswagen,Vento,2022,8453,Petrol,Individual,Automatic,Fourth & Above Owner,27.1,1598,103.1,5,Yes,3451000
+325,Hyundai,Grand i10,2025,107811,Diesel,Dealer,Automatic,First Owner,12.8,1995,145.2,5,Yes,4837000
+326,Volkswagen,Vento,2018,59935,Petrol,Individual,Manual,First Owner,12,1497,98.9,5,Yes,3069000
+327,Maruti,Swift,2025,127439,Diesel,Dealer,Automatic,First Owner,21.6,2494,223.7,5,Yes,6674000
+328,Kia,Seltos,2024,179442,Petrol,Individual,Manual,First Owner,16.5,1199,84.1,7,Yes,2940000
+329,Maruti,Swift,2018,13328,Petrol,Dealer,Manual,Second Owner,26.1,800,68.4,5,Yes,2124000
+330,Renault,Triber,2012,20534,Petrol,Individual,Manual,Second Owner,17.2,2198,189.9,5,Yes,4524000
+331,Ford,EcoSport,2015,90280,Petrol,Individual,Manual,Third Owner,16.6,2198,185.2,5,Yes,4454000
+332,Mahindra,Bolero,2013,41320,CNG,Individual,Manual,First Owner,16.3,1995,113,5,Yes,3091000
+333,Volkswagen,Vento,2013,54170,CNG,Trustmark Dealer,Automatic,First Owner,14.3,2198,193.8,5,Yes,4934000
+334,Mahindra,Bolero,2013,105546,Diesel,Trustmark Dealer,Manual,First Owner,21.3,1000,59.5,5,Yes,1617000
+335,Volkswagen,Ameo,2015,85201,Petrol,Individual,Manual,First Owner,14.7,1197,67.3,5,Yes,2063000
+336,Honda,City,2025,13640,Diesel,Trustmark Dealer,Manual,Second Owner,18.8,2494,173.3,5,Yes,5471000
+337,Hyundai,Creta,2012,166121,Diesel,Dealer,Automatic,First Owner,19.4,800,49.4,4,Yes,1286000
+338,Renault,Kwid,2015,141690,Diesel,Individual,Manual,Second Owner,12.3,2198,135.1,5,Yes,3688000
+339,Kia,Seltos,2013,137992,Petrol,Individual,Manual,Second Owner,12.3,2198,143,5,Yes,3692000
+340,Volkswagen,Polo,2016,48937,Diesel,Trustmark Dealer,Manual,Third Owner,20.3,1995,127.1,7,Yes,3506000
+341,Mahindra,Bolero,2014,148279,Diesel,Individual,Manual,Second Owner,23.1,1497,118.2,5,Yes,3047000
+342,Renault,Triber,2023,169044,LPG,Dealer,Manual,Second Owner,27.1,1199,73.8,5,Yes,2719000
+343,Toyota,Fortuner,2019,146871,Petrol,Dealer,Manual,First Owner,14.9,1598,118.3,5,Yes,3369000
+344,Toyota,Etios,2015,164988,Diesel,Dealer,Manual,First Owner,13.7,800,71.6,5,No,2048000
+345,Maruti,Dzire,2012,75463,Diesel,Dealer,Manual,First Owner,12.8,1497,105,5,Yes,2603000
+346,Kia,Carens,2012,98500,Petrol,Individual,Automatic,First Owner,19,1199,92.9,5,Yes,2393000
+347,Honda,City,2023,42158,Petrol,Individual,Manual,Second Owner,22,1199,106.6,7,Yes,3516000
+348,Mahindra,XUV500,2021,89607,Petrol,Individual,Manual,Second Owner,25.4,1995,119.3,5,No,3767000
+349,Hyundai,Verna,2014,124639,Petrol,Individual,Automatic,First Owner,22.9,2494,173.7,5,Yes,4598000
+350,Hyundai,Verna,2020,76696,Petrol,Individual,Manual,First Owner,15.3,2198,186.3,7,Yes,5117000
+351,Mahindra,Bolero,2018,66510,Diesel,Dealer,Automatic,First Owner,19.4,2198,192.6,5,Yes,5371000
+352,Ford,Aspire,2013,125076,Diesel,Dealer,Manual,Second Owner,26.6,1497,113.8,5,Yes,2970000
+353,Honda,City,2024,63692,Diesel,Individual,Manual,Second Owner,17.2,1598,95.9,5,No,3373000
+354,Renault,Duster,2020,135841,CNG,Individual,Manual,Second Owner,20,1000,86.6,7,Yes,2908000
+355,Volkswagen,Polo,2021,20810,Petrol,Individual,Automatic,First Owner,27.3,1197,73.1,7,Yes,2678000
+356,Ford,EcoSport,2013,141198,Petrol,Individual,Manual,First Owner,23.8,1497,100.8,7,No,2716000
+357,Volkswagen,Ameo,2014,166081,Diesel,Individual,Manual,Second Owner,24,1000,68.1,5,Yes,1771000
+358,Volkswagen,Ameo,2022,116718,Petrol,Dealer,Automatic,Second Owner,16,1197,84.6,5,Yes,2995000
+359,Ford,Figo,2024,95932,Petrol,Individual,Manual,First Owner,18.6,1199,99.1,5,Yes,3424000
+360,Maruti,Swift,2021,5192,Petrol,Dealer,Manual,Second Owner,13.3,1598,132.8,5,Yes,3872000
+361,Toyota,Innova,2025,41413,Petrol,Individual,Manual,First Owner,21.7,1497,120,7,Yes,4130000
+362,Volkswagen,Ameo,2013,148888,Diesel,Dealer,Manual,Second Owner,13.7,1199,66.9,7,No,1856000
+363,Ford,EcoSport,2014,44082,Petrol,Dealer,Manual,Second Owner,25.4,1000,74.8,5,Yes,2057000
+364,Ford,EcoSport,2017,70048,Petrol,Trustmark Dealer,Manual,Second Owner,25,1497,121.5,5,Yes,3332000
+365,Tata,Nexon,2020,128130,Petrol,Dealer,Manual,First Owner,20.5,1497,105.6,5,Yes,3214000
+366,Maruti,Alto,2020,55940,Diesel,Trustmark Dealer,Manual,First Owner,14.3,1995,175.7,5,Yes,5113000
+367,Kia,Sonet,2018,168202,Petrol,Dealer,Automatic,Second Owner,12.4,800,67.1,5,Yes,2199000
+368,Tata,Tiago,2023,45142,Diesel,Dealer,Automatic,Second Owner,24.7,1199,92.7,5,Yes,3305000
+369,Tata,Nexon,2014,41468,Petrol,Individual,Manual,First Owner,21.6,1497,85.6,5,Yes,2394000
+370,Mahindra,XUV500,2015,166770,Petrol,Individual,Automatic,Second Owner,23.4,2198,171.1,5,No,4300000
+371,Toyota,Fortuner,2017,146727,Petrol,Individual,Manual,First Owner,16.9,2198,191,5,Yes,5020000
+372,Ford,Aspire,2022,166147,Petrol,Individual,Manual,Third Owner,20.2,800,54.6,7,Yes,2155000
+373,Toyota,Etios,2016,145431,Petrol,Individual,Manual,Second Owner,24,1497,126.2,5,Yes,3315000
+374,Honda,Amaze,2013,134048,Petrol,Dealer,Manual,First Owner,19.4,800,52.8,7,Yes,1463000
+375,Mahindra,Bolero,2024,47056,CNG,Trustmark Dealer,Manual,First Owner,21.6,800,60,5,Yes,2643000
+376,Kia,Sonet,2017,56831,Petrol,Individual,Automatic,First Owner,24.6,1000,77.7,5,Yes,2498000
+377,Toyota,Innova,2014,64191,Diesel,Individual,Manual,First Owner,15.4,1000,78.7,5,Yes,2355000
+378,Hyundai,i20,2025,126948,Petrol,Trustmark Dealer,Automatic,First Owner,13.1,2494,214.2,5,Yes,6493000
+379,Volkswagen,Ameo,2019,169344,Petrol,Individual,Manual,Second Owner,20.5,1199,75.8,5,Yes,2470000
+380,Honda,Jazz,2013,113117,Petrol,Dealer,Manual,Second Owner,13,1197,76.8,5,No,1988000
+381,Maruti,Dzire,2012,19671,CNG,Individual,Manual,First Owner,24.3,800,63.7,4,Yes,1624000
+382,Kia,Carens,2020,32048,Petrol,Dealer,Manual,First Owner,23.5,1000,61.2,5,Yes,2211000
+383,Honda,Jazz,2025,30963,Petrol,Individual,Manual,First Owner,26.1,1598,113.9,5,Yes,4027000
+384,Volkswagen,Vento,2023,48954,Petrol,Dealer,Manual,First Owner,22.2,2494,138.9,5,Yes,4460000
+385,Mahindra,Scorpio,2014,100430,Petrol,Individual,Manual,First Owner,13.1,1497,89.7,5,Yes,2341000
+386,Volkswagen,Vento,2022,5717,Petrol,Individual,Manual,Second Owner,16.1,1199,94.4,5,No,3095000
+387,Tata,Altroz,2012,16676,Diesel,Individual,Manual,Third Owner,24.9,1497,121.5,5,Yes,2928000
+388,Volkswagen,Vento,2018,140506,Petrol,Individual,Manual,First Owner,14.7,2494,147.2,5,Yes,4343000
+389,Tata,Nexon,2024,123696,Petrol,Trustmark Dealer,Automatic,Second Owner,23.2,1995,125.6,7,Yes,4281000
+390,Mahindra,XUV500,2021,135830,Diesel,Dealer,Manual,Third Owner,24.5,2198,128.5,5,Yes,3964000
+391,Renault,Duster,2016,9994,Petrol,Individual,Manual,First Owner,17.3,1199,84.1,7,Yes,2516000
+392,Tata,Altroz,2016,9234,Petrol,Individual,Automatic,Second Owner,17.2,2198,130.6,5,Yes,3779000
+393,Maruti,Dzire,2025,74300,Petrol,Individual,Manual,Second Owner,20.9,1598,112.3,5,Yes,3768000
+394,Volkswagen,Vento,2012,48949,Diesel,Dealer,Manual,First Owner,25.8,1497,120.7,5,Yes,2938000
+395,Volkswagen,Polo,2020,42405,Petrol,Dealer,Automatic,First Owner,15.6,1995,157.4,5,No,4753000
+396,Maruti,Swift,2018,39872,Petrol,Individual,Manual,Second Owner,27.1,1598,103.6,5,Yes,2957000
+397,Hyundai,Creta,2019,47215,Petrol,Dealer,Manual,Second Owner,21.6,1197,94.1,5,Yes,2881000
+398,Ford,EcoSport,2020,28185,Diesel,Dealer,Manual,First Owner,27.9,1497,130.9,5,Yes,3894000
+399,Renault,Duster,2017,179514,Petrol,Trustmark Dealer,Automatic,First Owner,13.4,2494,167.5,5,No,4655000
+400,Kia,Seltos,2023,46153,Diesel,Trustmark Dealer,Automatic,First Owner,14,1995,132.7,5,Yes,4415000
+401,Tata,Altroz,2016,82535,Diesel,Dealer,Manual,Third Owner,25.2,1199,89.9,5,Yes,2594000
+402,Maruti,Baleno,2017,138653,Diesel,Dealer,Manual,First Owner,25.8,1995,126.9,5,Yes,3432000
+403,Mahindra,Scorpio,2022,56717,Petrol,Individual,Manual,Second Owner,19.1,1497,116.5,7,No,3777000
+404,Tata,Tiago,2013,7763,Petrol,Dealer,Manual,First Owner,23.4,1000,84.1,5,Yes,2257000
+405,Ford,EcoSport,2015,97910,Petrol,Individual,Manual,First Owner,25.9,1598,113.6,7,Yes,3153000
+406,Mahindra,Scorpio,2014,60480,Petrol,Individual,Manual,First Owner,12.7,1995,157.2,5,Yes,4105000
+407,Honda,Jazz,2024,174831,Petrol,Individual,Automatic,First Owner,21.2,2198,171,5,Yes,5288000
+408,Volkswagen,Vento,2018,123094,Diesel,Dealer,Automatic,First Owner,25.7,1598,90.1,5,No,2908000
+409,Honda,Jazz,2020,161379,Petrol,Individual,Manual,First Owner,18.4,2198,135,5,Yes,4064000
+410,Tata,Tiago,2016,16064,Petrol,Individual,Manual,First Owner,16.8,1995,172.1,5,Yes,4573000
+411,Ford,Figo,2017,81848,Diesel,Individual,Manual,First Owner,24.7,1000,87.9,5,Yes,2723000
+412,Renault,Duster,2021,42548,Diesel,Individual,Manual,First Owner,17.4,1598,131.5,7,No,4122000
+413,Tata,Tiago,2025,173017,Petrol,Individual,Manual,First Owner,12.1,2494,217.6,5,Yes,6320000
+414,Maruti,Swift,2023,11476,Diesel,Dealer,Automatic,Second Owner,27.4,1598,105,5,Yes,3769000
+415,Toyota,Etios,2023,95101,Petrol,Dealer,Manual,Second Owner,21.5,1199,76.3,7,Yes,2852000
+416,Tata,Altroz,2013,7382,Diesel,Individual,Manual,Fourth & Above Owner,25.1,1995,136.6,5,Yes,3553000
+417,Volkswagen,Polo,2014,169474,Diesel,Dealer,Manual,First Owner,25.2,1197,68.2,5,Yes,2097000
+418,Volkswagen,Ameo,2014,163018,Diesel,Dealer,Manual,First Owner,13.1,1497,124.8,5,Yes,3294000
+419,Tata,Nexon,2023,84698,Diesel,Individual,Manual,First Owner,14.7,800,71.6,5,Yes,2807000
+420,Mahindra,XUV500,2023,158407,Petrol,Dealer,Manual,First Owner,17,1197,100.4,5,No,3330000
+421,Toyota,Innova,2020,50095,Petrol,Trustmark Dealer,Manual,Second Owner,17.1,2198,163.6,7,Yes,4634000
+422,Maruti,Swift,2018,134974,Diesel,Individual,Automatic,First Owner,22.5,2494,162.9,5,Yes,4648000
+423,Tata,Altroz,2019,32197,Petrol,Individual,Manual,First Owner,22,2494,154.4,5,Yes,4200000
+424,Mahindra,Scorpio,2022,132619,Diesel,Trustmark Dealer,Manual,First Owner,19.9,1000,67.7,5,Yes,2521000
+425,Volkswagen,Vento,2021,27010,Petrol,Individual,Manual,Fourth & Above Owner,15.4,1199,93.9,5,Yes,2964000
+426,Volkswagen,Polo,2022,160195,Petrol,Individual,Manual,Third Owner,18.1,1497,105.8,5,Yes,3316000
+427,Ford,EcoSport,2020,92923,Petrol,Individual,Manual,First Owner,20.7,1197,105,5,Yes,3273000
+428,Tata,Nexon,2017,138962,Petrol,Individual,Manual,First Owner,19.5,800,67.9,5,No,1996000
+429,Toyota,Etios,2015,135526,Diesel,Dealer,Manual,Second Owner,14,1598,93.6,7,Yes,2553000
+430,Hyundai,Verna,2023,114162,Diesel,Individual,Manual,Fourth & Above Owner,22.4,1000,59.6,5,Yes,2193000
+431,Toyota,Etios,2012,125927,Diesel,Individual,Automatic,First Owner,13.2,2494,196.2,5,No,4984000
+432,Volkswagen,Vento,2019,13026,Diesel,Dealer,Manual,First Owner,18.1,800,50.5,5,Yes,1915000
+433,Volkswagen,Vento,2018,69925,CNG,Individual,Automatic,Third Owner,23.4,2494,206.2,5,Yes,5507000
+434,Honda,Jazz,2013,73842,Diesel,Individual,Manual,Second Owner,12.3,1995,151,5,Yes,3866000
+435,Volkswagen,Polo,2019,38665,Petrol,Individual,Manual,First Owner,21.1,1000,63,5,Yes,2140000
+436,Maruti,Swift,2023,14277,Diesel,Dealer,Manual,First Owner,17.4,1598,114.7,5,Yes,3916000
+437,Kia,Seltos,2016,178311,Petrol,Individual,Manual,Third Owner,12.1,2198,152.1,5,Yes,3853000
+438,Tata,Nexon,2018,53008,Petrol,Dealer,Automatic,Second Owner,15,1000,85.6,5,Yes,2682000
+439,Toyota,Innova,2015,19683,Diesel,Individual,Manual,Second Owner,27.1,1497,84,5,Yes,2402000
+440,Kia,Seltos,2016,136742,Petrol,Individual,Automatic,Second Owner,20.3,1598,138,5,No,3698000
+441,Mahindra,Bolero,2019,153961,Petrol,Individual,Automatic,First Owner,28,1197,93.2,7,Yes,3100000
+442,Hyundai,i20,2012,83542,Petrol,Individual,Manual,Second Owner,20.4,1000,80.8,5,No,1794000
+443,Maruti,Alto,2012,59319,Petrol,Dealer,Manual,First Owner,20.7,1598,88,5,Yes,2393000
+444,Toyota,Innova,2015,97067,CNG,Individual,Manual,Third Owner,18.3,1197,92.2,5,Yes,2381000
+445,Kia,Carens,2014,157711,Petrol,Dealer,Automatic,First Owner,17,1000,75.6,4,Yes,2195000
+446,Hyundai,Grand i10,2024,152705,Petrol,Individual,Manual,Second Owner,16,800,59,5,Yes,2506000
+447,Honda,Amaze,2021,170732,Petrol,Trustmark Dealer,Manual,First Owner,17.5,2198,181.3,5,Yes,5162000
+448,Maruti,Swift,2023,73975,Petrol,Dealer,Manual,First Owner,19.4,800,59.6,5,No,2322000
+449,Maruti,Baleno,2013,168244,CNG,Dealer,Manual,First Owner,15.1,1497,127.2,7,Yes,3190000
+450,Honda,Amaze,2023,106158,Petrol,Individual,Manual,Second Owner,15.6,1598,100.9,5,Yes,3638000
+451,Tata,Tiago,2014,16577,Petrol,Individual,Manual,Second Owner,16.3,1197,99.6,5,Yes,2597000
+452,Honda,Jazz,2022,82299,Diesel,Individual,Manual,Second Owner,19.2,1995,122.2,5,Yes,3933000
+453,Maruti,Baleno,2022,25176,CNG,Trustmark Dealer,Automatic,First Owner,22.4,1000,83.5,4,No,3055000
+454,Maruti,Baleno,2025,68972,Diesel,Individual,Manual,First Owner,25.7,1995,175.4,5,Yes,5471000
+455,Kia,Sonet,2022,125018,Diesel,Dealer,Manual,Third Owner,16.6,1000,66.7,5,Yes,2481000
+456,Volkswagen,Polo,2012,177075,Petrol,Dealer,Manual,Second Owner,14.9,1497,110.1,5,Yes,2645000
+457,Hyundai,i20,2012,24996,Petrol,Individual,Manual,Second Owner,18.1,1995,155.7,5,Yes,3764000
+458,Honda,Jazz,2017,105922,Petrol,Dealer,Manual,Second Owner,26.3,1197,69.2,5,Yes,2039000
+459,Hyundai,Creta,2016,91598,CNG,Dealer,Manual,Second Owner,12.2,1199,86.7,7,Yes,2680000
+460,Honda,City,2019,40931,Petrol,Dealer,Manual,First Owner,22.8,800,54.1,5,Yes,1980000
+461,Mahindra,Scorpio,2013,129168,Petrol,Individual,Manual,Second Owner,19.6,1197,102.4,5,Yes,2798000
+462,Maruti,Swift,2015,171782,Petrol,Individual,Manual,Second Owner,14.6,2494,213.7,5,Yes,5364000
+463,Volkswagen,Vento,2019,128099,Petrol,Individual,Manual,Second Owner,17.1,1497,119.1,5,Yes,3493000
+464,Kia,Sonet,2023,39693,Petrol,Dealer,Manual,Second Owner,15.6,2198,171.3,5,Yes,5068000
+465,Volkswagen,Ameo,2017,171812,CNG,Individual,Manual,First Owner,26,1000,80.7,5,Yes,2343000
+466,Volkswagen,Polo,2012,113944,Petrol,Individual,Manual,First Owner,19.7,1197,81.2,5,Yes,1991000
+467,Volkswagen,Polo,2015,22374,Diesel,Trustmark Dealer,Manual,First Owner,21,1995,138,5,Yes,3703000
+468,Hyundai,Creta,2012,86471,Diesel,Individual,Manual,First Owner,21.5,1199,89.2,5,Yes,2195000
+469,Honda,City,2024,50913,Petrol,Dealer,Manual,Second Owner,22.2,2494,219.1,7,Yes,6437000
+470,Renault,Duster,2013,128683,Petrol,Trustmark Dealer,Automatic,Third Owner,19.9,1995,160.3,5,Yes,4062000
+471,Mahindra,Scorpio,2016,49516,Petrol,Dealer,Automatic,First Owner,12.3,800,59.4,5,No,2090000
+472,Toyota,Fortuner,2025,92796,Petrol,Dealer,Manual,First Owner,17.4,1199,98.3,5,Yes,3612000
+473,Volkswagen,Polo,2019,31069,Diesel,Individual,Manual,Third Owner,14.9,1598,108.6,5,No,3255000
+474,Tata,Altroz,2019,123333,Petrol,Individual,Automatic,Second Owner,22.9,1598,128.7,7,Yes,3642000
+475,Hyundai,Grand i10,2022,89811,Petrol,Dealer,Manual,First Owner,12.9,1598,110.9,5,Yes,3561000
+476,Kia,Seltos,2014,123028,Petrol,Individual,Manual,Second Owner,21,1497,97,5,Yes,2539000
+477,Toyota,Innova,2022,44178,CNG,Individual,Automatic,First Owner,15.4,1197,91.4,5,Yes,3373000
+478,Renault,Kwid,2024,37821,Diesel,Dealer,Manual,First Owner,27.2,1000,79,5,Yes,3062000
+479,Tata,Nexon,2015,21999,Diesel,Individual,Manual,First Owner,17.4,1197,85.1,5,Yes,2746000
+480,Renault,Kwid,2021,43712,Diesel,Trustmark Dealer,Manual,First Owner,17.2,2494,186.5,4,No,5389000
+481,Toyota,Fortuner,2022,176244,Petrol,Dealer,Manual,First Owner,26.8,1197,94.9,5,Yes,3188000
+482,Volkswagen,Vento,2025,38722,Diesel,Dealer,Manual,Third Owner,18.7,1197,98,5,Yes,3459000
+483,Tata,Tiago,2017,15625,Petrol,Dealer,Manual,Second Owner,27.4,800,69.1,5,Yes,2149000
+484,Renault,Triber,2022,11859,Diesel,Dealer,Manual,First Owner,12.4,1000,67.4,5,Yes,2645000
+485,Kia,Carens,2022,177681,Diesel,Dealer,Manual,First Owner,16.9,1197,105.7,5,Yes,3419000
+486,Honda,Amaze,2021,179379,Petrol,Individual,Manual,First Owner,22.7,1000,77.3,7,Yes,2571000
+487,Maruti,Baleno,2014,115986,Diesel,Individual,Manual,Second Owner,26.3,2198,181.5,5,Yes,4596000
+488,Honda,Amaze,2013,26839,CNG,Dealer,Manual,Second Owner,16.1,1598,127,7,Yes,3281000
+489,Toyota,Etios,2017,32216,Petrol,Dealer,Manual,First Owner,26.9,1995,124.1,5,Yes,3479000
+490,Hyundai,Verna,2022,57953,Diesel,Individual,Manual,First Owner,21.5,800,46,5,Yes,2122000
+491,Maruti,Swift,2024,54522,Petrol,Individual,Automatic,Second Owner,24.8,1598,128.5,5,Yes,4283000
+492,Mahindra,Scorpio,2016,140958,Diesel,Dealer,Manual,First Owner,18.4,1000,72.9,5,No,2258000
+493,Kia,Seltos,2025,116249,Petrol,Individual,Manual,First Owner,15.4,1598,127.2,5,Yes,4369000
+494,Mahindra,XUV500,2021,12485,Petrol,Trustmark Dealer,Manual,Second Owner,26.6,1197,85.8,5,Yes,2941000
+495,Tata,Tiago,2016,167527,CNG,Trustmark Dealer,Manual,First Owner,26.9,1995,131.5,5,Yes,3564000
+496,Maruti,Baleno,2021,152839,CNG,Individual,Manual,First Owner,20,1197,77.8,5,No,2665000
+497,Mahindra,Bolero,2024,117701,Diesel,Dealer,Manual,First Owner,12.1,2494,200.9,5,Yes,5907000
+498,Mahindra,Bolero,2016,164525,Petrol,Individual,Manual,First Owner,13.8,1197,77.4,5,Yes,2189000
+499,Renault,Duster,2021,107638,CNG,Dealer,Manual,Third Owner,21.2,1995,159.6,5,Yes,4606000
+500,Honda,City,2023,17226,Petrol,Individual,Automatic,Third Owner,12.4,1199,82.1,5,No,3083000
+501,Renault,Kwid,2016,98405,Diesel,Dealer,Automatic,Third Owner,18.4,2198,180.2,4,Yes,4878000
+502,Maruti,Baleno,2014,27588,Petrol,Individual,Manual,Second Owner,16.9,1000,60,5,Yes,1745000
+503,Maruti,Dzire,2018,167781,Petrol,Individual,Manual,First Owner,23.4,2198,136.7,5,Yes,4001000
+504,Toyota,Innova,2017,42019,Diesel,Individual,Manual,Second Owner,12.9,2494,197,5,Yes,5210000
+505,Renault,Triber,2015,70133,Petrol,Individual,Manual,Third Owner,19.8,2198,164,5,Yes,4345000
+506,Ford,Aspire,2013,119444,Petrol,Individual,Manual,First Owner,21.3,1598,99.3,5,Yes,2509000
+507,Honda,Jazz,2023,122603,Petrol,Individual,Manual,First Owner,21.9,800,69.3,7,Yes,2649000
+508,Maruti,Dzire,2020,163598,Petrol,Individual,Automatic,Second Owner,18.5,1995,129,5,Yes,3900000
+509,Toyota,Fortuner,2012,133585,Petrol,Dealer,Manual,Second Owner,16.9,800,55.8,7,Yes,1328000
+510,Renault,Duster,2024,48395,Petrol,Dealer,Manual,First Owner,22.9,1995,123.8,5,Yes,4207000
+511,Honda,Amaze,2024,160103,Petrol,Dealer,Manual,First Owner,25.6,1000,68.6,7,No,2572000
+512,Renault,Duster,2022,130814,Petrol,Trustmark Dealer,Manual,Second Owner,23.1,2198,158.7,5,Yes,4608000
+513,Mahindra,Scorpio,2025,173773,Diesel,Individual,Manual,First Owner,26.9,1000,65.3,5,No,2843000
+514,Toyota,Fortuner,2015,117599,Petrol,Individual,Manual,Second Owner,23.5,1197,98.1,5,Yes,2592000
+515,Honda,City,2012,30939,CNG,Individual,Automatic,First Owner,24.2,1197,82.3,5,Yes,2204000
+516,Volkswagen,Polo,2024,156396,CNG,Dealer,Manual,Third Owner,14.7,800,64.4,5,Yes,2416000
+517,Tata,Altroz,2017,158939,Petrol,Trustmark Dealer,Manual,First Owner,18.7,1497,93.2,7,Yes,2710000
+518,Tata,Altroz,2015,5203,Diesel,Individual,Automatic,First Owner,19.8,1497,102.1,7,No,3084000
+519,Honda,Jazz,2016,152616,Diesel,Individual,Manual,First Owner,16.1,1497,82.8,5,Yes,2441000
+520,Renault,Triber,2016,151971,LPG,Individual,Manual,First Owner,20.5,2494,203.4,7,Yes,5368000
+521,Toyota,Innova,2020,34063,Diesel,Dealer,Manual,Second Owner,16.7,1598,122.9,7,Yes,3844000
+522,Tata,Altroz,2012,95880,Petrol,Dealer,Manual,First Owner,23,1598,133.6,5,Yes,3217000
+523,Toyota,Innova,2024,8748,Diesel,Individual,Manual,First Owner,19.5,1197,84.9,5,Yes,3193000
+524,Tata,Altroz,2013,122269,Diesel,Individual,Manual,First Owner,19.3,1497,124.2,5,Yes,2916000
+525,Mahindra,Scorpio,2024,85764,Diesel,Dealer,Automatic,Second Owner,27.7,1995,154.9,5,Yes,4843000
+526,Renault,Triber,2017,156956,Petrol,Dealer,Manual,Second Owner,18.3,1197,66,4,Yes,1932000
+527,Mahindra,Bolero,2016,161255,Diesel,Individual,Manual,First Owner,17.8,1000,63.9,5,Yes,1858000
+528,Tata,Nexon,2022,113036,CNG,Dealer,Manual,Second Owner,17.1,1497,108.2,5,Yes,3489000
+529,Volkswagen,Vento,2018,155331,Petrol,Individual,Manual,Second Owner,26.3,1197,91.8,5,Yes,2716000
+530,Volkswagen,Ameo,2014,172031,Petrol,Dealer,Manual,Second Owner,19.9,1497,85.8,7,Yes,2421000
+531,Mahindra,XUV500,2014,121525,Petrol,Dealer,Manual,First Owner,21.6,2494,198.7,5,No,4995000
+532,Volkswagen,Vento,2021,169529,Diesel,Individual,Manual,Second Owner,14.9,800,59.2,5,Yes,2037000
+533,Tata,Nexon,2013,90679,Diesel,Individual,Manual,First Owner,20.7,1199,88,5,Yes,2268000
+534,Honda,City,2024,130829,Diesel,Dealer,Automatic,First Owner,16.4,1497,97.6,5,Yes,3675000
+535,Mahindra,XUV500,2014,133216,Petrol,Individual,Manual,First Owner,23.7,1000,75.8,5,Yes,2017000
+536,Hyundai,Creta,2021,138175,Diesel,Dealer,Manual,First Owner,25.3,1000,56,5,Yes,2328000
+537,Renault,Kwid,2012,70901,Petrol,Dealer,Automatic,First Owner,23.4,800,45.8,5,Yes,1258000
+538,Volkswagen,Ameo,2016,152175,Petrol,Dealer,Manual,Third Owner,23.7,2198,177.3,7,Yes,4634000
+539,Volkswagen,Ameo,2025,103046,Diesel,Individual,Manual,First Owner,20.2,1000,66.3,5,Yes,2859000
+540,Maruti,Dzire,2023,95012,LPG,Individual,Automatic,First Owner,23.4,1197,80.4,5,Yes,3079000
+541,Ford,Figo,2016,83278,CNG,Dealer,Manual,First Owner,18.8,1000,62.3,5,No,1968000
+542,Mahindra,XUV500,2023,17391,CNG,Individual,Manual,First Owner,22.4,1199,84.6,5,Yes,3042000
+543,Kia,Sonet,2022,107476,Petrol,Dealer,Manual,First Owner,16.1,800,45.5,5,Yes,2013000
+544,Volkswagen,Vento,2018,164973,Petrol,Dealer,Manual,First Owner,13.1,1197,78.4,5,Yes,2464000
+545,Renault,Kwid,2015,125721,Diesel,Individual,Manual,First Owner,18.6,1497,110,5,Yes,2894000
+546,Hyundai,i20,2014,102537,CNG,Dealer,Manual,First Owner,19.4,800,57,7,Yes,1631000
+547,Volkswagen,Vento,2012,86159,Petrol,Individual,Manual,First Owner,16.1,1199,107.9,5,Yes,2730000
+548,Hyundai,i20,2023,136040,Petrol,Individual,Manual,First Owner,23.6,1598,109.6,5,Yes,3672000
+549,Tata,Tiago,2019,174509,Petrol,Trustmark Dealer,Manual,Second Owner,13.2,1199,82.2,5,Yes,2674000
+550,Tata,Altroz,2024,40503,Diesel,Trustmark Dealer,Manual,Second Owner,15.6,1995,144.9,7,Yes,4671000
+551,Ford,Aspire,2014,80403,Petrol,Individual,Automatic,Second Owner,24,1995,123,5,Yes,3240000
+552,Honda,Jazz,2024,177330,Petrol,Trustmark Dealer,Manual,First Owner,19,1598,136.9,5,Yes,4367000
+553,Kia,Sonet,2013,169796,Petrol,Individual,Automatic,First Owner,23.3,2494,187.1,5,No,4629000
+554,Maruti,Alto,2022,69286,Petrol,Individual,Manual,Third Owner,21.1,1000,61.7,5,Yes,2321000
+555,Ford,EcoSport,2015,79842,Diesel,Individual,Manual,First Owner,27.2,2198,181.9,5,No,4722000
+556,Toyota,Fortuner,2014,109927,Petrol,Trustmark Dealer,Manual,First Owner,21.6,2198,123.5,5,Yes,3229000
+557,Maruti,Alto,2024,19908,Diesel,Individual,Manual,First Owner,12.2,1199,107.2,5,Yes,3945000
+558,Mahindra,Scorpio,2012,42228,Diesel,Individual,Manual,First Owner,17.6,1598,136.3,5,Yes,3400000
+559,Renault,Kwid,2014,28386,Diesel,Individual,Manual,First Owner,14.3,1598,120.3,5,Yes,3396000
+560,Toyota,Etios,2023,33302,Petrol,Dealer,Manual,Second Owner,26.8,1497,88.2,5,Yes,3182000
+561,Toyota,Innova,2013,65815,LPG,Individual,Manual,First Owner,13.7,800,50,5,Yes,1301000
+562,Ford,Figo,2019,68344,Diesel,Individual,Manual,Fourth & Above Owner,18.2,1197,77.5,5,Yes,2459000
+563,Honda,Amaze,2017,171690,LPG,Individual,Manual,First Owner,15.6,1995,126.6,7,Yes,3541000
+564,Ford,Aspire,2020,116603,CNG,Dealer,Manual,First Owner,25.5,2198,159.2,5,Yes,4581000
+565,Mahindra,XUV500,2019,66114,Petrol,Dealer,Manual,Fourth & Above Owner,16.9,1000,88.1,5,Yes,2602000
+566,Volkswagen,Polo,2021,30525,Petrol,Individual,Manual,Second Owner,27.9,1197,84.4,5,Yes,2900000
+567,Volkswagen,Polo,2014,84818,Petrol,Dealer,Manual,First Owner,12.6,1199,93.7,5,No,2511000
+568,Honda,Amaze,2016,119589,Petrol,Individual,Manual,First Owner,14.1,1497,118.4,5,Yes,3286000
+569,Mahindra,Scorpio,2018,150406,Petrol,Dealer,Automatic,Second Owner,15.6,1197,102.3,5,Yes,3169000
+570,Honda,Jazz,2016,99715,Petrol,Individual,Manual,First Owner,25,1497,84.1,7,No,2437000
+571,Hyundai,i20,2019,11644,Petrol,Individual,Manual,First Owner,26.1,2198,152,5,Yes,4497000
+572,Volkswagen,Ameo,2023,106154,Petrol,Individual,Manual,Second Owner,13.1,2198,181.3,4,Yes,5404000
+573,Toyota,Etios,2016,169005,Petrol,Dealer,Automatic,First Owner,12.5,1000,83.5,5,Yes,2570000
+574,Kia,Sonet,2012,48469,Petrol,Dealer,Manual,First Owner,23.9,1598,139.8,5,Yes,3252000
+575,Renault,Kwid,2016,169759,Petrol,Individual,Automatic,First Owner,14.1,1199,95.4,5,Yes,2911000
+576,Mahindra,XUV500,2015,111609,Petrol,Dealer,Manual,First Owner,14.1,2494,158.6,5,Yes,4140000
+577,Maruti,Dzire,2017,153447,Petrol,Individual,Manual,Third Owner,12.4,1000,72.7,5,Yes,1944000
+578,Honda,City,2014,70206,Petrol,Individual,Automatic,First Owner,12.8,2198,123.4,7,Yes,3579000
+579,Renault,Duster,2022,101462,Diesel,Individual,Manual,Third Owner,16.2,800,62.1,5,Yes,2413000
+580,Maruti,Swift,2016,172679,Petrol,Dealer,Manual,First Owner,13,1598,118.9,5,No,3272000
+581,Renault,Triber,2013,88178,Petrol,Dealer,Manual,First Owner,17.9,800,62.7,5,Yes,1612000
+582,Kia,Sonet,2022,160065,Petrol,Individual,Automatic,First Owner,25.3,1000,87.6,5,No,3076000
+583,Maruti,Dzire,2017,91724,Diesel,Individual,Manual,Second Owner,17.2,1197,94.6,5,Yes,2757000
+584,Ford,Figo,2024,101393,CNG,Individual,Manual,Third Owner,23.6,2494,165.1,7,Yes,4994000
+585,Tata,Nexon,2023,132314,Diesel,Individual,Automatic,First Owner,13.5,1497,92.7,5,Yes,3428000
+586,Ford,EcoSport,2017,81312,Diesel,Individual,Manual,First Owner,22.6,1000,84.9,5,Yes,2588000
+587,Volkswagen,Vento,2016,80324,Petrol,Individual,Automatic,First Owner,17.1,1497,92.5,7,Yes,2666000
+588,Tata,Nexon,2017,76196,Petrol,Individual,Manual,Second Owner,24,1497,90.8,5,Yes,2680000
+589,Ford,Figo,2022,75014,Petrol,Individual,Manual,First Owner,14.2,800,49.8,5,Yes,1969000
+590,Tata,Altroz,2018,144282,CNG,Individual,Automatic,Second Owner,26.4,1197,87.2,4,Yes,2905000
+591,Tata,Nexon,2023,146994,Diesel,Individual,Manual,First Owner,15.9,1497,88.8,5,Yes,3213000
+592,Toyota,Etios,2016,172361,Diesel,Individual,Manual,First Owner,17.7,2494,219.1,5,Yes,5553000
+593,Honda,Jazz,2012,38340,Petrol,Dealer,Manual,First Owner,27.2,800,71.1,5,Yes,1815000
+594,Honda,Jazz,2019,44850,Diesel,Individual,Manual,First Owner,21.3,2198,195.8,7,Yes,5344000
+595,Toyota,Etios,2015,118711,Petrol,Dealer,Manual,Second Owner,17.9,800,45.1,5,Yes,1355000
+596,Renault,Kwid,2020,16094,Petrol,Individual,Automatic,Second Owner,27.2,2494,219.8,5,Yes,6122000
+597,Hyundai,Verna,2025,92959,Petrol,Individual,Manual,First Owner,17.3,1598,143.7,5,Yes,4485000
+598,Renault,Triber,2021,169490,Diesel,Individual,Manual,First Owner,13.5,800,70.4,7,Yes,2692000
+599,Maruti,Dzire,2023,10741,Petrol,Individual,Automatic,First Owner,27.9,2198,172.5,5,Yes,5482000
+600,Maruti,Baleno,2017,116585,Diesel,Individual,Manual,Second Owner,16.3,1497,119.1,5,No,3298000
+601,Tata,Nexon,2012,127564,Petrol,Trustmark Dealer,Manual,First Owner,25.6,1995,118.3,5,Yes,2860000
+602,Ford,Aspire,2014,73798,Diesel,Individual,Manual,First Owner,14.6,1995,170.8,5,Yes,4338000
+603,Ford,Figo,2014,121026,Petrol,Individual,Automatic,First Owner,23.7,1995,113.9,5,No,3105000
+604,Honda,City,2021,115130,Petrol,Dealer,Manual,First Owner,20.4,1598,105.7,5,No,3489000
+605,Mahindra,Scorpio,2023,27164,Diesel,Individual,Manual,First Owner,27.7,2198,197.1,7,No,5744000
+606,Renault,Kwid,2023,171667,Diesel,Dealer,Manual,First Owner,20.8,2494,174,5,Yes,5148000
+607,Volkswagen,Ameo,2015,35257,Diesel,Individual,Manual,First Owner,12.4,1000,59.6,5,Yes,1886000
+608,Kia,Sonet,2017,150283,CNG,Trustmark Dealer,Manual,Second Owner,21.7,1995,177.4,5,Yes,4520000
+609,Ford,EcoSport,2018,100989,Diesel,Individual,Manual,First Owner,14.3,1000,89.4,5,Yes,2847000
+610,Kia,Carens,2021,141304,Petrol,Individual,Manual,First Owner,24.8,1598,98.4,7,Yes,3268000
+611,Tata,Nexon,2015,57691,Diesel,Dealer,Automatic,Second Owner,25.7,1000,85.3,5,Yes,2436000
+612,Kia,Seltos,2017,84768,Petrol,Individual,Manual,First Owner,19.7,1598,109.7,5,No,3109000
+613,Volkswagen,Vento,2022,161685,Petrol,Individual,Manual,Second Owner,24.5,1000,68.3,5,Yes,2496000
+614,Toyota,Innova,2012,19026,Petrol,Dealer,Manual,First Owner,14.3,800,51.4,7,Yes,1247000
+615,Volkswagen,Ameo,2025,35908,Diesel,Individual,Manual,First Owner,19.9,1995,112.8,7,Yes,3995000
+616,Kia,Carens,2019,24610,Diesel,Individual,Manual,First Owner,18.3,1197,77.1,5,Yes,2621000
+617,Volkswagen,Ameo,2018,68185,Petrol,Dealer,Manual,First Owner,21.8,1199,68.2,5,Yes,2148000
+618,Hyundai,Grand i10,2022,77567,Diesel,Individual,Manual,Second Owner,12.7,1598,139.6,4,Yes,4219000
+619,Tata,Altroz,2022,41182,CNG,Dealer,Manual,First Owner,24,1497,117,5,No,3679000
+620,Renault,Duster,2020,121136,Petrol,Trustmark Dealer,Manual,First Owner,13.3,1199,103.2,5,Yes,3306000
+621,Toyota,Innova,2014,136642,Petrol,Individual,Manual,First Owner,22.5,2494,199.8,5,Yes,4968000
+622,Ford,Figo,2013,24288,Diesel,Individual,Manual,First Owner,12.3,1598,95.2,5,Yes,2512000
+623,Maruti,Swift,2012,83824,Petrol,Individual,Manual,First Owner,25.3,1598,140.5,5,Yes,3467000
+624,Renault,Kwid,2014,165949,Diesel,Individual,Manual,First Owner,14.8,1000,86.5,5,Yes,2255000
+625,Maruti,Swift,2016,89425,Petrol,Trustmark Dealer,Manual,First Owner,20.2,1598,107.4,5,Yes,2916000
+626,Tata,Tiago,2025,5917,Petrol,Individual,Manual,Second Owner,16.2,1995,117.5,5,Yes,4146000
+627,Toyota,Innova,2022,80602,Diesel,Individual,Automatic,First Owner,23.6,2198,175.1,5,Yes,5272000
+628,Honda,Amaze,2013,69575,Diesel,Dealer,Manual,Second Owner,17.1,2198,176.9,5,Yes,4498000
+629,Ford,Aspire,2023,77518,Diesel,Dealer,Manual,Third Owner,23.6,2494,215.5,5,No,6126000
+630,Hyundai,Creta,2014,44104,CNG,Individual,Manual,First Owner,16.6,1197,68,5,Yes,1977000
+631,Honda,City,2015,154134,Diesel,Individual,Manual,Second Owner,24,1995,119.6,4,Yes,3301000
+632,Tata,Tiago,2018,21999,Diesel,Dealer,Manual,Second Owner,12.5,1995,151.5,5,Yes,4223000
+633,Renault,Triber,2024,146013,Petrol,Trustmark Dealer,Automatic,First Owner,16.5,800,61.3,5,Yes,2551000
+634,Hyundai,Verna,2014,66169,Petrol,Individual,Manual,Fourth & Above Owner,20,2198,123.5,5,Yes,3292000
+635,Volkswagen,Vento,2020,159542,Petrol,Individual,Automatic,First Owner,12.7,1199,82.6,4,Yes,2865000
+636,Kia,Seltos,2019,134744,Diesel,Individual,Automatic,First Owner,15,1497,112.9,5,No,3523000
+637,Hyundai,Creta,2015,115684,Petrol,Individual,Manual,Second Owner,27,1598,129.2,5,Yes,3417000
+638,Tata,Nexon,2024,64821,Diesel,Individual,Manual,First Owner,27.6,1197,79.1,5,Yes,3137000
+639,Mahindra,Bolero,2012,140601,Petrol,Trustmark Dealer,Manual,First Owner,23.8,1497,107.7,5,Yes,2721000
+640,Kia,Carens,2012,17192,Diesel,Dealer,Manual,First Owner,16,1497,125,5,Yes,3052000
+641,Maruti,Alto,2012,79102,CNG,Trustmark Dealer,Automatic,Second Owner,16.2,800,70.7,5,Yes,1822000
+642,Ford,Figo,2012,119894,Petrol,Individual,Manual,Second Owner,22.3,1197,75.5,5,No,1940000
+643,Maruti,Alto,2019,91795,Diesel,Dealer,Automatic,First Owner,13.9,1197,76.4,5,Yes,2850000
+644,Hyundai,Grand i10,2014,170159,Petrol,Dealer,Manual,Third Owner,27.2,800,70.3,5,Yes,1711000
+645,Maruti,Baleno,2017,71677,Petrol,Dealer,Automatic,First Owner,15.6,1995,137.4,5,No,3962000
+646,Tata,Tiago,2014,140699,Diesel,Individual,Automatic,First Owner,28,800,64.1,5,Yes,1911000
+647,Volkswagen,Vento,2022,139327,Petrol,Individual,Manual,Second Owner,19.9,1995,152.5,5,No,4396000
+648,Renault,Triber,2016,141285,CNG,Dealer,Manual,Second Owner,24.3,1199,77.9,5,Yes,2224000
+649,Ford,EcoSport,2024,107412,Petrol,Individual,Manual,First Owner,12,2494,194.2,5,Yes,5605000
+650,Maruti,Baleno,2025,24404,Petrol,Trustmark Dealer,Automatic,First Owner,26.2,1995,155.5,5,Yes,5037000
+651,Maruti,Dzire,2024,121545,CNG,Individual,Automatic,Second Owner,16.3,1497,113.4,5,Yes,3789000
+652,Hyundai,Grand i10,2018,161452,Petrol,Dealer,Manual,Fourth & Above Owner,22.7,1995,116.7,5,Yes,3303000
+653,Renault,Kwid,2013,155245,LPG,Dealer,Manual,Second Owner,24.9,2494,224,7,Yes,5364000
+654,Honda,City,2017,28989,CNG,Dealer,Manual,First Owner,14.6,1598,110.3,5,Yes,3198000
+655,Maruti,Dzire,2024,113106,Petrol,Individual,Automatic,Fourth & Above Owner,19.1,800,61.9,7,Yes,2665000
+656,Tata,Altroz,2017,29519,Petrol,Trustmark Dealer,Manual,Third Owner,19.9,1598,137.4,5,Yes,3710000
+657,Mahindra,Bolero,2022,27439,Petrol,Dealer,Automatic,First Owner,17,800,55.9,5,Yes,2570000
+658,Ford,EcoSport,2014,123570,Petrol,Individual,Manual,Second Owner,19.7,1199,98.4,5,Yes,2551000
+659,Maruti,Alto,2017,19995,Petrol,Dealer,Manual,Second Owner,17.1,2198,195.7,7,Yes,5206000
+660,Tata,Tiago,2021,28559,Petrol,Individual,Manual,Third Owner,17.8,1497,101.1,5,Yes,3150000
+661,Tata,Nexon,2021,94049,Petrol,Individual,Manual,Second Owner,22.7,1497,103.6,5,Yes,3225000
+662,Ford,Aspire,2025,141093,Petrol,Individual,Manual,Second Owner,22.1,2198,190.6,5,Yes,5636000
+663,Honda,City,2016,103000,LPG,Dealer,Manual,Second Owner,15.7,2198,133.2,5,Yes,3737000
+664,Tata,Nexon,2023,157191,Diesel,Individual,Manual,First Owner,26.4,800,44.8,5,Yes,2097000
+665,Mahindra,XUV500,2013,44350,Diesel,Dealer,Manual,Second Owner,25.8,1497,130,5,Yes,3156000
+666,Tata,Nexon,2020,30517,Petrol,Individual,Manual,Second Owner,20.1,1497,125.4,5,No,3752000
+667,Tata,Altroz,2019,158322,Diesel,Individual,Manual,Third Owner,18.9,2198,195.7,5,No,5263000
+668,Tata,Nexon,2014,94132,Petrol,Trustmark Dealer,Automatic,First Owner,18,800,45.6,5,Yes,1408000
+669,Volkswagen,Vento,2019,64546,Diesel,Individual,Manual,First Owner,23.3,1995,120.6,5,Yes,3678000
+670,Volkswagen,Vento,2025,110686,LPG,Trustmark Dealer,Automatic,First Owner,22.7,1995,117.1,5,Yes,4081000
+671,Honda,Jazz,2020,93151,Petrol,Individual,Manual,Second Owner,15.1,2494,196.8,7,Yes,5505000
+672,Maruti,Baleno,2025,8327,Diesel,Individual,Manual,Second Owner,22.7,1000,76.2,7,No,3059000
+673,Tata,Nexon,2014,125318,Diesel,Dealer,Manual,First Owner,16,1197,80.9,5,Yes,2266000
+674,Renault,Duster,2014,165840,CNG,Dealer,Manual,First Owner,12.3,1199,68.4,5,Yes,1854000
+675,Maruti,Alto,2013,178860,Diesel,Individual,Manual,First Owner,23.2,800,61.9,5,Yes,1765000
+676,Honda,Amaze,2019,120945,Petrol,Individual,Manual,First Owner,22.3,1995,149.5,7,Yes,4267000
+677,Toyota,Etios,2021,51830,Petrol,Dealer,Manual,Second Owner,18.6,1197,70.6,5,Yes,2340000
+678,Maruti,Baleno,2012,57446,Petrol,Individual,Manual,First Owner,20.4,1197,103.9,5,Yes,2589000
+679,Maruti,Alto,2019,151232,Diesel,Dealer,Manual,First Owner,27.2,1197,74.2,5,Yes,2484000
+680,Kia,Sonet,2018,170070,Petrol,Individual,Manual,First Owner,21.5,2198,178.1,5,Yes,4784000
+681,Hyundai,Verna,2025,163302,Diesel,Individual,Manual,First Owner,22.5,2494,214.4,5,Yes,6405000
+682,Kia,Seltos,2018,145148,Petrol,Trustmark Dealer,Manual,Second Owner,13,1000,75.3,5,Yes,2305000
+683,Mahindra,Scorpio,2014,74341,Petrol,Individual,Manual,First Owner,14.7,800,50.9,5,Yes,1629000
+684,Volkswagen,Vento,2012,36085,Petrol,Individual,Manual,Third Owner,16.8,2494,164.2,5,Yes,4026000
+685,Volkswagen,Ameo,2015,60571,Diesel,Dealer,Manual,First Owner,20.6,1598,137.4,5,No,3634000
+686,Hyundai,Verna,2020,150787,Petrol,Individual,Automatic,First Owner,24.4,2494,163.2,5,Yes,4648000
+687,Ford,Figo,2016,133308,Petrol,Individual,Automatic,First Owner,17.1,1598,129.6,5,Yes,3525000
+688,Ford,Figo,2012,10750,Petrol,Individual,Manual,Second Owner,17.7,1000,89.7,5,Yes,2148000
+689,Honda,City,2016,118931,Petrol,Individual,Manual,First Owner,16.1,800,72,5,Yes,2217000
+690,Hyundai,i20,2024,83768,Petrol,Individual,Manual,Third Owner,16.1,2198,161.9,7,Yes,4868000
+691,Maruti,Swift,2019,40903,Diesel,Individual,Manual,Second Owner,27.2,1197,100.5,5,Yes,3245000
+692,Ford,Aspire,2019,168165,Petrol,Individual,Manual,First Owner,22.2,800,71.7,5,Yes,2203000
+693,Tata,Altroz,2016,96036,Petrol,Dealer,Manual,Second Owner,14.5,2198,149.7,5,Yes,3925000
+694,Renault,Kwid,2023,92954,Diesel,Dealer,Manual,Third Owner,23.6,800,51.1,5,Yes,2316000
+695,Maruti,Alto,2020,170386,LPG,Individual,Manual,First Owner,23.6,2198,129.7,5,Yes,3850000
+696,Mahindra,XUV500,2012,88014,Diesel,Dealer,Manual,First Owner,22.7,800,47.9,5,Yes,1400000
+697,Tata,Tiago,2015,171251,Petrol,Trustmark Dealer,Manual,Second Owner,14.2,2494,211.7,5,Yes,5208000
+698,Tata,Tiago,2014,122305,CNG,Individual,Manual,First Owner,18.5,2494,188.6,5,Yes,4731000
+699,Hyundai,i20,2013,161410,CNG,Dealer,Manual,Fourth & Above Owner,13.7,2494,213.4,5,Yes,5163000
+700,Honda,Jazz,2019,37101,Diesel,Individual,Manual,First Owner,25.1,1197,98.9,5,Yes,3041000
+701,Mahindra,Bolero,2018,7775,Petrol,Dealer,Manual,First Owner,22.5,1199,94.2,5,Yes,2847000
+702,Ford,Aspire,2020,116497,Diesel,Trustmark Dealer,Manual,Fourth & Above Owner,20.1,1497,114.3,7,Yes,3451000
+703,Hyundai,Grand i10,2013,50619,Diesel,Individual,Manual,Second Owner,17.5,1598,90.6,5,No,2409000
+704,Ford,Figo,2025,155611,Petrol,Individual,Manual,First Owner,14.9,2494,213.3,5,Yes,6175000
+705,Hyundai,i20,2025,62124,Petrol,Individual,Automatic,Third Owner,13.7,1199,83.5,5,Yes,3113000
+706,Hyundai,Creta,2015,70149,Diesel,Individual,Manual,First Owner,27.5,1598,119.2,5,Yes,3401000
+707,Hyundai,Grand i10,2025,31616,Diesel,Individual,Automatic,First Owner,15.2,800,44.6,7,Yes,2622000
+708,Honda,Jazz,2017,173171,Petrol,Dealer,Manual,Third Owner,13,1000,87.8,7,Yes,2461000
+709,Hyundai,Grand i10,2022,66799,Diesel,Individual,Manual,First Owner,27.4,2198,190.3,5,No,5513000
+710,Toyota,Etios,2014,95221,Petrol,Individual,Manual,First Owner,20.8,1199,88.7,5,Yes,2347000
+711,Renault,Kwid,2019,119879,Petrol,Dealer,Manual,First Owner,24.7,1995,150,5,Yes,4333000
+712,Ford,EcoSport,2014,30479,Diesel,Individual,Manual,Second Owner,12.7,1199,95.5,5,Yes,2661000
+713,Maruti,Swift,2025,104165,Petrol,Trustmark Dealer,Manual,First Owner,21.1,2494,160.3,5,Yes,5040000
+714,Kia,Sonet,2023,60863,Petrol,Dealer,Manual,First Owner,18.4,2494,156.5,7,No,4955000
+715,Mahindra,Bolero,2024,178115,CNG,Individual,Automatic,Second Owner,24.4,1199,94.2,5,Yes,3434000
+716,Volkswagen,Vento,2024,87569,Petrol,Individual,Manual,First Owner,12.6,2198,128.9,5,No,4366000
+717,Honda,Amaze,2013,151480,Petrol,Individual,Manual,Second Owner,18.4,1598,113.3,5,Yes,2662000
+718,Maruti,Baleno,2024,21351,CNG,Dealer,Manual,Third Owner,24.8,800,57.8,7,Yes,2408000
+719,Tata,Altroz,2024,140203,Diesel,Individual,Manual,First Owner,20.4,1995,136.4,5,Yes,4427000
+720,Toyota,Innova,2014,49825,Diesel,Dealer,Automatic,First Owner,20.8,800,49.2,5,Yes,1589000
+721,Volkswagen,Polo,2022,16349,Diesel,Dealer,Automatic,First Owner,13.6,1197,80.7,5,No,3262000
+722,Kia,Sonet,2017,49254,Petrol,Individual,Automatic,Second Owner,14.1,2198,146.9,4,Yes,4116000
+723,Maruti,Dzire,2013,43225,Diesel,Dealer,Manual,Third Owner,22.8,2494,180.8,5,Yes,4575000
+724,Volkswagen,Vento,2019,17453,Petrol,Individual,Manual,First Owner,22.8,1197,94.1,5,Yes,2963000
+725,Maruti,Swift,2012,154886,Diesel,Trustmark Dealer,Manual,First Owner,27.7,800,71.1,5,No,1749000
+726,Toyota,Etios,2018,154335,Petrol,Individual,Automatic,First Owner,23.4,800,48,5,No,1753000
+727,Kia,Seltos,2013,82694,Diesel,Dealer,Manual,First Owner,19.9,1995,170.7,5,Yes,4479000
+728,Tata,Altroz,2021,20735,Petrol,Individual,Manual,First Owner,25.7,1497,97.2,5,Yes,3217000
+729,Hyundai,Verna,2023,151902,Petrol,Dealer,Manual,Second Owner,13.7,800,60.6,5,Yes,2439000
+730,Ford,EcoSport,2017,52893,Diesel,Individual,Manual,First Owner,19.2,1598,118.5,5,Yes,3434000
+731,Tata,Tiago,2023,132006,Diesel,Individual,Manual,Second Owner,16.6,1598,119,5,Yes,3821000
+732,Hyundai,i20,2013,50066,Diesel,Individual,Manual,First Owner,13.7,1199,96.3,5,Yes,2550000
+733,Honda,City,2013,139445,Petrol,Individual,Automatic,First Owner,24.2,1995,136.4,5,Yes,3576000
+734,Renault,Duster,2021,146407,Petrol,Dealer,Automatic,First Owner,20.2,1995,132,7,Yes,4085000
+735,Mahindra,Scorpio,2024,159813,Diesel,Dealer,Manual,Second Owner,20.9,2494,211.6,5,Yes,6052000
+736,Mahindra,Bolero,2019,15692,Diesel,Individual,Manual,First Owner,18.6,800,50.2,5,Yes,2030000
+737,Ford,EcoSport,2023,50541,Diesel,Individual,Automatic,First Owner,19.4,1497,91.8,5,Yes,3462000
+738,Kia,Seltos,2013,170129,CNG,Individual,Automatic,First Owner,13.9,1197,66.5,5,Yes,1829000
+739,Toyota,Fortuner,2018,71983,Diesel,Individual,Manual,Second Owner,22.8,1995,124.4,5,Yes,3572000
+740,Kia,Carens,2014,155655,Diesel,Individual,Manual,First Owner,18.9,1199,87.7,5,Yes,2409000
+741,Toyota,Etios,2019,158837,Diesel,Individual,Manual,First Owner,25.1,1199,88.5,5,Yes,2646000
+742,Kia,Carens,2018,159978,CNG,Individual,Automatic,Second Owner,15.1,800,51.1,5,Yes,1839000
+743,Renault,Duster,2025,125747,Diesel,Individual,Manual,Second Owner,15.3,800,46,5,Yes,2306000
+744,Honda,Amaze,2019,90103,Diesel,Trustmark Dealer,Manual,First Owner,22.3,1000,81.1,5,Yes,2816000
+745,Honda,Jazz,2025,174302,Diesel,Individual,Manual,Second Owner,25.5,1000,81.5,5,Yes,3083000
+746,Hyundai,Verna,2018,155592,Diesel,Individual,Automatic,First Owner,19.6,800,71.9,7,Yes,2385000
+747,Volkswagen,Ameo,2022,30566,Petrol,Dealer,Manual,Second Owner,23.6,2198,190.1,5,Yes,5455000
+748,Honda,Amaze,2017,78193,Petrol,Dealer,Manual,Second Owner,28,1598,139.7,5,Yes,3703000
+749,Honda,Jazz,2024,166206,CNG,Individual,Manual,First Owner,27.8,1598,132.5,5,Yes,4216000
+750,Tata,Altroz,2018,146417,Diesel,Individual,Manual,Second Owner,23.9,2494,190.9,7,Yes,5166000
+751,Tata,Tiago,2016,126015,Diesel,Dealer,Manual,First Owner,23.8,1497,89.1,5,Yes,2702000
+752,Hyundai,Grand i10,2018,177257,CNG,Individual,Manual,First Owner,16,1199,92.1,5,No,2702000
+753,Volkswagen,Polo,2012,135956,Diesel,Individual,Manual,Second Owner,25.3,1598,91,5,Yes,2308000
+754,Ford,Figo,2012,75744,Petrol,Individual,Automatic,Third Owner,18.5,2198,189,5,Yes,4439000
+755,Tata,Altroz,2020,38455,Diesel,Individual,Manual,First Owner,27.4,800,57.5,5,Yes,2266000
+756,Ford,EcoSport,2025,164090,Diesel,Individual,Manual,First Owner,13.3,1995,158.4,5,Yes,4978000
+757,Maruti,Baleno,2016,59219,Petrol,Dealer,Manual,First Owner,19,2198,124.9,5,No,3688000
+758,Tata,Tiago,2024,50991,Petrol,Individual,Manual,Fourth & Above Owner,20.9,2494,183.8,5,Yes,5451000
+759,Renault,Duster,2016,78616,Petrol,Individual,Manual,Second Owner,18.5,2198,144.1,5,Yes,3803000
+760,Volkswagen,Polo,2014,92438,Petrol,Individual,Automatic,Second Owner,15.4,1995,129.6,5,Yes,3361000
+761,Hyundai,Creta,2016,121841,Petrol,Individual,Manual,First Owner,21.5,1197,82.2,5,Yes,2434000
+762,Maruti,Baleno,2014,145558,Petrol,Dealer,Manual,Third Owner,24.1,1000,55,5,Yes,1632000
+763,Volkswagen,Vento,2020,174934,Petrol,Individual,Automatic,Second Owner,22.3,1197,85.4,5,Yes,2950000
+764,Renault,Duster,2020,63870,Petrol,Trustmark Dealer,Manual,Second Owner,15.8,1199,86.4,5,Yes,2680000
+765,Volkswagen,Vento,2017,91694,Petrol,Individual,Automatic,First Owner,23.7,1199,102.2,4,Yes,3045000
+766,Renault,Duster,2012,48856,Diesel,Individual,Manual,First Owner,16.1,1598,113,5,Yes,2992000
+767,Renault,Triber,2018,106407,Diesel,Dealer,Manual,First Owner,14.8,1995,135.1,5,Yes,3802000
+768,Ford,Aspire,2018,36379,Diesel,Individual,Manual,Second Owner,23.1,1199,107.7,5,Yes,3267000
+769,Kia,Sonet,2025,69729,Petrol,Individual,Manual,First Owner,25.5,1598,119.8,5,Yes,4001000
+770,Maruti,Swift,2021,164450,Petrol,Dealer,Manual,Second Owner,19.7,2494,178.4,5,Yes,5044000
+771,Volkswagen,Ameo,2021,59353,Petrol,Individual,Manual,First Owner,20.5,1598,115.6,7,Yes,3662000
+772,Toyota,Innova,2015,19031,Petrol,Dealer,Manual,Second Owner,16.8,1197,99.7,5,Yes,2778000
+773,Maruti,Alto,2019,70982,Petrol,Trustmark Dealer,Automatic,First Owner,19.9,800,53.5,5,No,2207000
+774,Kia,Sonet,2017,41683,Petrol,Individual,Manual,First Owner,14.1,1497,102.7,5,Yes,2977000
+775,Maruti,Alto,2015,119091,Petrol,Individual,Automatic,First Owner,27.3,1197,97.5,5,Yes,2695000
+776,Honda,Amaze,2015,122797,Diesel,Individual,Manual,First Owner,24.8,2198,126.5,4,Yes,3455000
+777,Toyota,Fortuner,2013,153690,Petrol,Individual,Manual,First Owner,22.7,800,68.2,4,Yes,1797000
+778,Kia,Sonet,2025,11587,Petrol,Dealer,Automatic,Second Owner,20.6,1000,70.1,5,Yes,3050000
+779,Ford,Figo,2013,67790,Diesel,Dealer,Manual,First Owner,24.7,1197,90.2,5,Yes,2476000
+780,Volkswagen,Vento,2023,36480,Petrol,Individual,Automatic,First Owner,19.9,1197,97.6,5,Yes,3490000
+781,Mahindra,XUV500,2025,156599,Petrol,Individual,Manual,First Owner,16.8,2198,141.4,5,Yes,4626000
+782,Kia,Seltos,2015,28569,Diesel,Individual,Manual,First Owner,14.6,1497,129,7,Yes,3471000
+783,Hyundai,Verna,2016,16151,Diesel,Individual,Manual,First Owner,22.4,2198,196.2,5,Yes,5169000
+784,Volkswagen,Polo,2019,49739,Diesel,Dealer,Manual,First Owner,26.9,1598,115.5,5,Yes,3617000
+785,Kia,Seltos,2017,37954,Petrol,Individual,Manual,First Owner,14.5,1000,87.8,5,Yes,2620000
+786,Honda,Amaze,2025,114373,Petrol,Dealer,Manual,First Owner,14.9,1199,66,7,Yes,2745000
+787,Mahindra,Bolero,2015,171375,Petrol,Dealer,Manual,Second Owner,18.9,2494,215.2,5,Yes,5458000
+788,Honda,Jazz,2024,39700,Petrol,Dealer,Manual,First Owner,24.9,1199,79,7,Yes,2975000
+789,Mahindra,XUV500,2022,128728,CNG,Individual,Manual,First Owner,16.7,1497,98.7,5,Yes,3338000
+790,Hyundai,i20,2018,71788,Diesel,Dealer,Manual,First Owner,16.1,1497,94.3,5,No,2848000
+791,Volkswagen,Vento,2019,76045,Petrol,Individual,Manual,Third Owner,21.9,2198,145.3,5,Yes,4038000
+792,Ford,Figo,2013,173914,Diesel,Dealer,Automatic,Second Owner,20.6,1598,99.8,5,Yes,2678000
+793,Honda,Amaze,2023,149972,Petrol,Individual,Manual,Second Owner,13,1995,173,5,Yes,4975000
+794,Honda,City,2018,132992,CNG,Individual,Manual,First Owner,13.3,1598,138.2,5,Yes,3848000
+795,Renault,Triber,2025,85059,Petrol,Dealer,Automatic,Second Owner,22.3,1497,87.7,5,Yes,3501000
+796,Mahindra,Scorpio,2013,6881,Petrol,Individual,Manual,First Owner,19.4,1497,89.8,5,Yes,2390000
+797,Tata,Nexon,2013,169109,Petrol,Individual,Automatic,First Owner,27.5,1197,101.9,5,Yes,2718000
+798,Volkswagen,Vento,2019,137702,Diesel,Trustmark Dealer,Manual,Second Owner,22.9,1995,137.6,7,Yes,3925000
+799,Mahindra,Bolero,2013,25789,Diesel,Individual,Manual,First Owner,12.2,1497,91.2,5,No,2541000
+800,Renault,Kwid,2022,131083,Petrol,Individual,Manual,Fourth & Above Owner,19.7,1995,145.4,7,Yes,4186000
+801,Maruti,Swift,2020,93059,Petrol,Individual,Manual,First Owner,18.6,1000,69.6,5,Yes,2398000
+802,Mahindra,XUV500,2023,51151,Petrol,Dealer,Manual,Fourth & Above Owner,13.7,2494,156.3,7,Yes,4783000
+803,Ford,EcoSport,2012,114388,Petrol,Individual,Manual,Second Owner,26.8,2198,176.3,4,Yes,4230000
+804,Volkswagen,Vento,2020,8262,CNG,Dealer,Automatic,First Owner,24.9,1497,115.4,5,Yes,3784000
+805,Renault,Kwid,2012,71981,Petrol,Individual,Manual,First Owner,15.7,1000,58.5,5,Yes,1567000
+806,Maruti,Alto,2021,125951,Petrol,Individual,Manual,First Owner,16.1,1598,139.6,5,Yes,4101000
+807,Toyota,Innova,2024,128099,Diesel,Dealer,Manual,Third Owner,12.5,2198,163.9,5,No,5116000
+808,Renault,Kwid,2021,86972,Petrol,Individual,Manual,First Owner,16.7,1995,127.2,5,Yes,3984000
+809,Toyota,Fortuner,2013,80485,Diesel,Trustmark Dealer,Manual,Second Owner,21.4,2198,136.8,7,Yes,3512000
+810,Volkswagen,Vento,2017,59722,Diesel,Individual,Manual,Fourth & Above Owner,18.7,1199,71.7,7,Yes,2217000
+811,Honda,Amaze,2017,94499,Petrol,Individual,Manual,First Owner,27.5,1197,83.6,7,Yes,2514000
+812,Renault,Kwid,2012,166004,CNG,Individual,Manual,First Owner,12.9,1995,119.2,7,Yes,3008000
+813,Hyundai,Grand i10,2018,11901,Diesel,Individual,Manual,Second Owner,21.5,1000,69.6,5,Yes,2302000
+814,Toyota,Fortuner,2019,122473,Petrol,Trustmark Dealer,Automatic,First Owner,25.7,1497,90.1,7,Yes,2998000
+815,Ford,Figo,2013,13597,Petrol,Dealer,Automatic,First Owner,19.7,1995,155.6,7,Yes,4111000
+816,Hyundai,Grand i10,2019,134631,Petrol,Individual,Manual,First Owner,12,800,66,5,No,2237000
+817,Kia,Seltos,2020,68909,Diesel,Individual,Manual,First Owner,15.9,1199,89,5,Yes,2999000
+818,Kia,Carens,2017,77391,Diesel,Dealer,Manual,Second Owner,17.2,1000,78.8,7,Yes,2387000
+819,Maruti,Baleno,2016,144335,Diesel,Individual,Manual,First Owner,27.5,1598,140.4,5,Yes,3701000
+820,Honda,Amaze,2023,68293,LPG,Individual,Manual,Fourth & Above Owner,26.6,800,61.9,5,Yes,2254000
+821,Volkswagen,Ameo,2020,161877,Diesel,Trustmark Dealer,Manual,First Owner,27.2,1995,135.2,5,Yes,4001000
+822,Renault,Triber,2024,16874,Diesel,Trustmark Dealer,Automatic,Second Owner,25.2,1197,84.7,5,Yes,3260000
+823,Tata,Altroz,2023,91402,Petrol,Trustmark Dealer,Manual,First Owner,17.6,800,68.1,7,No,2759000
+824,Ford,Aspire,2022,19079,Petrol,Dealer,Manual,First Owner,26.5,2198,130.9,5,No,4296000
+825,Toyota,Innova,2020,77779,Petrol,Dealer,Manual,First Owner,27.7,1995,132.5,5,Yes,3928000
+826,Volkswagen,Ameo,2012,100408,Diesel,Individual,Manual,Second Owner,17.6,1000,75.2,5,Yes,1920000
+827,Hyundai,Verna,2022,145090,Petrol,Individual,Manual,Third Owner,16.2,1995,157,5,Yes,4557000
+828,Kia,Sonet,2014,125606,Petrol,Individual,Manual,First Owner,20.8,1197,97.8,5,Yes,2567000
+829,Ford,EcoSport,2020,125062,Petrol,Dealer,Manual,First Owner,15,2494,164.9,5,Yes,4704000
+830,Tata,Tiago,2022,17100,Petrol,Dealer,Manual,First Owner,12.5,2198,132.1,7,Yes,4412000
+831,Renault,Duster,2013,62021,Diesel,Dealer,Manual,First Owner,27.1,1497,132.4,5,Yes,3546000
+832,Maruti,Alto,2023,155872,Petrol,Trustmark Dealer,Manual,Second Owner,26.8,1995,115.1,5,No,3734000
+833,Tata,Tiago,2015,133126,Diesel,Dealer,Manual,Second Owner,14.6,1197,69.8,7,Yes,1977000
+834,Ford,EcoSport,2015,97446,Petrol,Trustmark Dealer,Manual,First Owner,18.5,800,57.9,5,Yes,1784000
+835,Tata,Altroz,2013,34437,Diesel,Individual,Manual,Fourth & Above Owner,25.3,800,66.9,5,Yes,1595000
+836,Ford,Aspire,2014,156014,Petrol,Dealer,Automatic,First Owner,22.6,1000,82.1,5,Yes,2337000
+837,Ford,EcoSport,2024,25862,Petrol,Individual,Manual,Second Owner,18.3,2198,193,5,Yes,5677000
+838,Mahindra,Scorpio,2014,16669,Diesel,Individual,Automatic,First Owner,23.9,800,48,5,Yes,1494000
+839,Toyota,Fortuner,2012,126219,Petrol,Trustmark Dealer,Automatic,First Owner,26.4,1497,102,7,Yes,2615000
+840,Kia,Seltos,2017,20916,Petrol,Dealer,Manual,First Owner,26.8,2494,161.8,5,Yes,4428000
+841,Mahindra,Scorpio,2019,15878,Petrol,Individual,Manual,First Owner,18.1,2494,212.3,5,Yes,5785000
+842,Renault,Kwid,2023,7985,Petrol,Individual,Automatic,Second Owner,14.8,1000,72.1,5,Yes,2842000
+843,Mahindra,Bolero,2014,46235,Petrol,Dealer,Manual,Second Owner,26.6,1995,111.6,5,Yes,2858000
+844,Honda,Amaze,2016,23931,Petrol,Individual,Manual,First Owner,13.5,800,63.8,5,Yes,1926000
+845,Honda,Amaze,2012,97876,Diesel,Trustmark Dealer,Automatic,Second Owner,23.5,1197,82.1,5,Yes,2228000
+846,Kia,Carens,2021,5336,Diesel,Individual,Manual,First Owner,14.2,1598,117.6,5,Yes,3848000
+847,Tata,Altroz,2018,47933,Petrol,Individual,Manual,Second Owner,18.2,2494,215.2,7,Yes,5649000
+848,Toyota,Innova,2021,50536,CNG,Individual,Manual,First Owner,18.6,1000,64,7,Yes,2476000
+849,Kia,Carens,2024,74504,Petrol,Individual,Automatic,First Owner,14.5,1995,126.5,5,No,4325000
+850,Ford,EcoSport,2012,104214,Diesel,Individual,Manual,First Owner,26.8,1199,77,5,No,1996000
+851,Hyundai,i20,2023,118936,Diesel,Trustmark Dealer,Manual,First Owner,12,1000,66.8,5,Yes,2711000
+852,Toyota,Fortuner,2022,21279,Diesel,Individual,Manual,Second Owner,26.3,1197,70.3,5,Yes,2615000
+853,Toyota,Innova,2020,108751,Petrol,Individual,Manual,First Owner,26.1,1598,126.9,5,Yes,3774000
+854,Ford,Figo,2019,109433,Petrol,Individual,Manual,First Owner,17.1,2494,155.3,5,No,4321000
+855,Ford,Aspire,2018,76386,Petrol,Individual,Manual,First Owner,23.3,2198,192.1,5,Yes,5153000
+856,Maruti,Baleno,2021,91124,Petrol,Dealer,Manual,Second Owner,16,2494,156,5,Yes,4739000
+857,Kia,Carens,2018,110750,Petrol,Individual,Manual,Second Owner,24.1,1199,76.7,5,Yes,2352000
+858,Ford,EcoSport,2016,82485,Petrol,Dealer,Manual,First Owner,21,1199,78.4,5,Yes,2433000
+859,Honda,Jazz,2016,79055,Petrol,Individual,Manual,First Owner,16.8,2494,204.3,5,Yes,5278000
+860,Renault,Duster,2022,96911,Petrol,Individual,Automatic,Second Owner,18.4,2198,153.8,5,Yes,4606000
+861,Hyundai,Grand i10,2024,103618,Diesel,Individual,Manual,First Owner,23,1000,83.7,5,Yes,3194000
+862,Kia,Seltos,2016,118892,Diesel,Individual,Manual,First Owner,26.5,2198,181.3,5,Yes,4839000
+863,Volkswagen,Ameo,2012,76128,CNG,Dealer,Manual,First Owner,14.1,800,70,5,Yes,1963000
+864,Honda,Jazz,2019,154180,Petrol,Individual,Automatic,First Owner,21.1,2494,203.2,7,Yes,5516000
+865,Tata,Altroz,2023,57495,Diesel,Dealer,Manual,First Owner,16.1,2494,141.7,5,Yes,4637000
+866,Ford,Figo,2022,87806,Diesel,Individual,Manual,Second Owner,24.8,2198,185.3,5,Yes,5397000
+867,Volkswagen,Vento,2012,98185,Petrol,Dealer,Manual,First Owner,13.1,1497,131.5,5,Yes,3279000
+868,Ford,Aspire,2015,175591,Petrol,Trustmark Dealer,Manual,Second Owner,23,1497,134.4,7,Yes,3457000
+869,Toyota,Innova,2020,54649,CNG,Individual,Manual,First Owner,14.8,1197,71.1,5,Yes,2512000
+870,Honda,City,2025,170596,Petrol,Individual,Manual,Second Owner,21.5,1497,114.5,5,Yes,3728000
+871,Toyota,Etios,2020,169957,Petrol,Trustmark Dealer,Manual,First Owner,25.4,1199,74.3,5,Yes,2546000
+872,Maruti,Swift,2016,100402,Petrol,Dealer,Automatic,First Owner,24.1,800,51.4,5,Yes,1785000
+873,Toyota,Etios,2015,35676,Petrol,Individual,Manual,First Owner,24,2494,202.3,7,Yes,5257000
+874,Maruti,Alto,2014,69093,Diesel,Individual,Manual,First Owner,20.3,1199,107,5,Yes,2824000
+875,Maruti,Baleno,2014,84414,Diesel,Dealer,Manual,First Owner,26.3,1197,90.8,5,Yes,2510000
+876,Volkswagen,Vento,2023,98095,Petrol,Dealer,Automatic,Second Owner,21.4,1598,135.5,5,Yes,4145000
+877,Ford,Aspire,2016,77307,Petrol,Individual,Manual,First Owner,26.7,800,44.2,5,Yes,1403000
+878,Tata,Nexon,2021,100432,Diesel,Individual,Automatic,Third Owner,20.7,1497,84.3,7,Yes,3083000
+879,Toyota,Etios,2012,36923,Diesel,Trustmark Dealer,Automatic,Fourth & Above Owner,20.1,1995,151.4,7,Yes,3806000
+880,Honda,Amaze,2016,122449,Petrol,Individual,Manual,First Owner,15.6,1000,68.6,5,Yes,2085000
+881,Maruti,Alto,2017,52574,Diesel,Individual,Manual,Third Owner,20.7,2494,214.8,5,Yes,5562000
+882,Ford,EcoSport,2018,179463,Petrol,Individual,Manual,First Owner,14.2,1598,104.8,5,Yes,3013000
+883,Hyundai,Verna,2023,126757,Petrol,Dealer,Manual,First Owner,25.9,1000,70.1,5,Yes,2629000
+884,Kia,Carens,2020,58664,Diesel,Individual,Manual,First Owner,22.8,2198,161.5,5,Yes,4756000
+885,Volkswagen,Vento,2014,72384,Petrol,Dealer,Manual,First Owner,27.9,2198,141.9,5,No,3777000
+886,Tata,Altroz,2013,36027,Diesel,Individual,Automatic,First Owner,13.5,800,69.4,5,Yes,1976000
+887,Mahindra,Bolero,2025,171536,Diesel,Dealer,Manual,Third Owner,15.9,800,57,5,Yes,2321000
+888,Volkswagen,Polo,2014,39485,Diesel,Dealer,Automatic,First Owner,26,800,55.9,5,Yes,1820000
+889,Hyundai,i20,2023,155528,Petrol,Individual,Manual,First Owner,18.3,1199,101.6,5,Yes,3403000
+890,Kia,Seltos,2020,40554,Petrol,Individual,Manual,Second Owner,19.5,1199,79,5,Yes,2683000
+891,Hyundai,Verna,2023,51922,Petrol,Individual,Automatic,First Owner,25.8,2198,183.8,5,Yes,5601000
+892,Toyota,Etios,2018,18409,Petrol,Individual,Manual,First Owner,20.3,800,47.4,4,Yes,1839000
+893,Maruti,Swift,2020,41639,Diesel,Dealer,Manual,Second Owner,15.1,1197,73.5,5,Yes,2710000
+894,Tata,Nexon,2024,24692,Diesel,Individual,Manual,First Owner,26.3,800,70.6,5,Yes,2858000
+895,Renault,Kwid,2013,94037,Diesel,Dealer,Manual,First Owner,12.5,2494,210.7,5,Yes,5214000
+896,Maruti,Baleno,2016,23074,CNG,Individual,Manual,First Owner,26.3,2494,171,5,Yes,4727000
+897,Renault,Kwid,2024,151621,Diesel,Individual,Manual,First Owner,12.8,1995,154.3,5,Yes,4912000
+898,Kia,Seltos,2015,34963,Petrol,Individual,Manual,Third Owner,22.7,2198,193.4,5,Yes,4843000
+899,Ford,EcoSport,2013,57265,Petrol,Individual,Automatic,Second Owner,13.1,800,49.9,7,No,1537000
+900,Mahindra,Scorpio,2020,21061,Diesel,Individual,Manual,First Owner,23.3,1497,85.4,7,Yes,2968000
+901,Honda,City,2020,164882,Petrol,Dealer,Automatic,First Owner,12.5,1000,73.8,4,Yes,2698000
+902,Maruti,Dzire,2017,118502,Petrol,Individual,Manual,First Owner,25.5,800,48,5,Yes,1797000
+903,Tata,Altroz,2022,27800,Petrol,Individual,Manual,Fourth & Above Owner,19.5,1197,73.7,5,Yes,2857000
+904,Hyundai,Creta,2017,121192,Diesel,Dealer,Manual,First Owner,13.5,1995,172,5,Yes,4647000
+905,Tata,Nexon,2019,112228,Petrol,Dealer,Manual,First Owner,23.3,800,44.2,5,No,1859000
+906,Kia,Carens,2017,33054,Diesel,Individual,Automatic,Second Owner,19.8,1000,83.6,5,Yes,2713000
+907,Renault,Kwid,2012,18233,Diesel,Individual,Manual,Third Owner,15.1,1000,73.1,5,No,1923000
+908,Hyundai,Verna,2015,161140,Petrol,Individual,Manual,First Owner,12.3,1199,89.4,7,Yes,2465000
+909,Honda,Amaze,2024,70727,Petrol,Dealer,Manual,First Owner,18.7,1197,94,5,No,3428000
+910,Honda,Amaze,2018,95610,Petrol,Dealer,Manual,First Owner,13.4,1197,83.9,5,Yes,2473000
+911,Maruti,Dzire,2024,75453,Diesel,Dealer,Automatic,First Owner,13.5,1497,88.4,5,Yes,3445000
+912,Kia,Sonet,2024,109135,Diesel,Dealer,Automatic,Second Owner,16.3,1197,70.1,4,Yes,2867000
+913,Ford,Aspire,2013,161904,CNG,Individual,Manual,Second Owner,22.1,1995,162.4,5,Yes,3912000
+914,Kia,Seltos,2020,113464,Diesel,Dealer,Manual,Second Owner,20.5,1497,93.9,5,Yes,2919000
+915,Renault,Kwid,2019,18682,Petrol,Individual,Manual,First Owner,13.1,1199,67.1,5,Yes,2307000
+916,Tata,Nexon,2019,159455,Petrol,Individual,Manual,First Owner,27.5,1197,106.9,5,Yes,3137000
+917,Honda,Amaze,2018,63160,Diesel,Individual,Automatic,First Owner,26.2,1199,107.1,4,No,3322000
+918,Tata,Tiago,2015,28666,Petrol,Trustmark Dealer,Manual,First Owner,16.1,1000,68.2,5,Yes,1999000
+919,Tata,Nexon,2013,63817,Petrol,Dealer,Manual,Second Owner,14,800,44.7,5,Yes,1304000
+920,Tata,Tiago,2014,96198,Petrol,Individual,Manual,First Owner,27.1,1197,96.3,7,Yes,2449000
+921,Honda,City,2023,170714,Petrol,Dealer,Automatic,First Owner,19.4,1000,84.1,4,Yes,2886000
+922,Volkswagen,Polo,2017,46830,Petrol,Dealer,Manual,First Owner,17,800,47.5,5,Yes,1718000
+923,Toyota,Innova,2023,15234,Petrol,Individual,Manual,First Owner,19.8,800,47.8,7,No,2200000
+924,Renault,Kwid,2023,62616,Petrol,Individual,Manual,First Owner,24.4,1000,83.8,5,Yes,2998000
+925,Volkswagen,Polo,2016,14221,Petrol,Dealer,Manual,Second Owner,14.7,2494,217.6,5,No,5519000
+926,Renault,Kwid,2023,147482,Diesel,Individual,Manual,First Owner,24.3,1497,123.8,5,Yes,4074000
+927,Hyundai,i20,2019,6051,Diesel,Individual,Manual,Second Owner,24,2494,154.7,5,Yes,4491000
+928,Kia,Sonet,2017,115529,Petrol,Dealer,Manual,First Owner,20.6,2198,152.5,5,Yes,4101000
+929,Kia,Seltos,2017,81918,Diesel,Trustmark Dealer,Manual,First Owner,25.9,1598,121.5,5,Yes,3635000
+930,Mahindra,Bolero,2012,83116,Petrol,Dealer,Manual,Third Owner,14.1,800,48.5,7,Yes,1220000
+931,Kia,Sonet,2015,127226,Petrol,Dealer,Manual,First Owner,21.5,1497,93.4,5,No,2581000
+932,Honda,Amaze,2016,49757,Diesel,Individual,Manual,Second Owner,19.2,800,51.9,5,Yes,1481000
+933,Ford,Figo,2023,126008,Diesel,Individual,Manual,First Owner,18.8,1995,145.3,5,Yes,4540000
+934,Maruti,Dzire,2022,136379,Diesel,Dealer,Manual,First Owner,16,2198,160.2,5,Yes,4831000
+935,Mahindra,Bolero,2014,61889,Petrol,Individual,Manual,Second Owner,18,2198,183.5,5,Yes,4718000
+936,Maruti,Dzire,2024,40944,Petrol,Dealer,Automatic,Third Owner,13.7,1995,162.3,5,Yes,4860000
+937,Renault,Triber,2020,104555,CNG,Individual,Manual,Second Owner,16,1000,87,5,No,2917000
+938,Maruti,Alto,2012,43134,Petrol,Individual,Manual,First Owner,16.4,1497,126,5,No,3132000
+939,Maruti,Baleno,2017,163395,Petrol,Individual,Manual,First Owner,23.5,1199,76.6,7,Yes,2205000
+940,Mahindra,Scorpio,2017,30954,Diesel,Trustmark Dealer,Manual,Second Owner,12.8,1497,99.7,5,No,3049000
+941,Hyundai,Verna,2021,94959,Diesel,Individual,Manual,Second Owner,22.4,2494,180.9,5,Yes,5205000
+942,Tata,Nexon,2016,9992,Diesel,Individual,Automatic,First Owner,15.5,1199,66.5,5,Yes,2122000
+943,Kia,Carens,2023,6961,Petrol,Individual,Manual,First Owner,13.3,2198,190.4,5,Yes,5544000
+944,Kia,Seltos,2016,17497,Diesel,Dealer,Manual,Second Owner,16.8,2198,124.3,5,Yes,3572000
+945,Honda,Jazz,2021,168623,Petrol,Individual,Manual,First Owner,15.6,1000,66.3,5,Yes,2396000
+946,Mahindra,Bolero,2025,18255,Petrol,Individual,Manual,First Owner,20.8,1598,119.7,5,Yes,4148000
+947,Honda,Jazz,2024,140639,Diesel,Individual,Manual,Third Owner,17.7,1497,109.5,5,Yes,3775000
+948,Ford,EcoSport,2016,53847,Petrol,Dealer,Manual,First Owner,27.5,1000,77.9,5,Yes,2185000
+949,Ford,EcoSport,2017,25389,Petrol,Individual,Manual,First Owner,27.4,1199,88.1,5,Yes,2641000
+950,Honda,Jazz,2019,128802,Diesel,Individual,Manual,Second Owner,19.1,1995,125.7,5,No,3684000
+951,Mahindra,Bolero,2013,66576,Petrol,Individual,Automatic,First Owner,24.7,800,49.6,5,Yes,1363000
+952,Honda,City,2017,48919,Petrol,Individual,Automatic,Second Owner,12.2,2494,216.4,5,Yes,5728000
+953,Kia,Seltos,2012,8358,Petrol,Dealer,Manual,First Owner,20.8,800,51.4,7,Yes,1391000
+954,Volkswagen,Ameo,2015,93535,Petrol,Individual,Manual,First Owner,23.9,1497,97.1,5,Yes,2728000
+955,Toyota,Fortuner,2025,110982,Petrol,Trustmark Dealer,Automatic,First Owner,15.5,1995,138.6,5,No,4597000
+956,Maruti,Swift,2021,10698,Diesel,Trustmark Dealer,Manual,Third Owner,13,2198,131.6,5,No,4007000
+957,Toyota,Innova,2014,71809,Diesel,Individual,Manual,First Owner,14.5,1000,72.8,7,Yes,2004000
+958,Mahindra,Scorpio,2020,98079,Petrol,Dealer,Automatic,First Owner,19.1,1199,93.9,5,Yes,2927000
+959,Toyota,Fortuner,2014,60805,Diesel,Dealer,Automatic,First Owner,20.1,1000,82.5,5,Yes,2285000
+960,Ford,EcoSport,2017,167421,Petrol,Dealer,Manual,First Owner,18.1,1199,95.8,7,Yes,2635000
+961,Renault,Kwid,2012,80033,Petrol,Individual,Manual,First Owner,19,1598,96.1,5,Yes,2508000
+962,Maruti,Dzire,2023,103239,Diesel,Individual,Manual,First Owner,19.5,1598,113.4,5,Yes,3881000
+963,Tata,Nexon,2017,135407,Petrol,Individual,Manual,First Owner,24.3,1000,56.4,4,No,2043000
+964,Mahindra,XUV500,2015,49041,LPG,Dealer,Manual,First Owner,13.7,1199,66.7,5,No,2011000
+965,Maruti,Alto,2019,36954,Petrol,Individual,Manual,Second Owner,24.3,1199,84.4,5,Yes,2632000
+966,Toyota,Etios,2024,13002,Diesel,Individual,Manual,Second Owner,23,800,51.1,5,Yes,2384000
+967,Ford,Aspire,2022,74783,Petrol,Individual,Manual,First Owner,23.9,1000,78.9,5,Yes,2789000
+968,Hyundai,Grand i10,2020,112524,Petrol,Individual,Manual,First Owner,23.8,1197,96.2,5,Yes,2971000
+969,Volkswagen,Ameo,2015,129857,Petrol,Individual,Manual,Second Owner,19.5,1497,129.2,5,Yes,3349000
+970,Tata,Altroz,2021,24738,Diesel,Individual,Manual,Second Owner,15.4,2198,179.4,5,Yes,5199000
+971,Volkswagen,Ameo,2023,15703,Petrol,Individual,Manual,First Owner,20.6,1598,90.6,5,Yes,3274000
+972,Maruti,Alto,2021,118776,CNG,Trustmark Dealer,Automatic,Third Owner,27.3,1197,81.4,5,Yes,2807000
+973,Ford,Aspire,2017,148464,Petrol,Individual,Manual,First Owner,21.4,1598,103.2,5,Yes,3032000
+974,Ford,Aspire,2012,49724,Petrol,Dealer,Manual,First Owner,12.2,1995,136.7,5,Yes,3359000
+975,Toyota,Etios,2015,37299,Petrol,Individual,Automatic,First Owner,13,1598,96.8,5,Yes,2799000
+976,Kia,Seltos,2018,20641,Diesel,Individual,Manual,Third Owner,27.9,1598,93.4,5,Yes,2938000
+977,Toyota,Innova,2023,84534,Diesel,Dealer,Manual,First Owner,13.2,800,58.6,5,Yes,2565000
+978,Kia,Sonet,2012,11305,Petrol,Dealer,Automatic,Second Owner,12.7,1197,96,5,Yes,2542000
+979,Kia,Sonet,2019,23782,Diesel,Individual,Manual,First Owner,17.6,1995,158.7,5,No,4549000
+980,Tata,Tiago,2023,83257,Petrol,Trustmark Dealer,Manual,First Owner,27.5,1199,84.9,5,Yes,2937000
+981,Toyota,Etios,2021,82963,Diesel,Trustmark Dealer,Manual,First Owner,17.1,1199,87.9,5,Yes,2991000
+982,Hyundai,Creta,2023,126987,CNG,Trustmark Dealer,Manual,Second Owner,18.6,1995,145.8,5,No,4489000
+983,Honda,City,2022,156638,Petrol,Individual,Automatic,First Owner,22.1,2494,197.5,5,Yes,5633000
+984,Honda,Jazz,2017,129591,Petrol,Individual,Automatic,First Owner,12.4,1000,56.7,5,Yes,1943000
+985,Toyota,Innova,2016,72766,LPG,Dealer,Automatic,First Owner,26.4,2494,199.1,5,Yes,5413000
+986,Toyota,Innova,2021,11511,Diesel,Dealer,Manual,Second Owner,20.3,1197,90.2,5,Yes,3070000
+987,Volkswagen,Vento,2022,119816,Diesel,Individual,Manual,First Owner,19.5,1598,99,4,No,3345000
+988,Tata,Altroz,2025,162249,Petrol,Dealer,Manual,First Owner,25.8,1199,68,5,Yes,2808000
+989,Toyota,Etios,2020,9765,Petrol,Individual,Manual,First Owner,27.2,800,47,4,Yes,1942000
+990,Volkswagen,Ameo,2013,156426,Petrol,Individual,Manual,Fourth & Above Owner,18.8,2494,183,5,Yes,4375000
+991,Kia,Seltos,2016,28929,Diesel,Individual,Manual,Second Owner,14.8,1598,130.3,5,Yes,3642000
+992,Ford,Figo,2017,164892,Diesel,Dealer,Manual,Second Owner,25.1,2198,146.6,4,No,3879000
+993,Ford,Figo,2018,116576,Petrol,Individual,Manual,First Owner,18.5,1000,68.3,5,Yes,2251000
+994,Kia,Seltos,2016,165595,Petrol,Dealer,Manual,First Owner,27,1995,175,5,Yes,4476000
+995,Mahindra,Bolero,2020,76088,Petrol,Individual,Manual,Third Owner,27.2,1598,99.8,5,Yes,3200000
+996,Volkswagen,Polo,2012,82525,Petrol,Dealer,Manual,First Owner,13.8,1000,58.6,5,Yes,1389000
+997,Volkswagen,Vento,2018,18780,Petrol,Trustmark Dealer,Manual,First Owner,27.3,1000,67,5,No,2318000
+998,Kia,Carens,2021,11589,Petrol,Dealer,Manual,First Owner,17.9,1199,97.2,5,Yes,3120000
+999,Hyundai,Verna,2018,170884,Petrol,Trustmark Dealer,Manual,Third Owner,22.3,1199,92.2,5,No,2677000
+1000,Renault,Triber,2015,98664,Petrol,Individual,Manual,First Owner,12.6,1197,83.3,5,Yes,2285000
+1001,Maruti,Baleno,2020,109188,Petrol,Individual,Automatic,First Owner,26.2,2198,195.1,5,Yes,5587000
+1002,Kia,Sonet,2025,98326,Petrol,Individual,Manual,Second Owner,22.3,1995,161,5,No,4955000
+1003,Toyota,Innova,2023,45953,Petrol,Individual,Manual,First Owner,22.3,1000,57.2,5,Yes,2363000
+1004,Toyota,Fortuner,2022,70785,Petrol,Dealer,Manual,First Owner,26.4,1197,97,7,Yes,3364000
+1005,Tata,Tiago,2016,24309,Petrol,Individual,Manual,Fourth & Above Owner,20.1,2494,139.3,5,Yes,3750000
+1006,Kia,Sonet,2015,59195,Petrol,Individual,Manual,Third Owner,18.6,1497,116.4,4,Yes,3085000
+1007,Tata,Nexon,2024,30901,Petrol,Individual,Automatic,Second Owner,25.9,1000,62.4,7,Yes,2780000
+1008,Kia,Seltos,2018,159648,Diesel,Individual,Manual,Second Owner,23.9,1197,95,5,Yes,2747000
+1009,Volkswagen,Ameo,2015,167580,CNG,Individual,Automatic,First Owner,27.2,2198,144.7,5,Yes,3988000
+1010,Maruti,Dzire,2014,30464,Diesel,Dealer,Automatic,Third Owner,27,1199,102.6,5,Yes,2844000
+1011,Volkswagen,Vento,2020,21260,Petrol,Individual,Manual,First Owner,18.1,1000,66.8,5,Yes,2259000
+1012,Renault,Triber,2022,129997,Diesel,Individual,Manual,Second Owner,19.2,1000,76.7,5,Yes,2775000
+1013,Ford,Figo,2019,40440,Diesel,Individual,Manual,Third Owner,16.1,1598,103.9,7,Yes,3168000
+1014,Honda,Jazz,2012,100082,Petrol,Dealer,Manual,Second Owner,22.6,2198,191.5,7,Yes,4717000
+1015,Kia,Seltos,2018,110583,Petrol,Individual,Manual,Second Owner,17.8,1995,164.3,5,Yes,4521000
+1016,Renault,Duster,2020,61683,Diesel,Dealer,Manual,Second Owner,24.6,1199,76.2,5,No,2676000
+1017,Ford,Aspire,2019,129206,Petrol,Individual,Manual,First Owner,13.9,1000,88.2,5,Yes,2541000
+1018,Mahindra,Bolero,2019,177502,Petrol,Individual,Manual,Second Owner,13.9,2494,168.3,5,No,4704000
+1019,Maruti,Swift,2024,138059,Diesel,Individual,Manual,First Owner,15.3,1199,93.3,5,Yes,3292000
+1020,Tata,Altroz,2017,161177,Diesel,Individual,Manual,First Owner,13.3,2494,202,4,Yes,5443000
+1021,Tata,Tiago,2022,83484,Petrol,Dealer,Manual,First Owner,21.9,1497,83.5,5,Yes,2971000
+1022,Volkswagen,Vento,2015,149098,Petrol,Individual,Manual,First Owner,14.4,1995,176.7,7,Yes,4443000
+1023,Toyota,Innova,2019,73309,Petrol,Individual,Manual,Second Owner,14.6,1497,100.4,7,Yes,3019000
+1024,Ford,Figo,2014,50927,Diesel,Dealer,Manual,Fourth & Above Owner,12.2,1000,61.6,4,No,1664000
+1025,Mahindra,XUV500,2024,47946,Petrol,Individual,Automatic,First Owner,24.5,1598,135.5,5,Yes,4325000
+1026,Renault,Duster,2020,131503,Petrol,Individual,Manual,First Owner,25,1995,158.8,7,Yes,4421000
+1027,Maruti,Dzire,2024,146449,Diesel,Dealer,Manual,First Owner,14.6,1598,92.7,5,No,3380000
+1028,Ford,EcoSport,2013,58592,Petrol,Individual,Manual,Third Owner,23.8,1197,70.7,5,Yes,1952000
+1029,Mahindra,Scorpio,2013,143419,Diesel,Dealer,Manual,First Owner,18.9,2198,175.9,5,Yes,4474000
+1030,Honda,Amaze,2023,38776,Petrol,Individual,Manual,Second Owner,15.8,1197,69,7,Yes,2748000
+1031,Kia,Seltos,2024,139855,Petrol,Dealer,Manual,Third Owner,21.9,1497,130.4,5,Yes,4174000
+1032,Tata,Nexon,2023,60798,Diesel,Individual,Manual,First Owner,14.9,2494,201.9,5,Yes,5953000
+1033,Renault,Triber,2018,140370,Petrol,Dealer,Manual,Third Owner,24.1,1497,99.9,5,Yes,2844000
+1034,Tata,Tiago,2023,75204,Petrol,Individual,Manual,Third Owner,12.8,1995,135.1,7,Yes,4168000
+1035,Renault,Duster,2021,91207,Petrol,Dealer,Manual,Third Owner,27.3,1995,145.1,5,Yes,4172000
+1036,Volkswagen,Ameo,2015,105356,Diesel,Individual,Manual,First Owner,13.2,1497,101.2,5,Yes,2911000
+1037,Toyota,Fortuner,2021,65652,CNG,Individual,Manual,First Owner,21.3,1000,82.4,5,Yes,2747000
+1038,Renault,Kwid,2019,170556,LPG,Individual,Automatic,Third Owner,26.4,1497,133.4,7,Yes,3989000
+1039,Tata,Nexon,2020,134572,Petrol,Dealer,Manual,First Owner,12.2,1995,150.5,5,Yes,4265000
+1040,Volkswagen,Ameo,2018,25922,Petrol,Trustmark Dealer,Automatic,Second Owner,20,1995,140.9,5,Yes,4195000
+1041,Renault,Duster,2016,170100,Petrol,Individual,Manual,First Owner,17.6,1199,75.3,7,Yes,2307000
+1042,Honda,City,2019,156388,Diesel,Individual,Manual,First Owner,21.3,800,62.3,5,Yes,2232000
+1043,Toyota,Innova,2015,81996,Petrol,Dealer,Automatic,First Owner,15.6,1598,126.2,5,Yes,3604000
+1044,Renault,Duster,2013,153040,CNG,Individual,Manual,First Owner,13,1197,94.5,7,Yes,2386000
+1045,Volkswagen,Polo,2022,35266,Petrol,Trustmark Dealer,Automatic,First Owner,22,1497,83.7,5,No,3138000
+1046,Ford,Figo,2023,160072,LPG,Individual,Manual,First Owner,18.7,1199,103.7,5,Yes,3442000
+1047,Hyundai,Grand i10,2017,150083,Diesel,Dealer,Manual,First Owner,22,1000,66.8,5,Yes,2195000
+1048,Mahindra,XUV500,2020,7866,Diesel,Individual,Automatic,Second Owner,15.4,1995,161.7,5,Yes,4629000
+1049,Hyundai,Grand i10,2012,117669,Petrol,Individual,Manual,Second Owner,17.4,1497,122.1,5,Yes,2906000
+1050,Hyundai,Verna,2022,10898,Petrol,Dealer,Automatic,First Owner,21,1995,155.2,5,Yes,4875000
+1051,Maruti,Alto,2021,23395,Petrol,Trustmark Dealer,Manual,First Owner,21.5,2494,171.6,7,Yes,5008000
+1052,Honda,Jazz,2023,175091,Petrol,Trustmark Dealer,Manual,First Owner,18,1199,91.5,5,Yes,3322000
+1053,Ford,Aspire,2018,9006,Petrol,Individual,Manual,First Owner,16.5,1497,84.4,5,Yes,2718000
+1054,Kia,Sonet,2021,170465,Petrol,Individual,Automatic,First Owner,16.4,2494,203.7,5,Yes,5823000
+1055,Renault,Duster,2020,15956,Petrol,Individual,Manual,First Owner,14.8,1199,70.1,5,No,2647000
+1056,Mahindra,Scorpio,2021,142150,Diesel,Dealer,Manual,First Owner,17.2,1497,103.1,5,Yes,3381000
+1057,Toyota,Innova,2020,165703,Diesel,Individual,Automatic,Second Owner,15.2,1497,87.8,5,Yes,3133000
+1058,Ford,Figo,2021,100676,Petrol,Individual,Manual,First Owner,22.1,2198,185.3,5,Yes,5302000
+1059,Tata,Nexon,2022,126724,LPG,Individual,Manual,Third Owner,21.1,1199,89,5,Yes,2995000
+1060,Kia,Seltos,2024,67901,Petrol,Individual,Manual,First Owner,18.1,1199,94.9,4,Yes,3284000
+1061,Maruti,Baleno,2014,112227,Petrol,Trustmark Dealer,Manual,Third Owner,17.2,1995,157.4,5,Yes,4010000
+1062,Maruti,Baleno,2022,122192,Petrol,Individual,Manual,First Owner,15.8,1497,126.4,5,Yes,3854000
+1063,Ford,EcoSport,2024,177646,Diesel,Individual,Manual,First Owner,20.6,1598,95.3,5,Yes,3434000
+1064,Volkswagen,Polo,2016,36417,Petrol,Individual,Manual,First Owner,26.7,1598,124.8,7,Yes,3541000
+1065,Hyundai,Creta,2019,93020,Petrol,Individual,Manual,First Owner,23,1598,120.1,5,Yes,3515000
+1066,Tata,Altroz,2019,88639,Diesel,Individual,Automatic,First Owner,23.9,1497,84,5,No,2950000
+1067,Maruti,Baleno,2015,99881,Petrol,Individual,Automatic,First Owner,25.4,1497,92.9,5,Yes,2694000
+1068,Mahindra,Scorpio,2023,175526,Diesel,Dealer,Manual,Second Owner,17.6,2494,160.5,5,Yes,4902000
+1069,Maruti,Alto,2022,137659,CNG,Individual,Manual,First Owner,13,2198,126.5,5,Yes,4037000
+1070,Toyota,Fortuner,2022,126688,LPG,Individual,Manual,Second Owner,22,1199,80.8,5,Yes,2708000
+1071,Renault,Triber,2012,120584,Petrol,Individual,Manual,First Owner,15,1995,111.6,5,Yes,2867000
+1072,Maruti,Dzire,2012,91567,Petrol,Dealer,Manual,Third Owner,21.1,2198,163.4,5,No,3975000
+1073,Toyota,Innova,2015,80886,Petrol,Individual,Manual,First Owner,23.8,2494,155.6,5,Yes,4095000
+1074,Ford,Figo,2017,154888,Petrol,Dealer,Manual,First Owner,24.5,1497,97.4,5,Yes,2787000
+1075,Ford,Aspire,2019,34432,Petrol,Individual,Manual,First Owner,16.8,1197,104,7,Yes,3240000
+1076,Kia,Seltos,2017,77373,Petrol,Dealer,Manual,First Owner,20.2,1199,87,5,Yes,2567000
+1077,Maruti,Swift,2023,170289,CNG,Individual,Manual,First Owner,21.9,1598,102.9,5,Yes,3505000
+1078,Mahindra,Bolero,2020,25884,CNG,Trustmark Dealer,Manual,First Owner,25.1,1497,113.7,5,Yes,3462000
+1079,Maruti,Dzire,2020,10454,Petrol,Individual,Manual,Second Owner,24.2,2494,154.8,7,Yes,4538000
+1080,Mahindra,Scorpio,2025,79960,Petrol,Individual,Manual,Third Owner,27.8,1197,69,5,Yes,2704000
+1081,Honda,Jazz,2013,107421,Petrol,Dealer,Automatic,First Owner,12.1,1000,55.7,5,Yes,1567000
+1082,Kia,Sonet,2021,48618,Petrol,Individual,Automatic,Third Owner,19,1598,141.1,5,Yes,4155000
+1083,Honda,Jazz,2012,52111,Diesel,Trustmark Dealer,Manual,Third Owner,16.1,1995,160.3,5,Yes,3985000
+1084,Maruti,Alto,2013,175685,Diesel,Individual,Manual,Second Owner,13.9,1497,124.2,5,Yes,2966000
+1085,Kia,Seltos,2016,125592,Diesel,Dealer,Manual,First Owner,26.6,800,71.5,5,Yes,2164000
+1086,Honda,Amaze,2015,64993,Diesel,Dealer,Manual,First Owner,28,1197,104.9,5,Yes,2870000
+1087,Hyundai,Creta,2015,133652,Petrol,Trustmark Dealer,Manual,First Owner,14.9,1197,96.7,5,Yes,2728000
+1088,Maruti,Dzire,2020,144920,Diesel,Trustmark Dealer,Manual,Second Owner,12.6,1199,95.1,5,No,3076000
+1089,Honda,Jazz,2022,83672,Petrol,Dealer,Manual,First Owner,16.4,1598,106.7,4,Yes,3401000
+1090,Hyundai,i20,2019,71125,Diesel,Dealer,Manual,First Owner,25.4,1497,87.8,5,Yes,2852000
+1091,Hyundai,Grand i10,2017,122509,Petrol,Individual,Manual,First Owner,16.7,800,60.1,5,Yes,1905000
+1092,Ford,EcoSport,2012,66602,Petrol,Individual,Manual,First Owner,12.9,1598,120.1,5,Yes,2917000
+1093,Maruti,Alto,2013,47222,Petrol,Dealer,Manual,Second Owner,12.8,2494,220.3,5,Yes,5451000
+1094,Hyundai,Grand i10,2017,54223,Petrol,Trustmark Dealer,Manual,First Owner,18.8,800,56.4,5,No,1877000
+1095,Ford,Figo,2022,70333,CNG,Dealer,Manual,Second Owner,26.9,2198,174,7,Yes,5066000
+1096,Honda,Amaze,2013,127650,Petrol,Trustmark Dealer,Manual,Second Owner,16.6,2198,165.1,5,Yes,4149000
+1097,Toyota,Innova,2024,54420,Petrol,Dealer,Automatic,First Owner,18.8,1197,73.2,5,Yes,2898000
+1098,Maruti,Dzire,2021,80504,Petrol,Individual,Automatic,First Owner,13.6,2494,188.9,5,Yes,5477000
+1099,Kia,Seltos,2016,7462,Diesel,Individual,Manual,Second Owner,19.9,2198,162.4,7,Yes,4415000
+1100,Mahindra,Scorpio,2025,14460,Petrol,Individual,Manual,First Owner,23.1,1197,86.5,5,Yes,3281000
+1101,Mahindra,Bolero,2016,104319,CNG,Individual,Manual,First Owner,16.3,1497,109.2,5,Yes,2780000
+1102,Honda,Jazz,2017,145347,Diesel,Individual,Automatic,First Owner,16.7,1197,72.7,5,Yes,2448000
+1103,Volkswagen,Vento,2017,149341,Diesel,Trustmark Dealer,Manual,First Owner,25.5,1497,106.6,5,Yes,3148000
+1104,Volkswagen,Vento,2025,134593,Diesel,Dealer,Manual,First Owner,12.2,2494,190,7,Yes,5704000
+1105,Honda,Jazz,2017,127672,Petrol,Individual,Automatic,First Owner,22.2,1199,86.5,5,Yes,2465000
+1106,Hyundai,i20,2025,77920,Petrol,Individual,Manual,First Owner,18.3,1598,115.2,7,Yes,3897000
+1107,Maruti,Baleno,2013,27553,Diesel,Individual,Manual,First Owner,16.8,1197,69.1,5,Yes,1935000
+1108,Mahindra,Bolero,2025,160438,Petrol,Individual,Manual,Second Owner,22.5,1197,73.8,5,Yes,2874000
+1109,Mahindra,XUV500,2021,49036,Petrol,Individual,Manual,First Owner,25.4,1497,99.2,5,Yes,3088000
+1110,Hyundai,Creta,2025,153441,Diesel,Individual,Manual,Second Owner,20.9,2198,153.2,5,Yes,4893000
+1111,Mahindra,Scorpio,2024,147867,Petrol,Individual,Manual,First Owner,12.5,2198,166.6,5,Yes,5160000
+1112,Kia,Carens,2025,75021,CNG,Individual,Manual,Second Owner,19.4,1197,102,5,Yes,3667000
+1113,Maruti,Baleno,2014,112205,Petrol,Trustmark Dealer,Manual,First Owner,19.4,2198,133.1,7,Yes,3610000
+1114,Renault,Kwid,2025,166215,Diesel,Individual,Automatic,Second Owner,20.7,2198,122.1,7,No,4184000
+1115,Mahindra,Bolero,2017,165497,Petrol,Individual,Manual,First Owner,22.7,1197,84.7,5,Yes,2570000
+1116,Honda,City,2024,93209,Diesel,Individual,Manual,Second Owner,12.3,1000,70.1,5,Yes,2707000
+1117,Kia,Sonet,2019,80139,Petrol,Individual,Manual,First Owner,20,1000,74.3,5,Yes,2517000
+1118,Mahindra,XUV500,2023,10368,Petrol,Dealer,Automatic,First Owner,21.4,2494,209.9,5,Yes,6105000
+1119,Kia,Sonet,2024,140693,Diesel,Dealer,Manual,First Owner,17.5,1995,165.7,5,Yes,5119000
+1120,Ford,Figo,2022,63829,Petrol,Individual,Automatic,Second Owner,22.7,1598,93.5,5,Yes,3432000
+1121,Renault,Duster,2023,134036,Petrol,Dealer,Manual,Second Owner,15.7,1995,174.9,7,Yes,5172000
+1122,Tata,Nexon,2012,19719,Petrol,Individual,Automatic,First Owner,17.1,2198,129.4,5,Yes,3327000
+1123,Honda,Amaze,2012,34227,Diesel,Dealer,Manual,Second Owner,27.4,800,61.8,5,Yes,1484000
+1124,Honda,Amaze,2022,114430,Petrol,Individual,Manual,Second Owner,17.6,2198,172.6,5,Yes,5068000
+1125,Maruti,Swift,2024,143638,CNG,Individual,Automatic,Third Owner,17.5,1197,94.3,5,Yes,3478000
+1126,Kia,Sonet,2013,17306,Petrol,Dealer,Manual,Second Owner,21.5,1197,77,5,Yes,2052000
+1127,Hyundai,i20,2022,58822,Petrol,Dealer,Manual,Second Owner,27.5,1598,106.4,5,No,3424000
+1128,Honda,City,2023,29042,Diesel,Dealer,Manual,First Owner,27.7,1199,89,7,Yes,3245000
+1129,Kia,Carens,2023,151158,Diesel,Individual,Manual,Second Owner,21.3,1199,74.3,5,Yes,2839000
+1130,Kia,Carens,2017,153459,Diesel,Individual,Manual,First Owner,12,1199,66.8,5,Yes,2166000
+1131,Toyota,Fortuner,2020,163114,LPG,Trustmark Dealer,Automatic,Fourth & Above Owner,26.4,2494,186.2,5,Yes,5098000
+1132,Toyota,Fortuner,2015,94424,Petrol,Individual,Manual,First Owner,21.1,2198,156.7,5,Yes,4210000
+1133,Tata,Tiago,2014,154395,Petrol,Individual,Manual,First Owner,17.9,1197,93.3,5,No,2600000
+1134,Ford,Aspire,2023,23019,Petrol,Individual,Automatic,First Owner,25.3,800,48.1,5,Yes,2445000
+1135,Tata,Nexon,2019,80426,Diesel,Individual,Manual,Second Owner,18.4,800,67.5,5,Yes,2086000
+1136,Mahindra,XUV500,2022,45863,CNG,Individual,Manual,Third Owner,12.5,800,48.1,5,Yes,2153000
+1137,Hyundai,Grand i10,2021,116023,Petrol,Individual,Manual,First Owner,25.1,1199,103.4,5,Yes,3322000
+1138,Mahindra,Scorpio,2025,146355,Petrol,Individual,Manual,Second Owner,20.7,1598,113,5,Yes,3763000
+1139,Volkswagen,Polo,2020,154351,Petrol,Trustmark Dealer,Manual,Second Owner,17.4,1199,89,7,No,2620000
+1140,Mahindra,XUV500,2023,51999,Diesel,Individual,Automatic,Second Owner,16,1197,103.4,5,Yes,3594000
+1141,Maruti,Dzire,2022,67780,Petrol,Individual,Manual,First Owner,21.5,2198,144,5,Yes,4477000
+1142,Mahindra,XUV500,2016,27908,Petrol,Individual,Manual,Second Owner,15.3,2198,134.9,5,No,3606000
+1143,Tata,Altroz,2020,131278,Petrol,Individual,Manual,First Owner,17.2,1598,112.8,7,Yes,3562000
+1144,Honda,Amaze,2013,118002,Diesel,Individual,Manual,Second Owner,22.2,2494,158.5,5,Yes,4150000
+1145,Honda,City,2014,174024,Diesel,Dealer,Manual,First Owner,26.1,800,58.8,5,Yes,1706000
+1146,Toyota,Etios,2018,105706,Diesel,Individual,Manual,First Owner,20.5,2198,142.1,5,Yes,3988000
+1147,Hyundai,i20,2018,173735,Petrol,Dealer,Manual,Second Owner,24.1,1598,136.2,7,Yes,3699000
+1148,Hyundai,Verna,2017,127019,Petrol,Individual,Automatic,First Owner,24.2,800,61,5,Yes,2098000
+1149,Maruti,Dzire,2017,114708,Diesel,Individual,Manual,First Owner,22.6,1199,66,5,Yes,2237000
+1150,Tata,Altroz,2013,14343,LPG,Dealer,Manual,Second Owner,15.9,1497,124.5,7,Yes,3048000
+1151,Toyota,Innova,2021,81173,Petrol,Dealer,Automatic,First Owner,25.9,1995,132.8,5,Yes,4131000
+1152,Volkswagen,Vento,2017,105260,Petrol,Individual,Manual,First Owner,19,2198,145.5,5,Yes,3967000
+1153,Hyundai,Verna,2015,175863,Petrol,Individual,Manual,First Owner,12.7,2494,170.6,4,Yes,4400000
+1154,Honda,Amaze,2023,165206,Petrol,Individual,Manual,First Owner,15.9,1598,123.1,5,Yes,3870000
+1155,Mahindra,Bolero,2014,74443,Diesel,Individual,Manual,First Owner,24.2,2494,175.8,5,Yes,4520000
+1156,Mahindra,Bolero,2024,62530,Petrol,Individual,Manual,First Owner,13.1,1199,92.3,7,Yes,3298000
+1157,Toyota,Innova,2022,140899,Petrol,Individual,Manual,Third Owner,14.4,2198,132.2,5,No,4058000
+1158,Tata,Altroz,2024,101143,Petrol,Individual,Manual,First Owner,23.1,1197,106.5,5,Yes,3699000
+1159,Tata,Altroz,2013,149771,Petrol,Dealer,Manual,First Owner,26.3,1199,96.6,5,Yes,2261000
+1160,Ford,EcoSport,2012,119527,Petrol,Dealer,Manual,First Owner,22.1,1199,76.4,7,Yes,2019000
+1161,Renault,Duster,2022,141385,Petrol,Dealer,Manual,First Owner,15.6,1598,128.4,5,Yes,3891000
+1162,Hyundai,Creta,2022,149670,Petrol,Individual,Manual,Second Owner,12.9,2494,187.4,5,Yes,5522000
+1163,Tata,Nexon,2016,116362,Diesel,Trustmark Dealer,Automatic,Second Owner,21.8,1598,94,5,Yes,2896000
+1164,Honda,Amaze,2013,33807,Petrol,Dealer,Automatic,First Owner,12.8,800,49,4,Yes,1530000
+1165,Toyota,Fortuner,2013,64550,Petrol,Dealer,Manual,First Owner,21.8,1497,84.5,5,Yes,2244000
+1166,Volkswagen,Vento,2018,8558,CNG,Individual,Manual,First Owner,15.6,2494,207.8,5,No,5807000
+1167,Ford,Figo,2019,55113,Diesel,Individual,Manual,Second Owner,26.5,1497,111.2,5,Yes,3373000
+1168,Kia,Sonet,2024,57999,Diesel,Dealer,Manual,First Owner,19.6,1598,105.6,4,Yes,3879000
+1169,Maruti,Baleno,2021,172415,Petrol,Individual,Manual,First Owner,15.6,1197,71.1,5,Yes,2476000
+1170,Volkswagen,Ameo,2019,63219,Petrol,Individual,Manual,First Owner,25.7,2198,158.1,5,Yes,4567000
+1171,Kia,Carens,2025,171258,Petrol,Dealer,Manual,Second Owner,16.1,1199,88,5,Yes,3361000
+1172,Mahindra,Scorpio,2015,173038,Petrol,Dealer,Manual,Second Owner,16.9,1199,95.4,5,Yes,2426000
+1173,Maruti,Swift,2025,169841,Petrol,Trustmark Dealer,Automatic,Third Owner,25.3,1497,133.2,5,Yes,4351000
+1174,Hyundai,Creta,2012,58218,CNG,Dealer,Manual,First Owner,16.9,2494,175.1,5,Yes,4301000
+1175,Honda,Amaze,2022,24229,Petrol,Individual,Manual,First Owner,18.6,2198,152.1,5,Yes,4685000
+1176,Maruti,Alto,2018,80209,Petrol,Individual,Manual,First Owner,17.6,1995,135.6,5,Yes,4049000
+1177,Renault,Duster,2012,32877,Diesel,Individual,Manual,Second Owner,13.9,1497,125.7,5,Yes,3028000
+1178,Kia,Seltos,2022,102137,Petrol,Individual,Manual,Fourth & Above Owner,12.6,2494,150.8,5,Yes,4509000
+1179,Hyundai,Grand i10,2015,43084,Diesel,Individual,Manual,First Owner,23.6,2494,167.2,4,Yes,4419000
+1180,Renault,Duster,2019,86780,Diesel,Individual,Manual,First Owner,22.3,1000,80.4,5,Yes,2634000
+1181,Mahindra,XUV500,2013,152878,Diesel,Individual,Automatic,First Owner,16.5,1199,66.6,5,Yes,1996000
+1182,Renault,Duster,2017,42034,LPG,Dealer,Automatic,First Owner,16.7,2198,143.2,5,Yes,4099000
+1183,Ford,EcoSport,2024,176389,Petrol,Trustmark Dealer,Automatic,First Owner,27.1,800,62,5,Yes,2765000
+1184,Ford,Aspire,2017,60468,Petrol,Dealer,Automatic,First Owner,27.8,1497,92.1,5,Yes,2916000
+1185,Toyota,Fortuner,2023,155166,CNG,Dealer,Manual,First Owner,19.6,2198,144.2,7,Yes,4397000
+1186,Volkswagen,Polo,2020,15589,Diesel,Individual,Manual,First Owner,24.8,1000,72,5,Yes,2614000
+1187,Volkswagen,Vento,2016,62221,Petrol,Trustmark Dealer,Manual,Second Owner,23.8,1000,69.8,5,Yes,2183000
+1188,Hyundai,Creta,2021,6657,CNG,Dealer,Manual,First Owner,16.8,2198,129,5,Yes,4142000
+1189,Mahindra,Bolero,2015,103300,Petrol,Dealer,Manual,First Owner,12.9,2494,219.1,7,Yes,5556000
+1190,Tata,Altroz,2016,122229,CNG,Trustmark Dealer,Automatic,First Owner,14.3,1995,112.8,7,Yes,3297000
+1191,Ford,EcoSport,2023,44531,Petrol,Trustmark Dealer,Manual,Third Owner,25.4,2198,178.6,5,Yes,5205000
+1192,Hyundai,Verna,2023,57227,Petrol,Individual,Manual,Second Owner,23.7,1497,86.1,5,Yes,3093000
+1193,Tata,Altroz,2021,8164,CNG,Individual,Manual,First Owner,22.6,800,57.1,5,Yes,2053000
+1194,Volkswagen,Polo,2022,98078,Petrol,Individual,Automatic,First Owner,14.1,1199,73.3,5,Yes,2854000
+1195,Toyota,Fortuner,2016,46247,Petrol,Individual,Manual,First Owner,22.2,1000,59.9,5,Yes,1982000
+1196,Renault,Triber,2019,155673,Petrol,Individual,Automatic,Second Owner,24.4,1197,71.1,5,Yes,2360000
+1197,Ford,Aspire,2021,55599,CNG,Individual,Automatic,Second Owner,25.8,1197,84.8,7,Yes,3004000
+1198,Hyundai,Creta,2023,140624,Diesel,Individual,Automatic,Second Owner,12.2,2494,182.2,5,No,5542000
+1199,Maruti,Swift,2019,145489,Diesel,Individual,Manual,First Owner,23,1199,71.5,5,Yes,2525000
+1200,Tata,Tiago,2013,73207,Diesel,Dealer,Manual,Fourth & Above Owner,12.3,1000,89.3,5,Yes,2210000
+1201,Renault,Kwid,2018,77055,Diesel,Individual,Manual,Fourth & Above Owner,23.3,1197,76.6,5,Yes,2435000
+1202,Ford,EcoSport,2019,107266,Petrol,Dealer,Manual,Third Owner,22.2,1197,85.1,5,Yes,2507000
+1203,Volkswagen,Polo,2022,83270,Petrol,Dealer,Manual,First Owner,14.4,1995,124.8,5,Yes,3888000
+1204,Mahindra,XUV500,2017,116426,Diesel,Individual,Manual,First Owner,24.3,2198,158.9,5,Yes,4429000
+1205,Tata,Altroz,2016,139794,Petrol,Trustmark Dealer,Automatic,First Owner,13.1,1598,130.2,5,Yes,3579000
+1206,Volkswagen,Ameo,2022,75442,Petrol,Individual,Manual,First Owner,25.2,1199,87.8,7,Yes,2892000
+1207,Ford,Aspire,2020,100632,Petrol,Individual,Automatic,First Owner,16.2,1598,103.9,5,Yes,3413000
+1208,Tata,Tiago,2024,176103,Petrol,Individual,Manual,Second Owner,23,800,51,5,Yes,2106000
+1209,Renault,Triber,2014,26438,Diesel,Individual,Manual,Second Owner,26.8,2198,179.3,5,Yes,4827000
+1210,Ford,Figo,2023,63819,Petrol,Individual,Automatic,Third Owner,17.4,800,47.3,5,No,1991000
+1211,Kia,Carens,2024,48856,Diesel,Individual,Manual,First Owner,20,1497,101.7,5,Yes,3650000
+1212,Hyundai,Creta,2024,169648,Petrol,Individual,Manual,First Owner,19.4,1000,60.3,5,Yes,2413000
+1213,Renault,Kwid,2021,46938,Petrol,Individual,Manual,Second Owner,14.5,1598,102.3,5,Yes,3384000
+1214,Tata,Tiago,2015,64807,Petrol,Individual,Manual,First Owner,21.4,2494,150.5,5,Yes,4008000
+1215,Mahindra,Bolero,2020,54877,Diesel,Individual,Manual,First Owner,23.9,1497,128.8,7,Yes,3989000
+1216,Volkswagen,Polo,2017,48461,Diesel,Individual,Manual,Fourth & Above Owner,26.7,1199,96.7,5,No,2829000
+1217,Maruti,Dzire,2019,98474,CNG,Individual,Manual,Second Owner,25.6,1000,74.6,5,Yes,2326000
+1218,Volkswagen,Polo,2018,176541,Diesel,Individual,Manual,First Owner,20.2,1197,75.2,5,Yes,2365000
+1219,Tata,Tiago,2022,88136,Diesel,Individual,Manual,Second Owner,23.5,1598,116.4,5,No,3713000
+1220,Volkswagen,Vento,2013,25435,Diesel,Individual,Manual,Second Owner,24.8,2198,161,5,Yes,4091000
+1221,Hyundai,Creta,2014,150263,CNG,Dealer,Manual,Second Owner,19.9,2198,166.3,5,Yes,4172000
+1222,Ford,EcoSport,2012,89726,Diesel,Individual,Automatic,Second Owner,13.8,1497,85.5,5,Yes,2372000
+1223,Maruti,Alto,2020,163458,Petrol,Dealer,Manual,First Owner,19,1497,133.3,5,Yes,3888000
+1224,Honda,City,2024,167793,Petrol,Dealer,Manual,Second Owner,25.5,1197,85.3,5,Yes,2993000
+1225,Tata,Tiago,2018,59786,Diesel,Individual,Manual,First Owner,21.5,1995,174.4,5,No,4731000
+1226,Toyota,Etios,2012,18704,Diesel,Individual,Automatic,First Owner,23.6,1598,88.4,4,Yes,2403000
+1227,Honda,Amaze,2014,61635,Petrol,Trustmark Dealer,Manual,Third Owner,15,800,50.9,5,Yes,1422000
+1228,Volkswagen,Polo,2015,138195,Diesel,Dealer,Manual,First Owner,27.4,1199,70.3,5,Yes,2072000
+1229,Tata,Tiago,2015,95710,CNG,Individual,Manual,Second Owner,18.5,1598,130.9,5,Yes,3611000
+1230,Kia,Seltos,2016,67993,Petrol,Dealer,Manual,Second Owner,22.5,1598,105.8,5,Yes,2942000
+1231,Toyota,Fortuner,2025,117752,CNG,Dealer,Manual,Third Owner,12.3,1197,101,4,Yes,3513000
+1232,Maruti,Swift,2014,161488,Petrol,Individual,Manual,Second Owner,14,1598,134.4,7,Yes,3188000
+1233,Mahindra,Scorpio,2014,137886,Petrol,Dealer,Manual,First Owner,24.5,1598,125.2,5,Yes,3090000
+1234,Kia,Seltos,2012,83537,Petrol,Individual,Automatic,First Owner,27.5,2494,195.3,5,Yes,4774000
+1235,Honda,Jazz,2018,55258,Petrol,Individual,Manual,First Owner,17.1,2494,198.3,5,Yes,5308000
+1236,Ford,Figo,2022,152580,Diesel,Trustmark Dealer,Manual,First Owner,12.6,1000,78.6,5,Yes,2692000
+1237,Hyundai,Creta,2021,90166,Petrol,Dealer,Manual,First Owner,17.8,1199,82.2,5,Yes,2714000
+1238,Mahindra,XUV500,2025,118710,Petrol,Individual,Automatic,First Owner,12.3,2494,196.8,5,No,6053000
+1239,Kia,Sonet,2012,40699,Petrol,Individual,Automatic,Second Owner,15.1,1199,103.6,5,Yes,2533000
+1240,Ford,Aspire,2013,51335,Petrol,Dealer,Manual,Fourth & Above Owner,24,2198,146.5,7,Yes,3610000
+1241,Ford,EcoSport,2024,51806,Petrol,Dealer,Manual,Second Owner,27,1197,105.4,5,Yes,3607000
+1242,Tata,Nexon,2015,82853,Diesel,Dealer,Manual,Second Owner,13.4,1197,66.4,5,Yes,2069000
+1243,Kia,Seltos,2024,40739,Petrol,Trustmark Dealer,Manual,First Owner,20.9,2494,167.6,5,Yes,5225000
+1244,Maruti,Dzire,2015,39785,Diesel,Dealer,Manual,First Owner,16.1,2198,131.1,5,Yes,3683000
+1245,Volkswagen,Polo,2016,168052,Diesel,Individual,Manual,First Owner,14.2,800,47.5,7,Yes,1677000
+1246,Toyota,Innova,2022,90016,Petrol,Individual,Manual,Second Owner,15.5,1000,83.5,5,Yes,2885000
+1247,Toyota,Etios,2013,137681,CNG,Individual,Manual,First Owner,21.2,1197,104.3,5,No,2721000
+1248,Honda,City,2015,71253,Petrol,Dealer,Manual,Second Owner,13,1000,82.2,5,Yes,2041000
+1249,Honda,Amaze,2012,96128,Petrol,Individual,Manual,First Owner,18.9,1197,106.8,5,Yes,2583000
+1250,Toyota,Etios,2013,164213,Petrol,Individual,Manual,First Owner,14.2,2198,137.5,5,Yes,3488000
+1251,Maruti,Dzire,2012,166081,Petrol,Individual,Manual,First Owner,16.4,1598,95.8,7,Yes,2367000
+1252,Hyundai,Verna,2021,132581,Petrol,Individual,Manual,First Owner,15.1,1995,146.1,5,Yes,4347000
+1253,Renault,Triber,2021,115966,Diesel,Individual,Manual,First Owner,26.1,1598,134.3,5,Yes,4051000
+1254,Volkswagen,Ameo,2024,142854,Petrol,Individual,Manual,Second Owner,23.3,800,45.1,5,Yes,2181000
+1255,Hyundai,Verna,2015,104352,Diesel,Individual,Manual,Second Owner,25.9,1197,107.5,4,Yes,2828000
+1256,Tata,Altroz,2015,162005,Petrol,Individual,Manual,First Owner,18.1,800,60.9,5,Yes,1712000
+1257,Renault,Kwid,2018,82154,Diesel,Individual,Manual,Second Owner,17,2494,222.6,5,Yes,6026000
+1258,Renault,Kwid,2021,144379,Petrol,Individual,Manual,First Owner,18.1,2494,169,5,Yes,5035000
+1259,Kia,Sonet,2022,113297,Petrol,Individual,Manual,Third Owner,12.3,1497,106.3,7,Yes,3395000
+1260,Maruti,Swift,2022,43346,Petrol,Dealer,Automatic,First Owner,23.6,1199,97.5,5,No,3318000
+1261,Maruti,Baleno,2020,117138,Petrol,Individual,Manual,Second Owner,17.6,2494,206.4,5,Yes,5473000
+1262,Renault,Duster,2020,55772,Petrol,Dealer,Automatic,First Owner,17,2494,157.5,5,Yes,4726000
+1263,Kia,Seltos,2016,45149,Diesel,Dealer,Manual,First Owner,21.6,1197,104.8,5,Yes,3030000
+1264,Volkswagen,Ameo,2021,91700,Petrol,Individual,Automatic,First Owner,19,1497,127.8,5,Yes,3916000
+1265,Renault,Kwid,2012,163598,Diesel,Individual,Manual,First Owner,27.7,1197,66.6,5,Yes,1739000
+1266,Mahindra,Bolero,2012,101758,Diesel,Trustmark Dealer,Manual,First Owner,17.7,1000,59.5,5,Yes,1552000
+1267,Honda,Amaze,2017,133447,CNG,Dealer,Manual,First Owner,21.8,800,57.9,5,Yes,1726000
+1268,Honda,Amaze,2013,10695,Petrol,Trustmark Dealer,Manual,Fourth & Above Owner,17,1000,71.1,5,Yes,1784000
+1269,Hyundai,Verna,2019,44169,Petrol,Dealer,Automatic,Second Owner,27.8,2198,175.4,5,Yes,4992000
+1270,Tata,Tiago,2024,52947,CNG,Individual,Manual,Second Owner,19.1,2198,127.8,5,Yes,4260000
+1271,Honda,Jazz,2020,50865,Diesel,Individual,Manual,Second Owner,22.1,1197,92.9,5,Yes,3154000
+1272,Ford,Aspire,2024,161625,Petrol,Individual,Manual,Third Owner,14,1995,152.8,5,Yes,4603000
+1273,Hyundai,Creta,2015,109501,Petrol,Individual,Manual,First Owner,23.7,1995,126,5,Yes,3360000
+1274,Honda,Amaze,2016,65410,Petrol,Individual,Automatic,First Owner,16.3,1000,74,4,No,2497000
+1275,Tata,Tiago,2022,108754,Diesel,Dealer,Manual,Second Owner,19.2,2494,156.6,5,No,4657000
+1276,Maruti,Dzire,2019,95895,Diesel,Individual,Manual,Second Owner,26.1,1197,72,5,Yes,2384000
+1277,Maruti,Dzire,2014,160888,Petrol,Individual,Manual,First Owner,27.5,1000,75.1,5,Yes,2026000
+1278,Volkswagen,Vento,2016,55705,Diesel,Dealer,Automatic,First Owner,18.8,1197,106.8,7,Yes,3234000
+1279,Renault,Triber,2014,120700,Diesel,Dealer,Manual,First Owner,25.4,1000,63.3,5,Yes,1910000
+1280,Mahindra,XUV500,2023,78914,Petrol,Individual,Manual,Third Owner,12.9,2198,148.2,7,No,4432000
+1281,Maruti,Swift,2021,6881,Diesel,Dealer,Manual,First Owner,25.6,1497,95.8,5,Yes,3430000
+1282,Kia,Seltos,2014,175639,Diesel,Dealer,Manual,Third Owner,22.1,1197,77,7,Yes,2083000
+1283,Honda,Amaze,2014,52365,Petrol,Individual,Manual,Third Owner,19.8,1497,103.5,5,No,2599000
+1284,Kia,Seltos,2024,84211,CNG,Individual,Automatic,Second Owner,26.2,2198,174.9,5,Yes,5309000
+1285,Tata,Nexon,2023,161078,Petrol,Individual,Manual,First Owner,25.5,1995,112.4,7,Yes,3755000
+1286,Maruti,Dzire,2018,46198,Petrol,Individual,Automatic,First Owner,16.8,1598,141.4,5,Yes,4261000
+1287,Mahindra,Scorpio,2018,158903,Petrol,Individual,Manual,First Owner,24.7,800,45.3,4,Yes,1664000
+1288,Tata,Tiago,2018,105649,Petrol,Trustmark Dealer,Manual,First Owner,13.6,800,68.7,5,Yes,2382000
+1289,Ford,Figo,2021,152531,Petrol,Dealer,Automatic,Second Owner,25.2,800,69,5,Yes,2564000
+1290,Ford,Aspire,2019,168515,Petrol,Dealer,Manual,First Owner,22.8,2198,161.2,5,Yes,4399000
+1291,Kia,Seltos,2016,178388,Diesel,Trustmark Dealer,Manual,First Owner,13.4,2198,131.4,4,Yes,3793000
+1292,Renault,Kwid,2016,141949,Petrol,Dealer,Manual,First Owner,22.9,1995,149.2,5,No,3889000
+1293,Hyundai,Grand i10,2025,44553,Diesel,Individual,Manual,Third Owner,21.3,1598,123,5,Yes,4073000
+1294,Renault,Duster,2015,140994,Petrol,Individual,Manual,First Owner,21.5,1199,101.9,7,Yes,2738000
+1295,Volkswagen,Polo,2018,127778,CNG,Dealer,Manual,Third Owner,16.7,800,59.4,5,Yes,1910000
+1296,Renault,Triber,2021,122018,Diesel,Individual,Automatic,First Owner,16.3,2494,173,5,Yes,5278000
+1297,Volkswagen,Ameo,2015,140758,Petrol,Individual,Automatic,First Owner,24.2,800,67.5,5,Yes,2044000
+1298,Volkswagen,Vento,2013,37766,Diesel,Dealer,Manual,First Owner,16.1,1199,107.1,7,Yes,2774000
+1299,Mahindra,Scorpio,2015,37006,Petrol,Trustmark Dealer,Automatic,First Owner,19.1,1197,92.9,5,Yes,2835000
+1300,Maruti,Alto,2024,36422,Diesel,Individual,Automatic,Second Owner,23.1,1995,170.8,5,Yes,5274000
+1301,Mahindra,XUV500,2024,121590,Petrol,Dealer,Manual,First Owner,13.3,1497,113.7,5,Yes,3709000
+1302,Volkswagen,Ameo,2019,17205,Diesel,Individual,Manual,First Owner,21.5,1497,118.5,5,No,3649000
+1303,Tata,Altroz,2020,159599,Diesel,Dealer,Manual,Second Owner,21.4,1199,94.8,5,Yes,2990000
+1304,Ford,Aspire,2014,154515,Petrol,Individual,Manual,Second Owner,22.9,800,63.7,4,No,1685000
+1305,Volkswagen,Polo,2018,152596,Petrol,Dealer,Manual,Second Owner,17.9,1497,99.2,5,Yes,2969000
+1306,Mahindra,XUV500,2025,121477,Diesel,Individual,Automatic,First Owner,19.2,1199,90.1,5,Yes,3478000
+1307,Tata,Tiago,2023,33202,Petrol,Dealer,Manual,First Owner,17.3,2198,166.6,5,Yes,5213000
+1308,Mahindra,XUV500,2025,66692,Petrol,Individual,Manual,Fourth & Above Owner,24.9,1000,66,5,Yes,2674000
+1309,Renault,Kwid,2020,25855,Petrol,Individual,Manual,Third Owner,14.1,2198,147.8,5,Yes,4251000
+1310,Honda,City,2022,30095,Petrol,Individual,Manual,Third Owner,27.4,800,65.3,5,Yes,2459000
+1311,Kia,Sonet,2015,174796,LPG,Individual,Manual,First Owner,22.2,1199,90.4,5,Yes,2434000
+1312,Hyundai,i20,2021,54241,Petrol,Individual,Manual,Second Owner,26.2,1197,72.1,4,Yes,2575000
+1313,Mahindra,XUV500,2014,108119,Petrol,Individual,Manual,Second Owner,18.8,1497,126.2,5,Yes,3082000
+1314,Hyundai,i20,2016,57003,Diesel,Dealer,Manual,First Owner,17.3,1497,128.6,7,Yes,3463000
+1315,Toyota,Fortuner,2012,99837,Diesel,Dealer,Manual,Second Owner,26.4,1497,106.8,5,Yes,2755000
+1316,Mahindra,Scorpio,2014,99283,Petrol,Individual,Manual,Second Owner,13.6,1199,74.7,5,Yes,1892000
+1317,Honda,Amaze,2019,152044,Petrol,Dealer,Manual,First Owner,13.9,2198,193.8,5,Yes,5228000
+1318,Hyundai,i20,2022,128805,CNG,Individual,Manual,First Owner,16.8,1197,102.8,5,Yes,3394000
+1319,Volkswagen,Polo,2019,98846,Diesel,Individual,Manual,Second Owner,27.4,1199,76.2,5,Yes,2658000
+1320,Mahindra,Scorpio,2024,27927,Petrol,Individual,Manual,First Owner,22.1,800,46.7,5,Yes,2215000
+1321,Maruti,Alto,2015,125589,Petrol,Individual,Manual,First Owner,20.9,1995,140.5,5,Yes,3774000
+1322,Kia,Seltos,2013,120657,Petrol,Individual,Automatic,First Owner,23.3,800,62.9,5,Yes,1728000
+1323,Honda,City,2024,71630,Petrol,Trustmark Dealer,Manual,First Owner,18.7,1000,61.1,5,Yes,2389000
+1324,Hyundai,Grand i10,2019,109428,Petrol,Individual,Manual,Third Owner,24.1,1995,145.6,5,No,4081000
+1325,Honda,City,2019,127035,CNG,Individual,Automatic,First Owner,18.3,800,55.9,5,Yes,2115000
+1326,Tata,Nexon,2021,131244,Petrol,Individual,Automatic,First Owner,25.2,1197,103.1,5,Yes,3403000
+1327,Kia,Seltos,2015,74518,Diesel,Dealer,Manual,Third Owner,16.3,1598,111.9,5,Yes,2960000
+1328,Volkswagen,Polo,2014,86326,Petrol,Dealer,Automatic,First Owner,16.4,1598,117.7,5,Yes,3135000
+1329,Mahindra,XUV500,2013,148277,Diesel,Dealer,Manual,First Owner,20.4,1598,141.3,7,Yes,3652000
+1330,Mahindra,Bolero,2020,125243,Diesel,Trustmark Dealer,Manual,Second Owner,18.9,1000,65.5,5,Yes,2302000
+1331,Mahindra,Scorpio,2012,17748,Petrol,Trustmark Dealer,Automatic,First Owner,22.4,1000,65.1,7,Yes,1620000
+1332,Kia,Sonet,2018,157169,Petrol,Dealer,Manual,First Owner,17.8,1598,132.6,5,Yes,3747000
+1333,Maruti,Swift,2016,139164,Petrol,Individual,Manual,Second Owner,15.7,1497,96.9,5,Yes,2767000
+1334,Toyota,Fortuner,2019,58311,Diesel,Dealer,Manual,Second Owner,19.5,1995,167.8,7,Yes,4781000
+1335,Ford,Figo,2015,27692,CNG,Individual,Manual,Second Owner,21,1995,116.4,5,Yes,3154000
+1336,Renault,Triber,2018,129954,Petrol,Dealer,Manual,Fourth & Above Owner,14.3,1497,88.2,5,Yes,2593000
+1337,Hyundai,i20,2024,159934,Petrol,Dealer,Manual,Second Owner,20.9,2198,190.2,7,Yes,5578000
+1338,Maruti,Swift,2016,135035,Petrol,Dealer,Automatic,Second Owner,17.1,1598,118.1,5,Yes,3372000
+1339,Volkswagen,Polo,2025,84507,Diesel,Individual,Automatic,Second Owner,18.3,1497,120,5,Yes,4218000
+1340,Hyundai,i20,2016,85152,Petrol,Dealer,Automatic,First Owner,16.5,1199,75.4,7,Yes,2426000
+1341,Mahindra,XUV500,2025,9926,Petrol,Trustmark Dealer,Manual,First Owner,26.9,1995,121.3,5,Yes,4131000
+1342,Honda,Amaze,2020,8969,Petrol,Individual,Manual,Second Owner,22.9,1199,101,5,Yes,2935000
+1343,Volkswagen,Ameo,2020,40733,Petrol,Individual,Automatic,First Owner,16.2,1497,101.1,5,Yes,3431000
+1344,Hyundai,i20,2024,74855,Diesel,Individual,Automatic,First Owner,22.3,1497,106.2,5,No,3755000
+1345,Mahindra,Scorpio,2020,46743,Petrol,Trustmark Dealer,Manual,First Owner,25.6,800,44.8,5,Yes,1850000
+1346,Hyundai,Verna,2023,135193,Diesel,Individual,Manual,First Owner,18.4,800,54.8,5,Yes,2435000
+1347,Honda,City,2017,175948,Petrol,Individual,Manual,First Owner,25.3,1197,98.1,4,Yes,2782000
+1348,Mahindra,Bolero,2017,112445,Petrol,Individual,Manual,Second Owner,14.5,1197,100.2,5,Yes,2874000
+1349,Toyota,Etios,2016,25323,Diesel,Individual,Manual,Third Owner,25.2,1000,79.5,7,Yes,2536000
+1350,Maruti,Baleno,2020,21428,LPG,Trustmark Dealer,Automatic,Second Owner,20.6,1000,79.2,5,Yes,2780000
+1351,Tata,Tiago,2021,39578,Diesel,Dealer,Manual,Second Owner,15.6,1598,116.2,5,Yes,3616000
+1352,Renault,Duster,2019,91486,Petrol,Dealer,Manual,First Owner,18.5,800,59.1,5,Yes,1941000
+1353,Kia,Sonet,2018,69140,Petrol,Individual,Manual,First Owner,27.8,1598,129.4,5,No,3741000
+1354,Renault,Kwid,2018,112325,Diesel,Dealer,Manual,First Owner,24.5,1497,95.3,7,Yes,2967000
+1355,Volkswagen,Vento,2017,88829,Petrol,Individual,Manual,Second Owner,21.2,1598,100.8,5,Yes,2781000
+1356,Renault,Kwid,2016,11364,Petrol,Individual,Manual,First Owner,13.8,1497,132.1,5,Yes,3691000
+1357,Mahindra,Bolero,2024,133867,Diesel,Individual,Manual,First Owner,18.7,1995,111.7,5,Yes,3968000
+1358,Toyota,Etios,2015,171421,Diesel,Individual,Manual,Second Owner,16.2,800,47.9,5,Yes,1459000
+1359,Tata,Tiago,2014,136763,LPG,Individual,Manual,First Owner,13.1,1197,89.7,5,Yes,2558000
+1360,Maruti,Dzire,2014,100598,CNG,Individual,Manual,Third Owner,20.7,1598,129.2,5,Yes,3351000
+1361,Maruti,Swift,2017,62062,Diesel,Individual,Manual,Second Owner,26.2,800,59.1,5,Yes,1848000
+1362,Honda,Amaze,2015,149933,Petrol,Individual,Automatic,First Owner,22.8,1995,134.5,5,Yes,3776000
+1363,Kia,Sonet,2023,93302,Petrol,Dealer,Manual,First Owner,16,1199,107,5,Yes,3554000
+1364,Hyundai,Verna,2023,68928,Diesel,Individual,Automatic,Second Owner,21.2,1197,95.3,5,No,3588000
+1365,Toyota,Fortuner,2017,46347,Petrol,Trustmark Dealer,Manual,First Owner,27.1,2494,209.7,7,Yes,5612000
+1366,Hyundai,i20,2014,8121,Petrol,Individual,Automatic,First Owner,23.6,800,45.1,5,Yes,1537000
+1367,Tata,Altroz,2015,88793,Petrol,Dealer,Automatic,First Owner,23,2198,139,5,Yes,3876000
+1368,Renault,Duster,2020,33164,Petrol,Dealer,Manual,Third Owner,27.5,800,54.5,7,Yes,1890000
+1369,Maruti,Dzire,2016,30491,Diesel,Trustmark Dealer,Manual,First Owner,24.8,1497,91.9,5,Yes,2713000
+1370,Tata,Altroz,2024,64222,Petrol,Dealer,Manual,Third Owner,14.2,2198,126.5,5,Yes,4160000
+1371,Renault,Duster,2018,159237,Petrol,Individual,Automatic,Second Owner,17.6,1598,100.5,5,Yes,2932000
+1372,Maruti,Dzire,2021,8748,Petrol,Individual,Manual,First Owner,27.4,1995,147,7,Yes,4465000
+1373,Renault,Triber,2013,31553,Diesel,Individual,Manual,Second Owner,19.8,2198,174.4,5,Yes,4321000
+1374,Kia,Sonet,2025,121547,Petrol,Individual,Manual,First Owner,13.8,1598,131.2,5,Yes,4251000
+1375,Toyota,Fortuner,2025,65380,Petrol,Individual,Automatic,First Owner,19.3,1598,90.3,5,Yes,3591000
+1376,Volkswagen,Ameo,2016,49331,Diesel,Dealer,Manual,Second Owner,23.2,1598,111.8,5,Yes,3104000
+1377,Tata,Altroz,2020,125617,Petrol,Individual,Manual,Second Owner,28,1497,88.7,5,Yes,2899000
+1378,Tata,Nexon,2022,44560,Petrol,Individual,Manual,First Owner,17.2,2198,154.1,5,Yes,4692000
+1379,Ford,Aspire,2014,58865,Petrol,Trustmark Dealer,Manual,Third Owner,20.2,1000,70.2,5,Yes,1757000
+1380,Mahindra,Bolero,2025,80910,Petrol,Dealer,Manual,Second Owner,26.1,1995,144.5,4,Yes,4698000
+1381,Kia,Sonet,2020,140747,CNG,Dealer,Manual,Third Owner,17.7,1199,103.4,5,Yes,3195000
+1382,Kia,Carens,2025,82986,Petrol,Dealer,Manual,First Owner,13.7,800,66.5,7,Yes,2837000
+1383,Hyundai,Grand i10,2022,15068,Diesel,Individual,Automatic,Third Owner,27.2,1497,115.7,5,Yes,3993000
+1384,Renault,Duster,2017,59460,Petrol,Individual,Manual,First Owner,19.8,1197,102.9,5,No,2913000
+1385,Mahindra,XUV500,2015,105766,Petrol,Trustmark Dealer,Manual,First Owner,20,1199,94.4,5,Yes,2392000
+1386,Toyota,Fortuner,2018,51418,Diesel,Trustmark Dealer,Manual,Second Owner,21.9,1995,166.9,5,Yes,4544000
+1387,Toyota,Innova,2019,31206,Petrol,Dealer,Manual,Second Owner,12.1,1497,111.9,5,No,3420000
+1388,Kia,Carens,2017,133180,Petrol,Individual,Manual,First Owner,26.9,1199,88,5,Yes,2574000
+1389,Toyota,Etios,2016,5287,Petrol,Dealer,Manual,First Owner,17.8,800,64.3,7,Yes,1851000
+1390,Ford,Figo,2017,27337,Petrol,Individual,Manual,First Owner,18.4,1598,89,5,Yes,2578000
+1391,Tata,Altroz,2016,156738,Diesel,Individual,Manual,Second Owner,14.8,1598,126.5,5,Yes,3546000
+1392,Honda,City,2019,137233,Petrol,Individual,Manual,First Owner,18.1,1995,175,5,Yes,4853000
+1393,Volkswagen,Polo,2012,105667,CNG,Individual,Automatic,First Owner,24.9,800,64,7,Yes,1671000
+1394,Hyundai,Grand i10,2022,95071,Diesel,Individual,Manual,First Owner,24.8,1199,67.5,5,Yes,2816000
+1395,Renault,Duster,2018,103064,Petrol,Individual,Automatic,Third Owner,27,2494,170.2,5,Yes,4970000
+1396,Volkswagen,Vento,2021,174823,Petrol,Individual,Manual,Second Owner,18.5,1598,133.2,5,Yes,4004000
+1397,Renault,Kwid,2021,111511,Petrol,Individual,Manual,Second Owner,23.3,1000,88.6,5,Yes,2931000
+1398,Maruti,Alto,2022,150830,Diesel,Dealer,Manual,Third Owner,20.1,1199,81.5,5,Yes,2881000
+1399,Volkswagen,Vento,2013,8178,Petrol,Dealer,Automatic,First Owner,24.9,1598,134.9,5,Yes,3597000
+1400,Honda,City,2025,36831,Diesel,Individual,Manual,First Owner,23.4,1199,102.2,5,No,3873000
+1401,Kia,Sonet,2020,138248,Petrol,Individual,Manual,First Owner,17.9,1995,118.3,5,No,3548000
+1402,Ford,Aspire,2012,108306,Diesel,Dealer,Manual,Second Owner,17.4,1197,101.3,5,Yes,2452000
+1403,Tata,Nexon,2022,169726,Petrol,Individual,Manual,First Owner,16,1598,106,5,Yes,3446000
+1404,Tata,Tiago,2021,162699,Diesel,Individual,Manual,First Owner,21.2,1199,90.8,5,Yes,3089000
+1405,Ford,Aspire,2017,117025,Petrol,Dealer,Manual,First Owner,27.4,1197,88.4,5,Yes,2740000
+1406,Mahindra,XUV500,2020,95417,Petrol,Trustmark Dealer,Manual,First Owner,15.2,1197,93.6,5,Yes,3017000
+1407,Maruti,Alto,2012,171494,Petrol,Individual,Automatic,First Owner,13.5,1000,80.9,5,Yes,2112000
+1408,Renault,Triber,2015,16984,Petrol,Individual,Manual,Fourth & Above Owner,13.9,1197,84.3,5,Yes,2325000
+1409,Honda,City,2015,94312,LPG,Individual,Manual,Second Owner,24.5,800,68.9,5,Yes,1897000
+1410,Toyota,Fortuner,2020,88291,Petrol,Individual,Manual,Third Owner,17.6,1197,99.7,7,Yes,2991000
+1411,Volkswagen,Vento,2022,12135,Petrol,Individual,Automatic,Third Owner,15.6,2494,205.7,5,Yes,5909000
+1412,Maruti,Alto,2016,5320,Diesel,Individual,Automatic,First Owner,17.6,1199,85.2,5,Yes,2626000
+1413,Volkswagen,Ameo,2016,157756,Petrol,Individual,Automatic,First Owner,22.3,1197,67.4,5,Yes,2082000
+1414,Honda,City,2017,93774,Petrol,Trustmark Dealer,Manual,Second Owner,20.7,2198,158.8,5,Yes,4314000
+1415,Hyundai,Creta,2012,157961,Diesel,Dealer,Automatic,Second Owner,23.9,800,69.2,5,Yes,1748000
+1416,Hyundai,Creta,2012,103071,Petrol,Dealer,Manual,First Owner,17.4,1497,92.3,5,Yes,2485000
+1417,Maruti,Dzire,2020,146842,CNG,Dealer,Manual,Fourth & Above Owner,19.2,800,71.5,5,Yes,2311000
+1418,Kia,Sonet,2014,175393,Petrol,Individual,Manual,First Owner,13.6,1995,166.1,5,Yes,4279000
+1419,Honda,City,2015,114863,Petrol,Dealer,Manual,First Owner,13.2,1497,119.5,5,Yes,3053000
+1420,Honda,City,2012,46777,Diesel,Individual,Automatic,Second Owner,19.4,1000,78.7,5,Yes,1986000
+1421,Ford,EcoSport,2020,51250,Diesel,Individual,Manual,First Owner,16.8,800,60.4,4,Yes,2267000
+1422,Kia,Carens,2019,78034,Petrol,Dealer,Manual,First Owner,21.8,1995,160,4,Yes,4586000
+1423,Renault,Kwid,2013,109940,Diesel,Dealer,Automatic,First Owner,12.7,800,55.8,5,Yes,1614000
+1424,Renault,Triber,2019,45130,Petrol,Dealer,Automatic,First Owner,13.9,1197,101.2,5,Yes,3191000
+1425,Toyota,Fortuner,2018,138609,Petrol,Individual,Manual,Second Owner,25.8,1598,126.8,5,Yes,3625000
+1426,Tata,Tiago,2022,20216,CNG,Trustmark Dealer,Manual,Third Owner,21.1,1598,131,5,Yes,3988000
+1427,Hyundai,Grand i10,2017,89149,Petrol,Trustmark Dealer,Automatic,Third Owner,23.4,1995,165.1,5,Yes,4389000
+1428,Renault,Duster,2012,8009,Petrol,Individual,Manual,Second Owner,25.5,800,46.6,5,Yes,1261000
+1429,Kia,Sonet,2018,94904,Diesel,Individual,Manual,First Owner,19.4,1995,113.6,5,Yes,3339000
+1430,Honda,Amaze,2021,165399,CNG,Individual,Manual,First Owner,24.2,1000,83,5,Yes,2756000
+1431,Renault,Duster,2018,150281,Petrol,Trustmark Dealer,Manual,First Owner,20.4,1598,102.4,5,No,3052000
+1432,Honda,Jazz,2024,20029,Petrol,Individual,Automatic,First Owner,15.6,2198,165.7,5,Yes,5276000
+1433,Renault,Triber,2025,107171,Diesel,Individual,Manual,First Owner,17.4,1497,105.6,7,Yes,3858000
+1434,Hyundai,i20,2020,119456,CNG,Individual,Manual,Second Owner,19.8,1197,66.8,5,Yes,2445000
+1435,Volkswagen,Ameo,2012,67559,Diesel,Individual,Manual,Third Owner,17.1,2198,124,7,Yes,3107000
+1436,Renault,Triber,2013,69892,Petrol,Dealer,Manual,First Owner,17.4,2198,184.5,5,Yes,4655000
+1437,Kia,Sonet,2022,75409,Petrol,Individual,Manual,Second Owner,17.4,1199,91.4,5,Yes,3109000
+1438,Renault,Triber,2020,144707,Petrol,Trustmark Dealer,Manual,First Owner,14,2198,161.2,5,Yes,4675000
+1439,Tata,Tiago,2024,38065,Diesel,Dealer,Manual,Second Owner,13.4,1497,131.8,5,Yes,4206000
+1440,Hyundai,i20,2020,125544,Diesel,Dealer,Manual,Second Owner,12.7,1497,91.4,5,Yes,3046000
+1441,Kia,Seltos,2024,112340,Diesel,Individual,Manual,First Owner,13.8,1197,76.6,7,Yes,2993000
+1442,Ford,Aspire,2017,38783,LPG,Individual,Manual,First Owner,17.5,1995,162.6,5,Yes,4414000
+1443,Kia,Seltos,2017,39152,Petrol,Individual,Manual,Third Owner,21.5,2494,204.8,4,Yes,5348000
+1444,Tata,Altroz,2015,63741,Petrol,Individual,Manual,Second Owner,15,2494,172.5,4,Yes,4669000
+1445,Volkswagen,Polo,2015,112049,Petrol,Individual,Automatic,Third Owner,26.2,800,70.6,7,Yes,1910000
+1446,Hyundai,Grand i10,2016,34092,Petrol,Trustmark Dealer,Manual,Second Owner,24.9,800,70.3,7,Yes,2151000
+1447,Ford,Figo,2014,153725,Petrol,Individual,Manual,Fourth & Above Owner,20.3,1497,83,5,Yes,2255000
+1448,Tata,Tiago,2012,176541,Petrol,Individual,Manual,First Owner,23.6,800,48.8,5,Yes,1277000
+1449,Tata,Tiago,2012,91483,Diesel,Individual,Automatic,First Owner,17.9,1199,100.4,5,Yes,2584000
+1450,Maruti,Baleno,2023,126585,CNG,Individual,Manual,First Owner,12.6,800,53.4,5,Yes,2449000
+1451,Hyundai,Creta,2024,64754,Petrol,Trustmark Dealer,Automatic,First Owner,26.5,1000,58.3,5,Yes,2607000
+1452,Kia,Seltos,2018,166050,Petrol,Individual,Manual,First Owner,14,1000,82.5,5,Yes,2556000
+1453,Honda,Jazz,2012,92592,Petrol,Individual,Automatic,Second Owner,27.2,1199,85,5,Yes,2184000
+1454,Volkswagen,Vento,2012,99543,Diesel,Dealer,Automatic,First Owner,21.2,2198,158.8,5,Yes,4049000
+1455,Honda,Jazz,2014,48169,Diesel,Individual,Manual,First Owner,16.9,1000,61.5,7,Yes,1876000
+1456,Kia,Seltos,2021,59745,Diesel,Individual,Manual,Third Owner,19.9,2494,194.9,5,Yes,5683000
+1457,Kia,Carens,2015,115168,Petrol,Individual,Manual,First Owner,20,2494,185.3,5,Yes,4805000
+1458,Hyundai,i20,2015,118985,Petrol,Individual,Manual,First Owner,12.4,1000,62.2,5,Yes,1996000
+1459,Kia,Carens,2013,10543,Petrol,Individual,Manual,Second Owner,17.7,800,53.5,5,Yes,1416000
+1460,Maruti,Swift,2012,26067,Diesel,Individual,Manual,Second Owner,23.8,2494,189.3,5,Yes,4691000
+1461,Ford,EcoSport,2014,56033,Diesel,Dealer,Manual,First Owner,20.2,1000,87.4,5,Yes,2282000
+1462,Kia,Sonet,2022,50256,Diesel,Individual,Manual,First Owner,15.9,2198,191.7,5,Yes,5523000
+1463,Honda,City,2015,158263,Petrol,Dealer,Manual,Second Owner,17.4,1197,77.9,5,Yes,2106000
+1464,Kia,Sonet,2014,91803,Diesel,Dealer,Manual,First Owner,25.8,800,64.6,5,Yes,1807000
+1465,Maruti,Dzire,2019,123843,CNG,Individual,Manual,First Owner,20.4,800,65.7,5,Yes,2142000
+1466,Renault,Duster,2025,33992,Petrol,Individual,Automatic,Second Owner,20.5,1000,83.3,5,Yes,3170000
+1467,Renault,Duster,2021,53803,Petrol,Individual,Manual,First Owner,27.4,1995,149.6,5,Yes,4430000
+1468,Tata,Altroz,2012,114975,CNG,Dealer,Manual,First Owner,17.1,1598,88.5,5,Yes,2382000
+1469,Volkswagen,Ameo,2025,149282,Petrol,Individual,Manual,First Owner,19.7,1000,81.7,5,Yes,2946000
+1470,Toyota,Fortuner,2013,31270,CNG,Dealer,Manual,Fourth & Above Owner,25,1199,70.4,5,Yes,1623000
+1471,Ford,Aspire,2024,141269,LPG,Individual,Manual,Third Owner,24.1,1000,59.1,5,Yes,2254000
+1472,Mahindra,Bolero,2018,12452,Diesel,Trustmark Dealer,Manual,First Owner,16.3,800,61,5,Yes,2065000
+1473,Tata,Nexon,2015,46486,Diesel,Individual,Automatic,First Owner,14.4,1197,107,5,Yes,3114000
+1474,Volkswagen,Ameo,2019,19859,Diesel,Individual,Manual,First Owner,23.2,1199,76.1,5,Yes,2590000
+1475,Renault,Kwid,2022,163308,Diesel,Individual,Manual,First Owner,16.1,1497,116.2,5,Yes,3698000
+1476,Honda,City,2024,167971,Petrol,Individual,Automatic,First Owner,26.8,1497,98.2,7,No,3507000
+1477,Mahindra,XUV500,2014,37083,Petrol,Individual,Manual,Second Owner,14.1,1995,172.5,5,Yes,4155000
+1478,Volkswagen,Vento,2017,72708,Petrol,Dealer,Automatic,First Owner,17.1,2198,166.5,5,Yes,4699000
+1479,Volkswagen,Vento,2020,116462,Diesel,Dealer,Automatic,First Owner,12.9,2494,155.3,5,Yes,4844000
+1480,Tata,Tiago,2012,152735,Petrol,Dealer,Manual,First Owner,23.3,1995,128,5,Yes,3131000
+1481,Mahindra,Bolero,2012,98076,Petrol,Individual,Manual,First Owner,26.3,1497,105,5,Yes,2608000
+1482,Hyundai,Creta,2019,24053,Petrol,Dealer,Manual,First Owner,22.2,2494,147.8,5,Yes,4358000
+1483,Toyota,Innova,2014,147157,Diesel,Individual,Manual,First Owner,27,2198,126.9,5,No,3318000
+1484,Hyundai,Grand i10,2016,166636,LPG,Individual,Manual,Second Owner,14.1,2494,196.5,5,Yes,4996000
+1485,Mahindra,Bolero,2012,94745,LPG,Individual,Automatic,Second Owner,13.4,2198,152.2,7,Yes,3981000
+1486,Hyundai,i20,2016,74517,Petrol,Individual,Manual,First Owner,25.4,1598,128.5,5,Yes,3487000
+1487,Maruti,Dzire,2022,157225,Diesel,Individual,Manual,First Owner,25.7,1199,70.6,4,Yes,2701000
+1488,Renault,Duster,2017,141319,Diesel,Individual,Manual,First Owner,25.3,2494,190.4,5,Yes,5058000
+1489,Maruti,Baleno,2019,146625,Petrol,Individual,Manual,First Owner,24.8,2494,175.9,5,Yes,4859000
+1490,Kia,Sonet,2024,156883,Diesel,Trustmark Dealer,Manual,Second Owner,17.8,2494,142.2,5,Yes,4654000
+1491,Hyundai,Creta,2025,142207,Petrol,Individual,Automatic,First Owner,15.5,1197,88.7,4,Yes,3306000
+1492,Kia,Seltos,2014,141645,CNG,Trustmark Dealer,Manual,Second Owner,26.9,1197,69.3,5,Yes,2036000
+1493,Honda,Jazz,2014,84267,Petrol,Dealer,Manual,Second Owner,16.9,1598,134.2,5,No,3242000
+1494,Ford,Figo,2023,143261,Petrol,Individual,Manual,Third Owner,18.4,1598,123.2,5,Yes,3781000
+1495,Honda,Jazz,2022,85077,Diesel,Dealer,Manual,Third Owner,23.2,1598,119,5,Yes,3630000
+1496,Mahindra,Bolero,2022,179718,Petrol,Individual,Manual,First Owner,16.7,1497,89.3,4,Yes,3179000
+1497,Volkswagen,Polo,2021,81623,Petrol,Dealer,Manual,Fourth & Above Owner,25.1,1497,97.4,5,Yes,3074000
+1498,Renault,Duster,2020,136004,Diesel,Individual,Manual,Second Owner,13.1,1000,72.3,5,No,2450000
+1499,Hyundai,Verna,2015,58687,Petrol,Trustmark Dealer,Automatic,Second Owner,24.7,1995,153.9,5,Yes,4133000
+1500,Tata,Altroz,2015,73312,Diesel,Dealer,Manual,First Owner,21.6,1199,73.6,5,Yes,2324000
